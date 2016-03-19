@@ -1,4 +1,4 @@
-- domo:
+﻿- domo:
     aŭtoro: Rob Ketlaer
     tabuoj:
         - ĉambro
@@ -4317,3 +4317,274 @@
         - vintro
         - monto
         - ronĝi
+
+- poneo:
+    aŭtoro: Timwi Heizmann
+    tabuoj:
+        - ĉevalo
+        - zebro
+        - rajdi
+        - besto
+        - knabino
+
+- krepusko:
+    aŭtoro: Timwi Heizmann
+    tabuoj:
+        - hela
+        - tago
+        - nokto
+        - lumo
+        - suno
+
+- fajrero:
+    aŭtoro: Timwi Heizmann
+    tabuoj:
+        - bruli
+        - flamo
+        - incendio
+        - flugi
+        - lumi
+
+- raraĵo:
+    aŭtoro: Timwi Heizmann
+    tabuoj:
+        - malofta
+        - valora
+        - oro
+        - diamanto
+        - juvelo
+
+- impeto:
+    aŭtoro: Timwi Heizmann
+    tabuoj:
+        - forto
+        - ĵeti
+        - svingi
+        - puŝi
+        - salti
+
+- vibri:
+    aŭtoro: Timwi Heizmann
+    tabuoj:
+        - movi
+        - zumi
+        - sono
+        - sonori
+        - tremi
+
+- timo:
+    aŭtoro: Timwi Heizmann
+    tabuoj:
+        - sento
+        - imagi
+        - minaco
+        - danĝero
+        - tremi
+
+- akiri:
+    aŭtoro: Timwi Heizmann
+    tabuoj:
+        - havi
+        - aĉeti
+        - atingi
+        - gajni
+        - preni
+
+- medicino:
+    aŭtoro: Timwi Heizmann
+    tabuoj:
+        - kuraci
+        - malsana
+        - apoteko
+        - pilolo
+        - gluti
+
+- ina:
+    aŭtoro: Timwi Heizmann
+    tabuoj:
+        - vira
+        - malo
+        - sekso
+        - li
+        - ŝi
+
+- intence:
+    aŭtoro: Timwi Heizmann
+    tabuoj:
+        - fari
+        - voli
+        - celi
+        - aspiri
+        - plani
+
+- skribilo:
+    aŭtoro: Timwi Heizmann
+    tabuoj:
+        - inko
+        - krajono
+        - grifelo
+        - papero
+        - teksto
+
+- IJK:
+    aŭtoro: Timwi Heizmann
+    tabuoj:
+        - Esperanto
+        - renkontiĝo
+        - kunveno
+        - jaro
+        - lando
+
+- pardonu:
+    aŭtoro: Timwi Heizmann
+    tabuoj:
+        - peti
+        - bedaŭri
+        - maljusta
+        - kulpa
+        - ofendo
+
+- saluti:
+    aŭtoro: Timwi Heizmann
+    tabuoj:
+        - ĝis
+        - adiaŭ
+        - alveni
+        - akceptejo
+        - mansvingi
+
+- ĝis:
+    aŭtoro: Timwi Heizmann
+    tabuoj:
+        - revido
+        - adiaŭ
+        - foriri
+        - mansvingi
+        - prepozicio
+
+- adiaŭ:
+    aŭtoro: Timwi Heizmann
+    tabuoj:
+        - saluti
+        - ĝis
+        - foriri
+        - mansvingi
+        - bonfarti
+
+- hodiaŭ:
+    aŭtoro: Timwi Heizmann
+    tabuoj:
+        - morgaŭ
+        - hieraŭ
+        - tago
+        - nun
+        - ĉi
+
+- morgaŭ:
+    aŭtoro: Timwi Heizmann
+    tabuoj:
+        - hodiaŭ
+        - hieraŭ
+        - tago
+        - sekvonta
+        - proksima
+
+- hieraŭ:
+    aŭtoro: Timwi Heizmann
+    tabuoj:
+        - hodiaŭ
+        - morgaŭ
+        - tago
+        - pasinta
+        - antaŭ
+
+- Vindozo:
+    aŭtoro: Timwi Heizmann
+    tabuoj:
+        - fenestro
+        - Microsoft
+        - komputilo
+        - sistemo
+        - Linukso
+
+- dupunkto:
+    aŭtoro: Timwi Heizmann
+    tabuoj:
+        - interpunkcio
+        - signo
+        - frazo
+        - teksto
+        - listo
+
+- mezo:
+    aŭtoro: Timwi Heizmann
+    tabuoj:
+        - centro
+        - kerno
+        - manĝi
+        - nokto
+        - tra
+
+- Usono:
+    aŭtoro: Timwi Heizmann
+    tabuoj:
+        - lando
+        - Vaŝingtono
+        - Ameriko
+        - prezidento
+        - ŝtato
+
+- Eŭropo:
+    aŭtoro: Timwi Heizmann
+    tabuoj:
+        - kontinento
+        - landoj
+        - Germanio
+        - Francio
+        - Hispanio
+
+- Rusio:
+    aŭtoro: Timwi Heizmann
+    tabuoj:
+        - Azio
+        - lando
+        - Putino
+        - soveto
+        - Moskvo
+
+- litero:
+    aŭtoro: Timwi Heizmann
+    tabuoj:
+        - skribi
+        - vorto
+        - signo
+        - frazo
+        - teksto
+
+- pluralo:
+    aŭtoro: Timwi Heizmann
+    tabuoj:
+        - substantivo
+        - multe
+        - pluraj
+        - pli
+        - unu
+
+- Verda Stelo:
+    aŭtoro: Timwi Heizmann
+    tabuoj:
+        - Esperanto
+        - simbolo
+        - koloro
+        - Zamenhof
+        - flago
+
+- spesmilo:
+    aŭtoro: Timwi Heizmann
+    tabuoj:
+        - mono
+        - valuto
+        - fikcia
+        - inventi
+        - René de Saussure
+
