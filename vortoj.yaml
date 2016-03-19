@@ -1,0 +1,3840 @@
+domo:
+    tabu1: ĉambro
+    tabu2: loĝi
+    tabu3: urbo
+    tabu4: tegmento
+    tabu5: konstruaĵo
+    aŭtoro: Rob Ketlaer
+
+aŭto:
+    tabu1: veturi
+    tabu2: strato
+    tabu3: motoro
+    tabu4: rapida
+    tabu5: trafiko
+    aŭtoro: Rob Ketlaer
+
+fenestro:
+    tabu1: pordo
+    tabu2: domo
+    tabu3: vitro
+    tabu4: kurteno
+    tabu5: ĉambro
+    aŭtoro: Rob Ketlaer
+
+mi:
+    tabu1: vi
+    tabu2: ni
+    tabu3: unu
+    tabu4: homo
+    tabu5: pronomo
+    aŭtoro: Rob Ketlaer
+
+dorso:
+    tabu1: ventro
+    tabu2: pugo
+    tabu3: malantaŭ
+    tabu4: ŝultro
+    tabu5: korpo
+    aŭtoro: Rob Ketlaer
+
+kulero:
+    tabu1: forko
+    tabu2: tranĉilo
+    tabu3: manĝi
+    tabu4: supo
+    tabu5: kafo
+    aŭtoro: Rob Ketlaer
+
+fajro:
+    tabu1: flamo
+    tabu2: bruli
+    tabu3: varma
+    tabu4: ligno
+    tabu5: lumo
+    aŭtoro: Rob Ketlaer
+
+simio:
+    tabu1: animalo
+    tabu2: besto
+    tabu3: Afriko
+    tabu4: banano
+    tabu5: arbo
+    aŭtoro: Rob Ketlaer
+
+sapo:
+    tabu1: lavi
+    tabu2: purigi
+    tabu3: akvo
+    tabu4: ŝaŭmo
+    tabu5: bani
+    aŭtoro: Rob Ketlaer
+
+filmo:
+    tabu1: kino
+    tabu2: bildo
+    tabu3: aktoro
+    tabu4: ekrano
+    tabu5: foto
+    aŭtoro: Rob Ketlaer
+
+ovo:
+    tabu1: koko
+    tabu2: birdo
+    tabu3: ŝelo
+    tabu4: blanka
+    tabu5: flava
+    aŭtoro: Rob Ketlaer
+
+insekto:
+    tabu1: besto
+    tabu2: animalo
+    tabu3: skarabo
+    tabu4: muŝo
+    tabu5: kruro
+    aŭtoro: Rob Ketlaer
+
+butono:
+    tabu1: vesto
+    tabu2: kudri
+    tabu3: ronda
+    tabu4: truo
+    tabu5: fadeno
+    aŭtoro: Rob Ketlaer
+
+donaco:
+    tabu1: naskiĝtago
+    tabu2: skatolo
+    tabu3: doni
+    tabu4: surprizo
+    tabu5: Kristnasko
+    aŭtoro: Rob Ketlaer
+
+desegno:
+    tabu1: krajono
+    tabu2: bildo
+    tabu3: arto
+    tabu4: papero
+    tabu5: pentri
+    aŭtoro: Rob Ketlaer
+
+korno:
+    tabu1: bovo
+    tabu2: kapo
+    tabu3: osto
+    tabu4: malmola
+    tabu5: besto
+    aŭtoro: Rob Ketlaer
+
+lampo:
+    tabu1: lumo
+    tabu2: hela
+    tabu3: nokto
+    tabu4: ŝalti
+    tabu5: ampolo
+    aŭtoro: Rob Ketlaer
+
+pomo:
+    tabu1: manĝi
+    tabu2: ronda
+    tabu3: arbo
+    tabu4: frukto
+    tabu5: kreski
+    aŭtoro: Rob Ketlaer
+
+lingvo:
+    tabu1: paroli
+    tabu2: legi
+    tabu3: skribi
+    tabu4: komuniki
+    tabu5: vorto
+    aŭtoro: Rob Ketlaer
+
+ŝipo:
+    tabu1: maro
+    tabu2: rivero
+    tabu3: boato
+    tabu4: veturi
+    tabu5: akvo
+    aŭtoro: Rob Ketlaer
+
+orelo:
+    tabu1: aŭdi
+    tabu2: aŭskulti
+    tabu3: kapo
+    tabu4: flanko
+    tabu5: vizaĝo
+    aŭtoro: Rob Ketlaer
+
+radio:
+    tabu1: aŭdi
+    tabu2: aŭskulti
+    tabu3: programo
+    tabu4: aparato
+    tabu5: elsendo
+    aŭtoro: Rob Ketlaer
+
+fromaĝo:
+    tabu1: lakto
+    tabu2: manĝi
+    tabu3: kolbaso
+    tabu4: kazeo
+    tabu5: bovino
+    aŭtoro: Rob Ketlaer
+
+elefanto:
+    tabu1: rostro
+    tabu2: granda
+    tabu3: besto
+    tabu4: animalo
+    tabu5: griza
+    aŭtoro: Rob Ketlaer
+
+telero:
+    tabu1: taso
+    tabu2: manĝi
+    tabu3: vazaro
+    tabu4: ronda
+    tabu5: plado
+    aŭtoro: Rob Ketlaer
+
+muŝo:
+    tabu1: besto
+    tabu2: animalo
+    tabu3: insekto
+    tabu4: flugi
+    tabu5: malgranda
+    aŭtoro: Rob Ketlaer
+
+ŝerco:
+    tabu1: ridi
+    tabu2: gaja
+    tabu3: rakonto
+    tabu4: paroli
+    tabu5: legi
+    aŭtoro: Rob Ketlaer
+
+ĝirafo:
+    tabu1: animalo
+    tabu2: besto
+    tabu3: Afriko
+    tabu4: kolo
+    tabu5: granda
+    aŭtoro: Rob Ketlaer
+
+horo:
+    tabu1: minuto
+    tabu2: sekundo
+    tabu3: tempo
+    tabu4: horloĝo
+    tabu5: tago
+    aŭtoro: Rob Ketlaer
+
+ludilo:
+    tabu1: infano
+    tabu2: pilko
+    tabu3: pupo
+    tabu4: amuzi
+    tabu5: urso
+    aŭtoro: Rob Ketlaer
+
+piedo:
+    tabu1: kruro
+    tabu2: ŝuo
+    tabu3: ŝtrumpo
+    tabu4: iri
+    tabu5: kuri
+    aŭtoro: Rob Ketlaer
+
+bruli:
+    tabu1: fajro
+    tabu2: flamo
+    tabu3: varma
+    tabu4: hela
+    tabu5: ligno
+    aŭtoro: Rob Ketlaer
+
+ombro:
+    tabu1: lumo
+    tabu2: suno
+    tabu3: malhela
+    tabu4: nigra
+    tabu5: vidi
+    aŭtoro: Rob Ketlaer
+
+faruno:
+    tabu1: tritiko
+    tabu2: pano
+    tabu3: kuko
+    tabu4: baki
+    tabu5: mueli
+    aŭtoro: Rob Ketlaer
+
+kuko:
+    tabu1: faruno
+    tabu2: manĝi
+    tabu3: dolĉa
+    tabu4: sukero
+    tabu5: baki
+    aŭtoro: Rob Ketlaer
+
+insulo:
+    tabu1: maro
+    tabu2: akvo
+    tabu3: tero
+    tabu4: oceano
+    tabu5: ŝipo
+    aŭtoro: Rob Ketlaer
+
+krokodilo:
+    tabu1: besto
+    tabu2: dento
+    tabu3: rivero
+    tabu4: Esperanto
+    tabu5: danĝera
+    aŭtoro: Rob Ketlaer
+
+banano:
+    tabu1: frukto
+    tabu2: flava
+    tabu3: kurba
+    tabu4: longa
+    tabu5: manĝi
+    aŭtoro: Rob Ketlaer
+
+tomato:
+    tabu1: ruĝa
+    tabu2: legomo
+    tabu3: manĝi
+    tabu4: kreski
+    tabu5: planto
+    aŭtoro: Rob Ketlaer
+
+verbo:
+    tabu1: vorto
+    tabu2: agi
+    tabu3: substantivo
+    tabu4: adjektivo
+    tabu5: adverbo
+    aŭtoro: Rob Ketlaer
+
+mensogi:
+    tabu1: diri
+    tabu2: malvero
+    tabu3: ŝajnigi
+    tabu4: trompi
+    tabu5: honesta
+    aŭtoro: Rob Ketlaer
+
+plori:
+    tabu1: larmo
+    tabu2: doloro
+    tabu3: ĝemi
+    tabu4: malĝojo
+    tabu5: okulo
+    aŭtoro: Rob Ketlaer
+
+morto:
+    tabu1: maljuna
+    tabu2: naskiĝi
+    tabu3: vivo
+    tabu4: fino
+    tabu5: perdi
+    aŭtoro: Rob Ketlaer
+
+trajno:
+    tabu1: vagono
+    tabu2: relo
+    tabu3: veturi
+    tabu4: fervojo
+    tabu5: rapida
+    aŭtoro: Rob Ketlaer
+
+buŝo:
+    tabu1: vizaĝo
+    tabu2: manĝi
+    tabu3: paroli
+    tabu4: nazo
+    tabu5: kapo
+    aŭtoro: Rob Ketlaer
+
+junulo:
+    tabu1: infano
+    tabu2: homo
+    tabu3: plenkreskulo
+    tabu4: viro
+    tabu5: knabo
+    aŭtoro: Rob Ketlaer
+
+pagi:
+    tabu1: mono
+    tabu2: aĉeti
+    tabu3: vendi
+    tabu4: doni
+    tabu5: elspezi
+    aŭtoro: Rob Ketlaer
+
+sukero:
+    tabu1: dolĉa
+    tabu2: frandaĵo
+    tabu3: kafo
+    tabu4: bombono
+    tabu5: infano
+    aŭtoro: Rob Ketlaer
+
+dento:
+    tabu1: buŝo
+    tabu2: manĝi
+    tabu3: maĉi
+    tabu4: mordi
+    tabu5: malmola
+    aŭtoro: Rob Ketlaer
+
+veneno:
+    tabu1: mortigi
+    tabu2: substanco
+    tabu3: serpento
+    tabu4: araneo
+    tabu5: drogo
+    aŭtoro: Rob Ketlaer
+
+iri:
+    tabu1: kuri
+    tabu2: promeni
+    tabu3: piedo
+    tabu4: kruro
+    tabu5: moviĝi
+    aŭtoro: Rob Ketlaer
+
+spegulo:
+    tabu1: vitro
+    tabu2: metalo
+    tabu3: lumo
+    tabu4: rigardi
+    tabu5: bildo
+    aŭtoro: Rob Ketlaer
+
+lerni:
+    tabu1: instrui
+    tabu2: scii
+    tabu3: infano
+    tabu4: memori
+    tabu5: ekzerci
+    aŭtoro: Rob Ketlaer
+
+ronki:
+    tabu1: dormi
+    tabu2: bruo
+    tabu3: nokto
+    tabu4: lito
+    tabu5: sonĝi
+    aŭtoro: Rob Ketlaer
+
+tramo:
+    tabu1: veturi
+    tabu2: trajno
+    tabu3: relo
+    tabu4: urbo
+    tabu5: strato
+    aŭtoro: Rob Ketlaer
+
+matematiko:
+    tabu1: kalkuli
+    tabu2: nombro
+    tabu3: scienco
+    tabu4: fako
+    tabu5: lernejo
+    aŭtoro: Rob Ketlaer
+
+universitato:
+    tabu1: lerni
+    tabu2: instrui
+    tabu3: profesoro
+    tabu4: studento
+    tabu5: doktoro
+    aŭtoro: Rob Ketlaer
+
+elektro:
+    tabu1: lampo
+    tabu2: ŝalti
+    tabu3: drato
+    tabu4: kurento
+    tabu5: energio
+    aŭtoro: Rob Ketlaer
+
+turo:
+    tabu1: konstruaĵo
+    tabu2: alta
+    tabu3: ŝako
+    tabu4: preĝejo
+    tabu5: domo
+    aŭtoro: Rob Ketlaer
+
+sago:
+    tabu1: arko
+    tabu2: pafi
+    tabu3: pinto
+    tabu4: montri
+    tabu5: direkto
+    aŭtoro: Rob Ketlaer
+
+tago:
+    tabu1: tempo
+    tabu2: monato
+    tabu3: jaro
+    tabu4: semajno
+    tabu5: nokto
+    aŭtoro: Rob Ketlaer
+
+horloĝo:
+    tabu1: horo
+    tabu2: minuto
+    tabu3: sekundo
+    tabu4: tempo
+    tabu5: montrilo
+    aŭtoro: Rob Ketlaer
+
+suno:
+    tabu1: luno
+    tabu2: varma
+    tabu3: hela
+    tabu4: ĉielo
+    tabu5: stelo
+    aŭtoro: Rob Ketlaer
+
+semajno:
+    tabu1: tago
+    tabu2: lundo
+    tabu3: vendredo
+    tabu4: dimanĉo
+    tabu5: monato
+    aŭtoro: Rob Ketlaer
+
+ventro:
+    tabu1: stomako
+    tabu2: korpo
+    tabu3: brusto
+    tabu4: kapo
+    tabu5: brako
+    aŭtoro: Rob Ketlaer
+
+haro:
+    tabu1: kapo
+    tabu2: virino
+    tabu3: longa
+    tabu4: maldika
+    tabu5: kombi
+    aŭtoro: Rob Ketlaer
+
+herbo:
+    tabu1: planto
+    tabu2: ĝardeno
+    tabu3: tero
+    tabu4: verda
+    tabu5: gazono
+    aŭtoro: Rob Ketlaer
+
+telfero:
+    tabu1: veturi
+    tabu2: monto
+    tabu3: funikularo
+    tabu4: vagono
+    tabu5: kablo
+    aŭtoro: Rob Ketlaer
+
+nubo:
+    tabu1: blanka
+    tabu2: ĉielo
+    tabu3: pluvi
+    tabu4: vaporo
+    tabu5: vetero
+    aŭtoro: Rob Ketlaer
+
+soldato:
+    tabu1: milito
+    tabu2: batali
+    tabu3: armeo
+    tabu4: pafilo
+    tabu5: uniformo
+    aŭtoro: Rob Ketlaer
+
+nokto:
+    tabu1: tago
+    tabu2: nigra
+    tabu3: malhela
+    tabu4: stelo
+    tabu5: luno
+    aŭtoro: Rob Ketlaer
+
+lago:
+    tabu1: akvo
+    tabu2: maro
+    tabu3: boato
+    tabu4: naĝi
+    tabu5: fiŝo
+    aŭtoro: Rob Ketlaer
+
+pado:
+    tabu1: vojo
+    tabu2: iri
+    tabu3: strato
+    tabu4: promeni
+    tabu5: arbaro
+    aŭtoro: Rob Ketlaer
+
+ĉielo:
+    tabu1: blua
+    tabu2: nubo
+    tabu3: suno
+    tabu4: supre
+    tabu5: stelo
+    aŭtoro: Rob Ketlaer
+
+fadeno:
+    tabu1: kudri
+    tabu2: longa
+    tabu3: maldika
+    tabu4: ŝnuro
+    tabu5: ŝtofo
+    aŭtoro: Rob Ketlaer
+
+ankro:
+    tabu1: ŝipo
+    tabu2: maro
+    tabu3: fiksi
+    tabu4: ŝnuro
+    tabu5: fero
+    aŭtoro: Rob Ketlaer
+
+vitro:
+    tabu1: fenestro
+    tabu2: malmola
+    tabu3: travidebla
+    tabu4: substanco
+    tabu5: rompebla
+    aŭtoro: Rob Ketlaer
+
+fabelo:
+    tabu1: legendo
+    tabu2: rakonto
+    tabu3: fantazio
+    tabu4: aventuro
+    tabu5: mensogi
+    aŭtoro: Rob Ketlaer
+
+libro:
+    tabu1: legi
+    tabu2: vorto
+    tabu3: litero
+    tabu4: papero
+    tabu5: paĝo
+    aŭtoro: Rob Ketlaer
+
+renkontiĝo:
+    tabu1: Esperanto
+    tabu2: homoj
+    tabu3: kunveno
+    tabu4: prelego
+    tabu5: paroli
+    aŭtoro: Rob Ketlaer
+
+nazo:
+    tabu1: vizaĝo
+    tabu2: flari
+    tabu3: odoro
+    tabu4: okulo
+    tabu5: buŝo
+    aŭtoro: Rob Ketlaer
+
+vetero:
+    tabu1: nubo
+    tabu2: vento
+    tabu3: suno
+    tabu4: pluvi
+    tabu5: neĝi
+    aŭtoro: Rob Ketlaer
+
+tritiko:
+    tabu1: pano
+    tabu2: grajno
+    tabu3: faruno
+    tabu4: baki
+    tabu5: greno
+    aŭtoro: Rob Ketlaer
+
+barbo:
+    tabu1: haro
+    tabu2: vizaĝo
+    tabu3: buŝo
+    tabu4: nazo
+    tabu5: vango
+    aŭtoro: Rob Ketlaer
+
+muso:
+    tabu1: malgranda
+    tabu2: besto
+    tabu3: animalo
+    tabu4: kato
+    tabu5: griza
+    aŭtoro: Rob Ketlaer
+
+mielo:
+    tabu1: abelo
+    tabu2: manĝi
+    tabu3: dolĉa
+    tabu4: sukero
+    tabu5: urso
+    aŭtoro: Rob Ketlaer
+
+bruo:
+    tabu1: laŭta
+    tabu2: sono
+    tabu3: aŭdi
+    tabu4: orelo
+    tabu5: krii
+    aŭtoro: Rob Ketlaer
+
+serpento:
+    tabu1: longa
+    tabu2: maldika
+    tabu3: veneno
+    tabu4: besto
+    tabu5: piedo
+    aŭtoro: Rob Ketlaer
+
+minuto:
+    tabu1: horo
+    tabu2: sekundo
+    tabu3: tempo
+    tabu4: horloĝo
+    tabu5: tago
+    aŭtoro: Rob Ketlaer
+
+verda:
+    tabu1: ruĝa
+    tabu2: blua
+    tabu3: flava
+    tabu4: koloro
+    tabu5: farbo
+    aŭtoro: Rob Ketlaer
+
+mano:
+    tabu1: brako
+    tabu2: fingro
+    tabu3: pugno
+    tabu4: ganto
+    tabu5: homo
+    aŭtoro: Rob Ketlaer
+
+lernejo:
+    tabu1: instrui
+    tabu2: domo
+    tabu3: infano
+    tabu4: leciono
+    tabu5: ferioj
+    aŭtoro: Rob Ketlaer
+
+bildo:
+    tabu1: foto
+    tabu2: desegno
+    tabu3: arto
+    tabu4: koloro
+    tabu5: farbo
+    aŭtoro: Rob Ketlaer
+
+pano:
+    tabu1: faruno
+    tabu2: baki
+    tabu3: manĝi
+    tabu4: tritiko
+    tabu5: forno
+    aŭtoro: Rob Ketlaer
+
+blanka:
+    tabu1: hela
+    tabu2: nigra
+    tabu3: koloro
+    tabu4: lumo
+    tabu5: neĝo
+    aŭtoro: Rob Ketlaer
+
+Zamenhof:
+    tabu1: pola
+    tabu2: Esperanto
+    tabu3: Bjalistoko
+    tabu4: lingvo
+    tabu5: okulkuracisto
+    aŭtoro: Rob Ketlaer
+
+papilio:
+    tabu1: besto
+    tabu2: insekto
+    tabu3: flugi
+    tabu4: raŭpo
+    tabu5: floro
+    aŭtoro: Rob Ketlaer
+
+lito:
+    tabu1: dormi
+    tabu2: kuŝi
+    tabu3: sonĝi
+    tabu4: ripozi
+    tabu5: kuseno
+    aŭtoro: Rob Ketlaer
+
+mateno:
+    tabu1: vespero
+    tabu2: frue
+    tabu3: tago
+    tabu4: nokto
+    tabu5: tempo
+    aŭtoro: Rob Ketlaer
+
+substantivo:
+    tabu1: objekto
+    tabu2: adjektivo
+    tabu3: vorto
+    tabu4: verbo
+    tabu5: frazo
+    aŭtoro: Rob Ketlaer
+
+cirko:
+    tabu1: tendo
+    tabu2: klaŭno
+    tabu3: artisto
+    tabu4: leono
+    tabu5: spektaklo
+    aŭtoro: Rob Ketlaer
+
+pluvi:
+    tabu1: akvo
+    tabu2: vetero
+    tabu3: nubo
+    tabu4: suno
+    tabu5: neĝo
+    aŭtoro: Rob Ketlaer
+
+ŝarko:
+    tabu1: besto
+    tabu2: fiŝo
+    tabu3: maro
+    tabu4: dento
+    tabu5: manĝi
+    aŭtoro: Rob Ketlaer
+
+rabisto:
+    tabu1: ŝteli
+    tabu2: krimulo
+    tabu3: polico
+    tabu4: malliberejo
+    tabu5: fripono
+    aŭtoro: Rob Ketlaer
+
+plumo:
+    tabu1: birdo
+    tabu2: flugi
+    tabu3: skribi
+    tabu4: malpeza
+    tabu5: lanugo
+    aŭtoro: Rob Ketlaer
+
+kanti:
+    tabu1: muziko
+    tabu2: voĉo
+    tabu3: aŭdi
+    tabu4: aŭskulti
+    tabu5: sono
+    aŭtoro: Rob Ketlaer
+
+jupo:
+    tabu1: virino
+    tabu2: vestaĵo
+    tabu3: surmeti
+    tabu4: kruro
+    tabu5: talio
+    aŭtoro: Rob Ketlaer
+
+tempo:
+    tabu1: horloĝo
+    tabu2: sekundo
+    tabu3: minuto
+    tabu4: horo
+    tabu5: daŭri
+    aŭtoro: Rob Ketlaer
+
+osto:
+    tabu1: korpo
+    tabu2: homo
+    tabu3: besto
+    tabu4: malmola
+    tabu5: skeleto
+    aŭtoro: Rob Ketlaer
+
+dormi:
+    tabu1: sonĝi
+    tabu2: kuŝi
+    tabu3: ripozi
+    tabu4: lito
+    tabu5: ronki
+    aŭtoro: Rob Ketlaer
+
+globo:
+    tabu1: ronda
+    tabu2: pilko
+    tabu3: tero
+    tabu4: bulo
+    tabu5: cirklo
+    aŭtoro: Rob Ketlaer
+
+okulvitroj:
+    tabu1: orelo
+    tabu2: nazo
+    tabu3: vidi
+    tabu4: miopa
+    tabu5: lenso
+    aŭtoro: Rob Ketlaer
+
+instrui:
+    tabu1: lerni
+    tabu2: sciigi
+    tabu3: eduki
+    tabu4: infano
+    tabu5: montri
+    aŭtoro: Rob Ketlaer
+
+ŝako:
+    tabu1: ludo
+    tabu2: reĝo
+    tabu3: tabulo
+    tabu4: nigra
+    tabu5: blanka
+    aŭtoro: Rob Ketlaer
+
+soifa:
+    tabu1: trinki
+    tabu2: malsata
+    tabu3: dezerto
+    tabu4: akvo
+    tabu5: likvo
+    aŭtoro: Rob Ketlaer
+
+gazeto:
+    tabu1: presi
+    tabu2: novaĵo
+    tabu3: sciigi
+    tabu4: legi
+    tabu5: papero
+    aŭtoro: Rob Ketlaer
+
+poŝto:
+    tabu1: letero
+    tabu2: pakaĵo
+    tabu3: transporti
+    tabu4: afranko
+    tabu5: koverto
+    aŭtoro: Rob Ketlaer
+
+sango:
+    tabu1: korpo
+    tabu2: ruĝa
+    tabu3: vundo
+    tabu4: koro
+    tabu5: likva
+    aŭtoro: Rob Ketlaer
+
+ĉevalo:
+    tabu1: besto
+    tabu2: rajdi
+    tabu3: vosto
+    tabu4: kaleŝo
+    tabu5: animalo
+    aŭtoro: Rob Ketlaer
+
+ŝati:
+    tabu1: ami
+    tabu2: estimi
+    tabu3: plaĉi
+    tabu4: volonte
+    tabu5: aprezi
+    aŭtoro: Rob Ketlaer
+
+hundo:
+    tabu1: kato
+    tabu2: boji
+    tabu3: besto
+    tabu4: animalo
+    tabu5: lupo
+    aŭtoro: Rob Ketlaer
+
+buso:
+    tabu1: aŭto
+    tabu2: veturi
+    tabu3: strato
+    tabu4: granda
+    tabu5: homo
+    aŭtoro: Rob Ketlaer
+
+ŝuo:
+    tabu1: piedo
+    tabu2: iri
+    tabu3: kruro
+    tabu4: boto
+    tabu5: ŝtrumpo
+    aŭtoro: Rob Ketlaer
+
+kalendaro:
+    tabu1: tago
+    tabu2: monato
+    tabu3: jaro
+    tabu4: tabelo
+    tabu5: semajno
+    aŭtoro: Rob Ketlaer
+
+lakto:
+    tabu1: bovino
+    tabu2: trinki
+    tabu3: blanka
+    tabu4: fromaĝo
+    tabu5: kazeo
+    aŭtoro: Rob Ketlaer
+
+krano:
+    tabu1: akvo
+    tabu2: flui
+    tabu3: tubo
+    tabu4: turni
+    tabu5: lavi
+    aŭtoro: Rob Ketlaer
+
+kajero:
+    tabu1: papero
+    tabu2: skribi
+    tabu3: paĝo
+    tabu4: noti
+    tabu5: lerni
+    aŭtoro: Rob Ketlaer
+
+okulo:
+    tabu1: vidi
+    tabu2: vizaĝo
+    tabu3: pupilo
+    tabu4: rigardi
+    tabu5: larmo
+    aŭtoro: Rob Ketlaer
+
+duŝo:
+    tabu1: akvo
+    tabu2: purigi
+    tabu3: lavi
+    tabu4: bani
+    tabu5: flui
+    aŭtoro: Rob Ketlaer
+
+skribi:
+    tabu1: papero
+    tabu2: krajono
+    tabu3: legi
+    tabu4: litero
+    tabu5: vorto
+    aŭtoro: Rob Ketlaer
+
+Ruĝa Kruco:
+    tabu1: kuraci
+    tabu2: helpo
+    tabu3: sano
+    tabu4: hospitalo
+    tabu5: flegistino
+    aŭtoro: Rob Ketlaer
+
+fungo:
+    tabu1: arbaro
+    tabu2: planto
+    tabu3: manĝi
+    tabu4: ĉapelo
+    tabu5: kreski
+    aŭtoro: Rob Ketlaer
+
+bombono:
+    tabu1: dolĉa
+    tabu2: sukero
+    tabu3: manĝi
+    tabu4: frandi
+    tabu5: infano
+    aŭtoro: Rob Ketlaer
+
+heliko:
+    tabu1: besto
+    tabu2: animalo
+    tabu3: limako
+    tabu4: konko
+    tabu5: malrapida
+    aŭtoro: Rob Ketlaer
+
+telefono:
+    tabu1: paroli
+    tabu2: aŭskulti
+    tabu3: komuniki
+    tabu4: aŭdi
+    tabu5: distanco
+    aŭtoro: Rob Ketlaer
+
+fingro:
+    tabu1: mano
+    tabu2: brako
+    tabu3: piedo
+    tabu4: ungo
+    tabu5: maldika
+    aŭtoro: Rob Ketlaer
+
+monto:
+    tabu1: alta
+    tabu2: neĝo
+    tabu3: valo
+    tabu4: roko
+    tabu5: tero
+    aŭtoro: Rob Ketlaer
+
+ŝultro:
+    tabu1: kolo
+    tabu2: brako
+    tabu3: ventro
+    tabu4: kapo
+    tabu5: dorso
+    aŭtoro: Rob Ketlaer
+
+ridi:
+    tabu1: gaja
+    tabu2: ĝoji
+    tabu3: buŝo
+    tabu4: humoro
+    tabu5: ŝerco
+    aŭtoro: Rob Ketlaer
+
+traduki:
+    tabu1: lingvo
+    tabu2: libro
+    tabu3: vorto
+    tabu4: paroli
+    tabu5: teksto
+    aŭtoro: Rob Ketlaer
+
+luno:
+    tabu1: suno
+    tabu2: stelo
+    tabu3: ĉielo
+    tabu4: nokto
+    tabu5: hela
+    aŭtoro: Rob Ketlaer
+
+mono:
+    tabu1: aĉeti
+    tabu2: vendi
+    tabu3: bileto
+    tabu4: pagi
+    tabu5: kotizo
+    aŭtoro: Rob Ketlaer
+
+kafo:
+    tabu1: trinki
+    tabu2: teo
+    tabu3: akvo
+    tabu4: lakto
+    tabu5: sukero
+    aŭtoro: Rob Ketlaer
+
+haveno:
+    tabu1: ŝipo
+    tabu2: maro
+    tabu3: urbo
+    tabu4: boato
+    tabu5: rivero
+    aŭtoro: Rob Ketlaer
+
+kato:
+    tabu1: besto
+    tabu2: animalo
+    tabu3: hundo
+    tabu4: muso
+    tabu5: arbo
+    aŭtoro: Rob Ketlaer
+
+vespo:
+    tabu1: besto
+    tabu2: insekto
+    tabu3: flugi
+    tabu4: flava
+    tabu5: piki
+    aŭtoro: Rob Ketlaer
+
+martelo:
+    tabu1: najlo
+    tabu2: bati
+    tabu3: peza
+    tabu4: fero
+    tabu5: ligno
+    aŭtoro: Rob Ketlaer
+
+legi:
+    tabu1: libro
+    tabu2: skribi
+    tabu3: vorto
+    tabu4: litero
+    tabu5: vidi
+    aŭtoro: Rob Ketlaer
+
+sekundo:
+    tabu1: minuto
+    tabu2: horo
+    tabu3: tempo
+    tabu4: horloĝo
+    tabu5: tago
+    aŭtoro: Rob Ketlaer
+
+triki:
+    tabu1: fadeno
+    tabu2: lano
+    tabu3: kudri
+    tabu4: kroĉi
+    tabu5: manlaboro
+    aŭtoro: Rob Ketlaer
+
+ĉapelo:
+    tabu1: kapo
+    tabu2: litero
+    tabu3: vesti
+    tabu4: ĉapo
+    tabu5: Esperanto
+    aŭtoro: Rob Ketlaer
+
+Pasporta Servo:
+    tabu1: gasto
+    tabu2: vojaĝi
+    tabu3: Esperanto
+    tabu4: loĝi
+    tabu5: senpage
+    aŭtoro: Rob Ketlaer
+
+foto:
+    tabu1: bildo
+    tabu2: filmo
+    tabu3: kamerao
+    tabu4: lumo
+    tabu5: vidi
+    aŭtoro: Rob Ketlaer
+
+kolbaso:
+    tabu1: fromaĝo
+    tabu2: viando
+    tabu3: manĝi
+    tabu4: besto
+    tabu5: intesto
+    aŭtoro: Rob Ketlaer
+
+nigra:
+    tabu1: koloro
+    tabu2: malhela
+    tabu3: blanka
+    tabu4: ombro
+    tabu5: nokto
+    aŭtoro: Rob Ketlaer
+
+cerbo:
+    tabu1: kapo
+    tabu2: pensi
+    tabu3: kranio
+    tabu4: inteligenta
+    tabu5: menso
+    aŭtoro: Rob Ketlaer
+
+neĝo:
+    tabu1: vintro
+    tabu2: blanka
+    tabu3: malvarma
+    tabu4: glacio
+    tabu5: pluvo
+    aŭtoro: Rob Ketlaer
+
+seĝo:
+    tabu1: sidi
+    tabu2: tablo
+    tabu3: meblo
+    tabu4: piedo
+    tabu5: apogilo
+    aŭtoro: Rob Ketlaer
+
+vespero:
+    tabu1: mateno
+    tabu2: tempo
+    tabu3: nokto
+    tabu4: malfrue
+    tabu5: tago
+    aŭtoro: Rob Ketlaer
+
+adjektivo:
+    tabu1: kia
+    tabu2: adverbo
+    tabu3: vorto
+    tabu4: substantivo
+    tabu5: frazo
+    aŭtoro: Rob Ketlaer
+
+kuracisto:
+    tabu1: malsana
+    tabu2: prizorgi
+    tabu3: flegi
+    tabu4: medicinisto
+    tabu5: vundo
+    aŭtoro: Rob Ketlaer
+
+baki:
+    tabu1: kuiri
+    tabu2: forno
+    tabu3: pano
+    tabu4: kuko
+    tabu5: varma
+    aŭtoro: Rob Ketlaer
+
+vino:
+    tabu1: trinki
+    tabu2: suko
+    tabu3: alkoholo
+    tabu4: glaso
+    tabu5: botelo
+    aŭtoro: Rob Ketlaer
+
+ĉielarko:
+    tabu1: koloro
+    tabu2: pluvo
+    tabu3: suno
+    tabu4: supra
+    tabu5: lumo
+    aŭtoro: Rob Ketlaer
+
+aero:
+    tabu1: spiri
+    tabu2: gaso
+    tabu3: malpeza
+    tabu4: elemento
+    tabu5: flugi
+    aŭtoro: Rob Ketlaer
+
+muziko:
+    tabu1: kanti
+    tabu2: sono
+    tabu3: instrumento
+    tabu4: aŭdi
+    tabu5: aŭskulti
+    aŭtoro: Rob Ketlaer
+
+eraro:
+    tabu1: malvero
+    tabu2: malĝuste
+    tabu3: malpravi
+    tabu4: korekti
+    tabu5: trompi
+    aŭtoro: Rob Ketlaer
+
+ondo:
+    tabu1: akvo
+    tabu2: maro
+    tabu3: vento
+    tabu4: monto
+    tabu5: leviĝi
+    aŭtoro: Rob Ketlaer
+
+fero:
+    tabu1: metalo
+    tabu2: peza
+    tabu3: ŝtalo
+    tabu4: rusto
+    tabu5: malmola
+    aŭtoro: Rob Ketlaer
+
+pordo:
+    tabu1: fenestro
+    tabu2: domo
+    tabu3: ĉambro
+    tabu4: fermi
+    tabu5: muro
+    aŭtoro: Rob Ketlaer
+
+ŝranko:
+    tabu1: meblo
+    tabu2: breto
+    tabu3: ligno
+    tabu4: kesto
+    tabu5: pordo
+    aŭtoro: Rob Ketlaer
+
+tabuo:
+    tabu1: ludo
+    tabu2: malpermesi
+    tabu3: rajti
+    tabu4: diri
+    tabu5: vorto
+    aŭtoro: Rob Ketlaer
+
+oro:
+    tabu1: metalo
+    tabu2: flava
+    tabu3: multekosta
+    tabu4: peza
+    tabu5: valora
+    aŭtoro: Rob Ketlaer
+
+lango:
+    tabu1: buŝo
+    tabu2: gustumi
+    tabu3: dento
+    tabu4: lipo
+    tabu5: paroli
+    aŭtoro: Rob Ketlaer
+
+dezerto:
+    tabu1: sablo
+    tabu2: seka
+    tabu3: varma
+    tabu4: pluvo
+    tabu5: akvo
+    aŭtoro: Rob Ketlaer
+
+funelo:
+    tabu1: likvaĵo
+    tabu2: verŝi
+    tabu3: konuso
+    tabu4: tubo
+    tabu5: botelo
+    aŭtoro: Rob Ketlaer
+
+plafono:
+    tabu1: domo
+    tabu2: supre
+    tabu3: tegmento
+    tabu4: ĉambro
+    tabu5: alta
+    aŭtoro: Rob Ketlaer
+
+sablo:
+    tabu1: ŝtono
+    tabu2: plaĝo
+    tabu3: dezerto
+    tabu4: infano
+    tabu5: ludi
+    aŭtoro: Rob Ketlaer
+
+rusto:
+    tabu1: fero
+    tabu2: metalo
+    tabu3: ruĝa
+    tabu4: bruna
+    tabu5: akvo
+    aŭtoro: Rob Ketlaer
+
+ŝtupo:
+    tabu1: supren
+    tabu2: suben
+    tabu3: etaĝo
+    tabu4: grimpi
+    tabu5: paŝi
+    aŭtoro: Rob Ketlaer
+
+fiŝo:
+    tabu1: akvo
+    tabu2: maro
+    tabu3: besto
+    tabu4: animalo
+    tabu5: naĝi
+    aŭtoro: Rob Ketlaer
+
+birdo:
+    tabu1: besto
+    tabu2: beko
+    tabu3: flugi
+    tabu4: nesto
+    tabu5: plumo
+    aŭtoro: Rob Ketlaer
+
+nuda:
+    tabu1: vesti
+    tabu2: ĉemizo
+    tabu3: pantalono
+    tabu4: bani
+    tabu5: haŭto
+    aŭtoro: Rob Ketlaer
+
+vizaĝo:
+    tabu1: okulo
+    tabu2: nazo
+    tabu3: buŝo
+    tabu4: kapo
+    tabu5: vango
+    aŭtoro: Rob Ketlaer
+
+akvo:
+    tabu1: maro
+    tabu2: pluvi
+    tabu3: lago
+    tabu4: naĝi
+    tabu5: trinki
+    aŭtoro: Rob Ketlaer
+
+bebo:
+    tabu1: infano
+    tabu2: eta
+    tabu3: malgranda
+    tabu4: ido
+    tabu5: homo
+    aŭtoro: Rob Ketlaer
+
+parfumo:
+    tabu1: odoro
+    tabu2: virino
+    tabu3: flari
+    tabu4: botelo
+    tabu5: multekosta
+    aŭtoro: Rob Ketlaer
+
+ĝardeno:
+    tabu1: arbo
+    tabu2: verda
+    tabu3: floro
+    tabu4: planto
+    tabu5: gazono
+    aŭtoro: Rob Ketlaer
+
+Esperanto:
+    tabu1: paroli
+    tabu2: lingvo
+    tabu3: Zamenhof
+    tabu4: komuniki
+    tabu5: internacia
+    aŭtoro: Rob Ketlaer
+
+vorto:
+    tabu1: lingvo
+    tabu2: paroli
+    tabu3: litero
+    tabu4: frazo
+    tabu5: skribi
+    aŭtoro: Rob Ketlaer
+
+testudo:
+    tabu1: animalo
+    tabu2: besto
+    tabu3: karapaco
+    tabu4: malrapida
+    tabu5: maljuna
+    aŭtoro: Rob Ketlaer
+
+tegmento:
+    tabu1: domo
+    tabu2: konstruaĵo
+    tabu3: supra
+    tabu4: kovri
+    tabu5: tegolo
+    aŭtoro: Rob Ketlaer
+
+kino:
+    tabu1: filmo
+    tabu2: ekrano
+    tabu3: aktoro
+    tabu4: spekti
+    tabu5: teatro
+    aŭtoro: Rob Ketlaer
+
+masko:
+    tabu1: vizaĝo
+    tabu2: kaŝi
+    tabu3: teatro
+    tabu4: aktoro
+    tabu5: kostumo
+    aŭtoro: Rob Ketlaer
+
+prelego:
+    tabu1: paroli
+    tabu2: aŭskulti
+    tabu3: kunveno
+    tabu4: kongreso
+    tabu5: salono
+    aŭtoro: Rob Ketlaer
+
+jaro:
+    tabu1: tago
+    tabu2: monato
+    tabu3: semajno
+    tabu4: kalendaro
+    tabu5: tempo
+    aŭtoro: Rob Ketlaer
+
+reĝo:
+    tabu1: monarko
+    tabu2: krono
+    tabu3: sceptro
+    tabu4: estro
+    tabu5: regno
+    aŭtoro: Rob Ketlaer
+
+rozo:
+    tabu1: ruĝa
+    tabu2: odoro
+    tabu3: floro
+    tabu4: ĝardeno
+    tabu5: bela
+    aŭtoro: Rob Ketlaer
+
+kuri:
+    tabu1: piedo
+    tabu2: iri
+    tabu3: rapide
+    tabu4: kruro
+    tabu5: marŝi
+    aŭtoro: Rob Ketlaer
+
+komputilo:
+    tabu1: ekrano
+    tabu2: klavo
+    tabu3: muso
+    tabu4: retumi
+    tabu5: maŝino
+    aŭtoro: Rob Ketlaer
+
+televidilo:
+    tabu1: spekti
+    tabu2: rigardi
+    tabu3: filmo
+    tabu4: bildo
+    tabu5: programo
+    aŭtoro: Rob Ketlaer
+
+maro:
+    tabu1: akvo
+    tabu2: tero
+    tabu3: plaĝo
+    tabu4: strando
+    tabu5: oceano
+    aŭtoro: Rob Ketlaer
+
+leono:
+    tabu1: besto
+    tabu2: animalo
+    tabu3: kato
+    tabu4: Afriko
+    tabu5: sovaĝa
+    aŭtoro: Rob Ketlaer
+
+aviadilo:
+    tabu1: veturi
+    tabu2: flugi
+    tabu3: rapida
+    tabu4: vojaĝi
+    tabu5: ĉielo
+    aŭtoro: Rob Ketlaer
+
+glaso:
+    tabu1: taso
+    tabu2: trinki
+    tabu3: vino
+    tabu4: biero
+    tabu5: akvo
+    aŭtoro: Rob Ketlaer
+
+preĝejo:
+    tabu1: domo
+    tabu2: Dio
+    tabu3: pastro
+    tabu4: dimanĉo
+    tabu5: pastoro
+    aŭtoro: Rob Ketlaer
+
+pantalono:
+    tabu1: vesti
+    tabu2: kruro
+    tabu3: gambo
+    tabu4: surmeti
+    tabu5: piedo
+    aŭtoro: Rob Ketlaer
+
+papero:
+    tabu1: blanka
+    tabu2: maldika
+    tabu3: skribi
+    tabu4: pentri
+    tabu5: folio
+    aŭtoro: Rob Ketlaer
+
+planto:
+    tabu1: verda
+    tabu2: besto
+    tabu3: arbo
+    tabu4: floro
+    tabu5: herbo
+    aŭtoro: Rob Ketlaer
+
+pilko:
+    tabu1: futbalo
+    tabu2: ludi
+    tabu3: infano
+    tabu4: ronda
+    tabu5: globo
+    aŭtoro: Rob Ketlaer
+
+urbo:
+    tabu1: vilaĝo
+    tabu2: domo
+    tabu3: loĝi
+    tabu4: lando
+    tabu5: strato
+    aŭtoro: Rob Ketlaer
+
+botelo:
+    tabu1: vitro
+    tabu2: ujo
+    tabu3: likva
+    tabu4: fluaĵo
+    tabu5: trinki
+    aŭtoro: Rob Ketlaer
+
+folio:
+    tabu1: arbo
+    tabu2: planto
+    tabu3: floro
+    tabu4: verda
+    tabu5: kreski
+    aŭtoro: Rob Ketlaer
+
+manĝi:
+    tabu1: trinki
+    tabu2: buŝo
+    tabu3: stomako
+    tabu4: mordi
+    tabu5: gluti
+    aŭtoro: Rob Ketlaer
+
+ponto:
+    tabu1: konstruaĵo
+    tabu2: trairi
+    tabu3: rivero
+    tabu4: strato
+    tabu5: viadukto
+    aŭtoro: Rob Ketlaer
+
+ĵongli:
+    tabu1: pilko
+    tabu2: ringo
+    tabu3: ĵeti
+    tabu4: kapti
+    tabu5: cirko
+    aŭtoro: Rob Ketlaer
+
+kandelo:
+    tabu1: vakso
+    tabu2: flamo
+    tabu3: fajro
+    tabu4: bruli
+    tabu5: lumo
+    aŭtoro: Rob Ketlaer
+
+tablo:
+    tabu1: seĝo
+    tabu2: plato
+    tabu3: piedo
+    tabu4: meblo
+    tabu5: ligno
+    aŭtoro: Rob Ketlaer
+
+bovino:
+    tabu1: lakto
+    tabu2: besto
+    tabu3: animalo
+    tabu4: korno
+    tabu5: melki
+    aŭtoro: Rob Ketlaer
+
+semaforo:
+    tabu1: ruĝa
+    tabu2: flava
+    tabu3: verda
+    tabu4: strato
+    tabu5: aŭto
+    aŭtoro: Rob Ketlaer
+
+barilo:
+    tabu1: limo
+    tabu2: muro
+    tabu3: ĝardeno
+    tabu4: strato
+    tabu5: domo
+    aŭtoro: Rob Ketlaer
+
+knabino:
+    tabu1: virino
+    tabu2: juna
+    tabu3: homo
+    tabu4: infano
+    tabu5: aĝo
+    aŭtoro: Rob Ketlaer
+
+cindro:
+    tabu1: fajro
+    tabu2: bruli
+    tabu3: flamo
+    tabu4: griza
+    tabu5: restaĵo
+    aŭtoro: Rob Ketlaer
+
+kajto:
+    tabu1: ludilo
+    tabu2: vento
+    tabu3: flugi
+    tabu4: aero
+    tabu5: infano
+    aŭtoro: Rob Ketlaer
+
+kuirejo:
+    tabu1: baki
+    tabu2: boligi
+    tabu3: ĉambro
+    tabu4: poto
+    tabu5: manĝaĵo
+    aŭtoro: Rob Ketlaer
+
+flugi:
+    tabu1: movi
+    tabu2: aero
+    tabu3: birdo
+    tabu4: aviadilo
+    tabu5: ĉielo
+    aŭtoro: Rob Ketlaer
+
+glacio:
+    tabu1: akvo
+    tabu2: malvarma
+    tabu3: vintro
+    tabu4: neĝo
+    tabu5: malmola
+    aŭtoro: Rob Ketlaer
+
+januaro:
+    tabu1: monato
+    tabu2: jaro
+    tabu3: decembro
+    tabu4: februaro
+    tabu5: vintro
+    aŭtoro: Rob Ketlaer
+
+plumbo:
+    tabu1: metalo
+    tabu2: peza
+    tabu3: mola
+    tabu4: griza
+    tabu5: elemento
+    aŭtoro: Rob Ketlaer
+
+muro:
+    tabu1: domo
+    tabu2: konstruaĵo
+    tabu3: briko
+    tabu4: ŝtono
+    tabu5: masoni
+    aŭtoro: Rob Ketlaer
+
+ŝtrumpo:
+    tabu1: piedo
+    tabu2: ŝuo
+    tabu3: kruro
+    tabu4: triki
+    tabu5: vesto
+    aŭtoro: Rob Ketlaer
+
+montri:
+    tabu1: prezenti
+    tabu2: vidigi
+    tabu3: rigardo
+    tabu4: indiki
+    tabu5: fingro
+    aŭtoro: Rob Ketlaer
+
+taso:
+    tabu1: telero
+    tabu2: glaso
+    tabu3: trinki
+    tabu4: kafo
+    tabu5: teo
+    aŭtoro: Rob Ketlaer
+
+naĝi:
+    tabu1: akvo
+    tabu2: fiŝo
+    tabu3: movi
+    tabu4: flosi
+    tabu5: sporto
+    aŭtoro: Rob Ketlaer
+
+fumo:
+    tabu1: fajro
+    tabu2: tabako
+    tabu3: nebulo
+    tabu4: bruli
+    tabu5: incendio
+    aŭtoro: Rob Ketlaer
+
+kastelo:
+    tabu1: domo
+    tabu2: konstruaĵo
+    tabu3: reĝo
+    tabu4: princo
+    tabu5: loĝi
+    aŭtoro: Rob Ketlaer
+
+planko:
+    tabu1: malsupra
+    tabu2: domo
+    tabu3: ĉambro
+    tabu4: paŝi
+    tabu5: iri
+    aŭtoro: Rob Ketlaer
+
+pensi:
+    tabu1: ideo
+    tabu2: cerbo
+    tabu3: spirito
+    tabu4: opinii
+    tabu5: kredi
+    aŭtoro: Rob Ketlaer
+
+pafi:
+    tabu1: kuglo
+    tabu2: milito
+    tabu3: celi
+    tabu4: soldato
+    tabu5: mortigi
+    aŭtoro: Rob Ketlaer
+
+cigno:
+    tabu1: birdo
+    tabu2: besto
+    tabu3: akvo
+    tabu4: blanka
+    tabu5: kolo
+    aŭtoro: Rob Ketlaer
+
+ĉaso:
+    tabu1: pafilo
+    tabu2: arbaro
+    tabu3: besto
+    tabu4: birdo
+    tabu5: kapti
+    aŭtoro: Rob Ketlaer
+
+voĉo:
+    tabu1: sono
+    tabu2: gorĝo
+    tabu3: paroli
+    tabu4: aero
+    tabu5: tono
+    aŭtoro: Rob Ketlaer
+
+papago:
+    tabu1: birdo
+    tabu2: plumaro
+    tabu3: ripeti
+    tabu4: paroli
+    tabu5: kaĝo
+    aŭtoro: Rob Ketlaer
+
+truo:
+    tabu1: nenio
+    tabu2: vakuo
+    tabu3: kava
+    tabu4: groto
+    tabu5: malplena
+    aŭtoro: Rob Ketlaer
+
+printempo:
+    tabu1: sezono
+    tabu2: vintro
+    tabu3: somero
+    tabu4: jaro
+    tabu5: marto
+    aŭtoro: Rob Ketlaer
+
+hororo:
+    tabu1: filmo
+    tabu2: teruri
+    tabu3: abomeno
+    tabu4: naŭzo
+    tabu5: sango
+    aŭtoro: Rob Ketlaer
+
+miraklo:
+    tabu1: mirindaĵo
+    tabu2: mistero
+    tabu3: signo
+    tabu4: virgo
+    tabu5: nenatura
+    aŭtoro: Rob Ketlaer
+
+aŭtuno:
+    tabu1: sezono
+    tabu2: septembro
+    tabu3: printempo
+    tabu4: folioj
+    tabu5: bruna
+    aŭtoro: Rob Ketlaer
+
+lokomotivo:
+    tabu1: trajno
+    tabu2: relo
+    tabu3: vaporo
+    tabu4: fervojo
+    tabu5: vagono
+    aŭtoro: Rob Ketlaer
+
+juĝisto:
+    tabu1: akuzo
+    tabu2: verdikto
+    tabu3: tribunalo
+    tabu4: atestanto
+    tabu5: procezo
+    aŭtoro: Rob Ketlaer
+
+mizero:
+    tabu1: riĉeco
+    tabu2: nenio
+    tabu3: manko
+    tabu4: bezono
+    tabu5: malhavo
+    aŭtoro: Rob Ketlaer
+
+afiŝo:
+    tabu1: reklamo
+    tabu2: glui
+    tabu3: papero
+    tabu4: anonco
+    tabu5: bildo
+    aŭtoro: Rob Ketlaer
+
+korpo:
+    tabu1: persono
+    tabu2: homo
+    tabu3: karno
+    tabu4: membro
+    tabu5: skeleto
+    aŭtoro: Rob Ketlaer
+
+pramo:
+    tabu1: ŝipo
+    tabu2: boato
+    tabu3: rivero
+    tabu4: trans
+    tabu5: veturi
+    aŭtoro: Rob Ketlaer
+
+talio:
+    tabu1: korpo
+    tabu2: kokso
+    tabu3: virino
+    tabu4: ventro
+    tabu5: umbiliko
+    aŭtoro: Rob Ketlaer
+
+kaĝo:
+    tabu1: birdo
+    tabu2: stango
+    tabu3: besto
+    tabu4: zoo
+    tabu5: kapti
+    aŭtoro: Rob Ketlaer
+
+benzino:
+    tabu1: veturilo
+    tabu2: aŭto
+    tabu3: petrolo
+    tabu4: motoro
+    tabu5: dizelo
+    aŭtoro: Rob Ketlaer
+
+reto:
+    tabu1: fiŝo
+    tabu2: maro
+    tabu3: barko
+    tabu4: ŝipo
+    tabu5: araneo
+    aŭtoro: Rob Ketlaer
+
+kovrilo:
+    tabu1: lito
+    tabu2: dormi
+    tabu3: varma
+    tabu4: nokto
+    tabu5: skatolo
+    aŭtoro: Rob Ketlaer
+
+frukto:
+    tabu1: arbo
+    tabu2: semo
+    tabu3: pomo
+    tabu4: piro
+    tabu5: manĝi
+    aŭtoro: Rob Ketlaer
+
+inviti:
+    tabu1: gasto
+    tabu2: manĝi
+    tabu3: ricevi
+    tabu4: tablo
+    tabu5: trinki
+    aŭtoro: Rob Ketlaer
+
+urso:
+    tabu1: besto
+    tabu2: poluso
+    tabu3: blanka
+    tabu4: ludi
+    tabu5: mielo
+    aŭtoro: Rob Ketlaer
+
+protekti:
+    tabu1: helpi
+    tabu2: advokato
+    tabu3: asekuro
+    tabu4: ŝirmi
+    tabu5: polico
+    aŭtoro: Rob Ketlaer
+
+trezoro:
+    tabu1: mono
+    tabu2: oro
+    tabu3: pirato
+    tabu4: kofro
+    tabu5: juvelo
+    aŭtoro: Rob Ketlaer
+
+kerno:
+    tabu1: frukto
+    tabu2: centro
+    tabu3: amando
+    tabu4: semo
+    tabu5: mezo
+    aŭtoro: Rob Ketlaer
+
+biciklo:
+    tabu1: rado
+    tabu2: selo
+    tabu3: pedalo
+    tabu4: veturi
+    tabu5: kruro
+    aŭtoro: Rob Ketlaer
+
+diablo:
+    tabu1: Dio
+    tabu2: malbona
+    tabu3: infero
+    tabu4: delogi
+    tabu5: satano
+    aŭtoro: Rob Ketlaer
+
+poeto:
+    tabu1: verkisto
+    tabu2: rimo
+    tabu3: verso
+    tabu4: skribi
+    tabu5: emocio
+    aŭtoro: Rob Ketlaer
+
+ferioj:
+    tabu1: libertempo
+    tabu2: ripozo
+    tabu3: vojaĝo
+    tabu4: laboro
+    tabu5: lando
+    aŭtoro: Rob Ketlaer
+
+koro:
+    tabu1: sango
+    tabu2: cirkulado
+    tabu3: amo
+    tabu4: muskolo
+    tabu5: pumpi
+    aŭtoro: Rob Ketlaer
+
+vojaĝo:
+    tabu1: lando
+    tabu2: viziti
+    tabu3: ferioj
+    tabu4: hotelo
+    tabu5: veturi
+    aŭtoro: Rob Ketlaer
+
+boji:
+    tabu1: hundo
+    tabu2: jelpi
+    tabu3: bleki
+    tabu4: besto
+    tabu5: mordi
+    aŭtoro: Rob Ketlaer
+
+pasporto:
+    tabu1: dogano
+    tabu2: vizo
+    tabu3: landlimo
+    tabu4: vojaĝo
+    tabu5: dokumento
+    aŭtoro: Rob Ketlaer
+
+hipopotamo:
+    tabu1: besto
+    tabu2: mamulo
+    tabu3: dika
+    tabu4: rivero
+    tabu5: Nilo
+    aŭtoro: Rob Ketlaer
+
+ĉapo:
+    tabu1: ĉapelo
+    tabu2: kapo
+    tabu3: lano
+    tabu4: banado
+    tabu5: haro
+    aŭtoro: Rob Ketlaer
+
+hospitalo:
+    tabu1: kuraci
+    tabu2: kliniko
+    tabu3: malsana
+    tabu4: preventorio
+    tabu5: medicino
+    aŭtoro: Rob Ketlaer
+
+kuseno:
+    tabu1: lito
+    tabu2: benko
+    tabu3: mola
+    tabu4: kuŝi
+    tabu5: kapo
+    aŭtoro: Rob Ketlaer
+
+baleno:
+    tabu1: mamulo
+    tabu2: maro
+    tabu3: harpuno
+    tabu4: akvo
+    tabu5: delfeno
+    aŭtoro: Rob Ketlaer
+
+horizonto:
+    tabu1: vertikalo
+    tabu2: linio
+    tabu3: tero
+    tabu4: maro
+    tabu5: ĉielo
+    aŭtoro: Rob Ketlaer
+
+butero:
+    tabu1: bovino
+    tabu2: lakto
+    tabu3: kuiri
+    tabu4: graso
+    tabu5: pano
+    aŭtoro: Rob Ketlaer
+
+sandalo:
+    tabu1: piedo
+    tabu2: ŝuo
+    tabu3: nuda
+    tabu4: ŝnuro
+    tabu5: simpla
+    aŭtoro: Rob Ketlaer
+
+hirundo:
+    tabu1: birdo
+    tabu2: printempo
+    tabu3: nigra
+    tabu4: pinta
+    tabu5: somero
+    aŭtoro: Rob Ketlaer
+
+subtera:
+    tabu1: tunelo
+    tabu2: galerio
+    tabu3: groto
+    tabu4: kaverno
+    tabu5: kelo
+    aŭtoro: Rob Ketlaer
+
+hotelo:
+    tabu1: ĉambroj
+    tabu2: vojaĝanto
+    tabu3: loĝi
+    tabu4: dormi
+    tabu5: manĝi
+    aŭtoro: Rob Ketlaer
+
+taŭro:
+    tabu1: Hispanio
+    tabu2: batalo
+    tabu3: virbovo
+    tabu4: areno
+    tabu5: mortigi
+    aŭtoro: Rob Ketlaer
+
+bukedo:
+    tabu1: floroj
+    tabu2: ornami
+    tabu3: donaco
+    tabu4: edziĝo
+    tabu5: vazo
+    aŭtoro: Rob Ketlaer
+
+hufo:
+    tabu1: ungo
+    tabu2: ĉevalo
+    tabu3: azeno
+    tabu4: bovo
+    tabu5: forĝi
+    aŭtoro: Rob Ketlaer
+
+ekzameno:
+    tabu1: testo
+    tabu2: scio
+    tabu3: lernejo
+    tabu4: scienco
+    tabu5: rezulto
+    aŭtoro: Rob Ketlaer
+
+aĉeti:
+    tabu1: pagi
+    tabu2: vendi
+    tabu3: akiri
+    tabu4: butiko
+    tabu5: mono
+    aŭtoro: Rob Ketlaer
+
+loko:
+    tabu1: placo
+    tabu2: angulo
+    tabu3: lando
+    tabu4: situo
+    tabu5: ejo
+    aŭtoro: Rob Ketlaer
+
+katedralo:
+    tabu1: preĝejo
+    tabu2: vitralo
+    tabu3: Dio
+    tabu4: religio
+    tabu5: bapti
+    aŭtoro: Rob Ketlaer
+
+jaĥto:
+    tabu1: ŝipo
+    tabu2: riĉa
+    tabu3: maro
+    tabu4: boato
+    tabu5: veturi
+    aŭtoro: Rob Ketlaer
+
+idolo:
+    tabu1: statuo
+    tabu2: diaĵo
+    tabu3: amuleto
+    tabu4: fetiĉo
+    tabu5: ekzemplo
+    aŭtoro: Rob Ketlaer
+
+imiti:
+    tabu1: agi
+    tabu2: same
+    tabu3: kopii
+    tabu4: parodii
+    tabu5: simile
+    aŭtoro: Rob Ketlaer
+
+rivero:
+    tabu1: akvo
+    tabu2: rojo
+    tabu3: maro
+    tabu4: flui
+    tabu5: lago
+    aŭtoro: Rob Ketlaer
+
+koleri:
+    tabu1: inciti
+    tabu2: furiozi
+    tabu3: eksplodi
+    tabu4: krii
+    tabu5: insulti
+    aŭtoro: Rob Ketlaer
+
+kateno:
+    tabu1: ligi
+    tabu2: prizono
+    tabu3: fero
+    tabu4: ringo
+    tabu5: mallibera
+    aŭtoro: Rob Ketlaer
+
+salono:
+    tabu1: domo
+    tabu2: ĉambro
+    tabu3: granda
+    tabu4: seĝoj
+    tabu5: prelego
+    aŭtoro: Rob Ketlaer
+
+ampolo:
+    tabu1: lampo
+    tabu2: lumo
+    tabu3: elektro
+    tabu4: kurento
+    tabu5: varma
+    aŭtoro: Rob Ketlaer
+
+jelpi:
+    tabu1: boji
+    tabu2: hundo
+    tabu3: krii
+    tabu4: bleki
+    tabu5: besto
+    aŭtoro: Rob Ketlaer
+
+ignori:
+    tabu1: scii
+    tabu2: preterlasi
+    tabu3: kaŝi
+    tabu4: saĝulo
+    tabu5: atenti
+    aŭtoro: Rob Ketlaer
+
+industrio:
+    tabu1: metio
+    tabu2: arto
+    tabu3: materialo
+    tabu4: tekniko
+    tabu5: maŝino
+    aŭtoro: Rob Ketlaer
+
+salajro:
+    tabu1: laboro
+    tabu2: monate
+    tabu3: pagi
+    tabu4: kolekti
+    tabu5: enspezo
+    aŭtoro: Rob Ketlaer
+
+stari:
+    tabu1: piedo
+    tabu2: sidi
+    tabu3: leviĝi
+    tabu4: seĝo
+    tabu5: kruro
+    aŭtoro: Rob Ketlaer
+
+juvelo:
+    tabu1: ornami
+    tabu2: oro
+    tabu3: arĝento
+    tabu4: gemo
+    tabu5: brili
+    aŭtoro: Rob Ketlaer
+
+silenti:
+    tabu1: paroli
+    tabu2: babili
+    tabu3: diri
+    tabu4: nenio
+    tabu5: buŝo
+    aŭtoro: Rob Ketlaer
+
+staĝo:
+    tabu1: lernejo
+    tabu2: studi
+    tabu3: instruado
+    tabu4: laboro
+    tabu5: provo
+    aŭtoro: Rob Ketlaer
+
+solvi:
+    tabu1: trovi
+    tabu2: malkovri
+    tabu3: rezulto
+    tabu4: problemo
+    tabu5: puzlo
+    aŭtoro: Rob Ketlaer
+
+ĵazo:
+    tabu1: muziko
+    tabu2: negro
+    tabu3: bluso
+    tabu4: svingo
+    tabu5: trumpeto
+    aŭtoro: Rob Ketlaer
+
+ĵurnalo:
+    tabu1: gazeto
+    tabu2: ĉiutage
+    tabu3: libro
+    tabu4: magazino
+    tabu5: papero
+    aŭtoro: Rob Ketlaer
+
+kadro:
+    tabu1: bordo
+    tabu2: kvadrata
+    tabu3: fenestro
+    tabu4: pentraĵo
+    tabu5: tabelo
+    aŭtoro: Rob Ketlaer
+
+kamelo:
+    tabu1: besto
+    tabu2: stepo
+    tabu3: dezerto
+    tabu4: trinki
+    tabu5: ĝibo
+    aŭtoro: Rob Ketlaer
+
+legomo:
+    tabu1: ĝardeno
+    tabu2: viando
+    tabu3: karoto
+    tabu4: tomato
+    tabu5: brasiko
+    aŭtoro: Rob Ketlaer
+
+kuzo:
+    tabu1: onklo
+    tabu2: familio
+    tabu3: nevo
+    tabu4: patro
+    tabu5: generacio
+    aŭtoro: Rob Ketlaer
+
+kelo:
+    tabu1: subtera
+    tabu2: domo
+    tabu3: ĉambro
+    tabu4: ŝtuparo
+    tabu5: malhela
+    aŭtoro: Rob Ketlaer
+
+Tinĉjo:
+    tabu1: ĵurnalisto
+    tabu2: bildstrio
+    tabu3: esplori
+    tabu4: hundo
+    tabu5: vojaĝi
+    aŭtoro: Rob Ketlaer
+
+vizo:
+    tabu1: pasporto
+    tabu2: lando
+    tabu3: eniri
+    tabu4: permeso
+    tabu5: kotizo
+    aŭtoro: Rob Ketlaer
+
+kabano:
+    tabu1: dometo
+    tabu2: ligno
+    tabu3: loĝi
+    tabu4: arbaro
+    tabu5: strando
+    aŭtoro: Rob Ketlaer
+
+kalkuli:
+    tabu1: lernejo
+    tabu2: nombro
+    tabu3: cifero
+    tabu4: kvanto
+    tabu5: adicii
+    aŭtoro: Rob Ketlaer
+
+kanono:
+    tabu1: obuso
+    tabu2: eksplodi
+    tabu3: milito
+    tabu4: pafilo
+    tabu5: kanto
+    aŭtoro: Rob Ketlaer
+
+ŝtormo:
+    tabu1: tempesto
+    tabu2: vento
+    tabu3: ciklono
+    tabu4: uragano
+    tabu5: blovi
+    aŭtoro: Rob Ketlaer
+
+liceo:
+    tabu1: lernejo
+    tabu2: profesoro
+    tabu3: ekzameno
+    tabu4: instrui
+    tabu5: lernanto
+    aŭtoro: Rob Ketlaer
+
+Asterikso:
+    tabu1: bildstrio
+    tabu2: gaŭlo
+    tabu3: Francio
+    tabu4: Obelikso
+    tabu5: Cezaro
+    aŭtoro: Rob Ketlaer
+
+limo:
+    tabu1: lando
+    tabu2: rando
+    tabu3: bordo
+    tabu4: fino
+    tabu5: barilo
+    aŭtoro: Rob Ketlaer
+
+informi:
+    tabu1: diri
+    tabu2: klarigi
+    tabu3: televidilo
+    tabu4: aktualaĵoj
+    tabu5: sciigi
+    aŭtoro: Rob Ketlaer
+
+kuglo:
+    tabu1: pistolo
+    tabu2: pafi
+    tabu3: kanono
+    tabu4: obuso
+    tabu5: armilo
+    aŭtoro: Rob Ketlaer
+
+afranko:
+    tabu1: poŝto
+    tabu2: kosto
+    tabu3: letero
+    tabu4: pakaĵo
+    tabu5: sendi
+    aŭtoro: Rob Ketlaer
+
+forgesi:
+    tabu1: memori
+    tabu2: foresti
+    tabu3: preterlasi
+    tabu4: neglekti
+    tabu5: cerbo
+    aŭtoro: Rob Ketlaer
+
+balai:
+    tabu1: purigi
+    tabu2: lavi
+    tabu3: polvo
+    tabu4: ĉambro
+    tabu5: strato
+    aŭtoro: Rob Ketlaer
+
+vintro:
+    tabu1: sezono
+    tabu2: decembro
+    tabu3: jaro
+    tabu4: printempo
+    tabu5: aŭtuno
+    aŭtoro: Rob Ketlaer
+
+azeno:
+    tabu1: besto
+    tabu2: orelo
+    tabu3: manko
+    tabu4: obstina
+    tabu5: ĉevalo
+    aŭtoro: Rob Ketlaer
+
+kombi:
+    tabu1: haro
+    tabu2: ŝampuo
+    tabu3: tondi
+    tabu4: frizi
+    tabu5: longa
+    aŭtoro: Rob Ketlaer
+
+boato:
+    tabu1: ŝipo
+    tabu2: veturi
+    tabu3: akvo
+    tabu4: rivero
+    tabu5: velo
+    aŭtoro: Rob Ketlaer
+
+ĝemelo:
+    tabu1: frato
+    tabu2: sama
+    tabu3: paro
+    tabu4: duopo
+    tabu5: naskiĝo
+    aŭtoro: Rob Ketlaer
+
+planedo:
+    tabu1: tero
+    tabu2: astro
+    tabu3: ĉielo
+    tabu4: luno
+    tabu5: Marso
+    aŭtoro: Rob Ketlaer
+
+araneo:
+    tabu1: reto
+    tabu2: piedo
+    tabu3: domo
+    tabu4: timi
+    tabu5: kapti
+    aŭtoro: Rob Ketlaer
+
+arbo:
+    tabu1: folio
+    tabu2: planto
+    tabu3: trunko
+    tabu4: frukto
+    tabu5: branĉo
+    aŭtoro: Rob Ketlaer
+
+benko:
+    tabu1: seĝo
+    tabu2: sidi
+    tabu3: longa
+    tabu4: parko
+    tabu5: ĉambro
+    aŭtoro: Rob Ketlaer
+
+beko:
+    tabu1: birdo
+    tabu2: kokino
+    tabu3: ansero
+    tabu4: piki
+    tabu5: manĝi
+    aŭtoro: Rob Ketlaer
+
+besto:
+    tabu1: animalo
+    tabu2: sovaĝa
+    tabu3: farmo
+    tabu4: ĝangalo
+    tabu5: arbaro
+    aŭtoro: Rob Ketlaer
+
+astro:
+    tabu1: ĉielo
+    tabu2: planedo
+    tabu3: tero
+    tabu4: luno
+    tabu5: suno
+    aŭtoro: Rob Ketlaer
+
+biero:
+    tabu1: trinki
+    tabu2: malto
+    tabu3: fermenti
+    tabu4: bruna
+    tabu5: alkoholo
+    aŭtoro: Rob Ketlaer
+
+nukso:
+    tabu1: kerno
+    tabu2: semo
+    tabu3: migdalo
+    tabu4: arakido
+    tabu5: manĝi
+    aŭtoro: Rob Ketlaer
+
+religio:
+    tabu1: kredi
+    tabu2: Dio
+    tabu3: preĝi
+    tabu4: Kristo
+    tabu5: templo
+    aŭtoro: Rob Ketlaer
+
+tendo:
+    tabu1: kampadi
+    tabu2: cirko
+    tabu3: ŝtofo
+    tabu4: dometo
+    tabu5: ferioj
+    aŭtoro: Rob Ketlaer
+
+bildstrio:
+    tabu1: libro
+    tabu2: desegni
+    tabu3: Tinĉjo
+    tabu4: Asterikso
+    tabu5: rakonto
+    aŭtoro: Rob Ketlaer
+
+ŝtono:
+    tabu1: muro
+    tabu2: ponto
+    tabu3: domo
+    tabu4: konstrui
+    tabu5: roko
+    aŭtoro: Rob Ketlaer
+
+espero:
+    tabu1: deziro
+    tabu2: verda
+    tabu3: kuraĝo
+    tabu4: atendi
+    tabu5: Zamenhof
+    aŭtoro: Rob Ketlaer
+
+banko:
+    tabu1: mono
+    tabu2: financo
+    tabu3: prunto
+    tabu4: kambio
+    tabu5: konto
+    aŭtoro: Rob Ketlaer
+
+melki:
+    tabu1: bovino
+    tabu2: lakto
+    tabu3: kazeo
+    tabu4: kaprino
+    tabu5: farmisto
+    aŭtoro: Rob Ketlaer
+
+griza:
+    tabu1: koloro
+    tabu2: muso
+    tabu3: blanka
+    tabu4: nigra
+    tabu5: cindro
+    aŭtoro: Rob Ketlaer
+
+priskribi:
+    tabu1: rakonti
+    tabu2: desegni
+    tabu3: klarigi
+    tabu4: diri
+    tabu5: bildigi
+    aŭtoro: Rob Ketlaer
+
+pupo:
+    tabu1: knabino
+    tabu2: homa
+    tabu3: ludi
+    tabu4: vestoj
+    tabu5: simila
+    aŭtoro: Rob Ketlaer
+
+afabla:
+    tabu1: ĝentila
+    tabu2: galanta
+    tabu3: bonvolema
+    tabu4: plaĉa
+    tabu5: ĝentlemano
+    aŭtoro: Rob Ketlaer
+
+sunumi:
+    tabu1: haŭto
+    tabu2: bruna
+    tabu3: plaĝo
+    tabu4: maro
+    tabu5: oleo
+    aŭtoro: Rob Ketlaer
+
+aktoro:
+    tabu1: filmo
+    tabu2: teatro
+    tabu3: rolo
+    tabu4: kinejo
+    tabu5: sceno
+    aŭtoro: Rob Ketlaer
+
+incendio:
+    tabu1: fajro
+    tabu2: granda
+    tabu3: detrui
+    tabu4: urbo
+    tabu5: domo
+    aŭtoro: Rob Ketlaer
+
+formiko:
+    tabu1: insekto
+    tabu2: laboro
+    tabu3: grupo
+    tabu4: serpento
+    tabu5: diligenta
+    aŭtoro: Rob Ketlaer
+
+tapiŝo:
+    tabu1: pargeto
+    tabu2: grundo
+    tabu3: komforto
+    tabu4: teksaĵo
+    tabu5: planko
+    aŭtoro: Rob Ketlaer
+
+reklamo:
+    tabu1: varbi
+    tabu2: vendi
+    tabu3: afiŝo
+    tabu4: filmeto
+    tabu5: komerco
+    aŭtoro: Rob Ketlaer
+
+paco:
+    tabu1: milito
+    tabu2: silento
+    tabu3: amikeco
+    tabu4: nacio
+    tabu5: lando
+    aŭtoro: Rob Ketlaer
+
+eĥo:
+    tabu1: bruo
+    tabu2: novaĵo
+    tabu3: sono
+    tabu4: monto
+    tabu5: puto
+    aŭtoro: Rob Ketlaer
+
+scienco:
+    tabu1: ĥemio
+    tabu2: fiziko
+    tabu3: naturo
+    tabu4: sperto
+    tabu5: biologio
+    aŭtoro: Rob Ketlaer
+
+metalo:
+    tabu1: fero
+    tabu2: oro
+    tabu3: materialo
+    tabu4: malmola
+    tabu5: peza
+    aŭtoro: Rob Ketlaer
+
+barko:
+    tabu1: ŝipo
+    tabu2: maro
+    tabu3: boato
+    tabu4: veturi
+    tabu5: akvo
+    aŭtoro: Rob Ketlaer
+
+raŭpo:
+    tabu1: papilio
+    tabu2: vermo
+    tabu3: larvo
+    tabu4: insekto
+    tabu5: folio
+    aŭtoro: Rob Ketlaer
+
+pulmo:
+    tabu1: brusto
+    tabu2: koro
+    tabu3: enspiri
+    tabu4: fumi
+    tabu5: aero
+    aŭtoro: Rob Ketlaer
+
+najlo:
+    tabu1: martelo
+    tabu2: bati
+    tabu3: ligno
+    tabu4: ligi
+    tabu5: meblo
+    aŭtoro: Rob Ketlaer
+
+abelo:
+    tabu1: mielo
+    tabu2: insekto
+    tabu3: poleno
+    tabu4: floro
+    tabu5: flava
+    aŭtoro: Rob Ketlaer
+
+krajono:
+    tabu1: skribi
+    tabu2: desegni
+    tabu3: papero
+    tabu4: koloro
+    tabu5: kajero
+    aŭtoro: Rob Ketlaer
+
+pirato:
+    tabu1: maro
+    tabu2: rabisto
+    tabu3: ŝteli
+    tabu4: trezoro
+    tabu5: ŝipo
+    aŭtoro: Rob Ketlaer
+
+polpo:
+    tabu1: maro
+    tabu2: besto
+    tabu3: suĉilo
+    tabu4: brako
+    tabu5: ok
+    aŭtoro: Rob Ketlaer
+
+pompo:
+    tabu1: lukso
+    tabu2: parado
+    tabu3: reĝo
+    tabu4: ceremonio
+    tabu5: impona
+    aŭtoro: Rob Ketlaer
+
+ponardo:
+    tabu1: pinta
+    tabu2: tranĉilo
+    tabu3: zono
+    tabu4: piki
+    tabu5: armilo
+    aŭtoro: Rob Ketlaer
+
+maĉi:
+    tabu1: manĝi
+    tabu2: dentoj
+    tabu3: mordi
+    tabu4: makzelo
+    tabu5: molaro
+    aŭtoro: Rob Ketlaer
+
+monarko:
+    tabu1: reĝo
+    tabu2: ŝtato
+    tabu3: lando
+    tabu4: princo
+    tabu5: krono
+    aŭtoro: Rob Ketlaer
+
+porko:
+    tabu1: besto
+    tabu2: farmo
+    tabu3: viando
+    tabu4: mamulo
+    tabu5: trufelo
+    aŭtoro: Rob Ketlaer
+
+portreto:
+    tabu1: desegnaĵo
+    tabu2: pentraĵo
+    tabu3: persono
+    tabu4: muzeo
+    tabu5: foto
+    aŭtoro: Rob Ketlaer
+
+poŝo:
+    tabu1: vesto
+    tabu2: paperujo
+    tabu3: monujo
+    tabu4: interne
+    tabu5: saketo
+    aŭtoro: Rob Ketlaer
+
+mordi:
+    tabu1: dento
+    tabu2: makzelo
+    tabu3: hundo
+    tabu4: manĝi
+    tabu5: boji
+    aŭtoro: Rob Ketlaer
+
+preciza:
+    tabu1: ĝusta
+    tabu2: klara
+    tabu3: neta
+    tabu4: ekzakta
+    tabu5: specifa
+    aŭtoro: Rob Ketlaer
+
+prefikso:
+    tabu1: afikso
+    tabu2: vorto
+    tabu3: antaŭ
+    tabu4: litero
+    tabu5: silabo
+    aŭtoro: Rob Ketlaer
+
+premio:
+    tabu1: rekompenco
+    tabu2: donaco
+    tabu3: mono
+    tabu4: venki
+    tabu5: konkurso
+    aŭtoro: Rob Ketlaer
+
+prezo:
+    tabu1: valoro
+    tabu2: vendi
+    tabu3: aĉeti
+    tabu4: butiko
+    tabu5: valuto
+    aŭtoro: Rob Ketlaer
+
+sabato:
+    tabu1: tago
+    tabu2: semajno
+    tabu3: lundo
+    tabu4: dimanĉo
+    tabu5: vendredo
+    aŭtoro: Rob Ketlaer
+
+sabro:
+    tabu1: armilo
+    tabu2: klingo
+    tabu3: spado
+    tabu4: skermo
+    tabu5: tranĉi
+    aŭtoro: Rob Ketlaer
+
+safrano:
+    tabu1: krokuso
+    tabu2: floro
+    tabu3: oranĝa
+    tabu4: spico
+    tabu5: forta
+    aŭtoro: Rob Ketlaer
+
+kongreso:
+    tabu1: homoj
+    tabu2: amaso
+    tabu3: Esperanto
+    tabu4: fako
+    tabu5: prelego
+    aŭtoro: Rob Ketlaer
+
+salo:
+    tabu1: maro
+    tabu2: blanko
+    tabu3: pulvoro
+    tabu4: gustigi
+    tabu5: kuiri
+    aŭtoro: Rob Ketlaer
+
+hisi:
+    tabu1: supren
+    tabu2: flago
+    tabu3: velo
+    tabu4: ŝipo
+    tabu5: honoro
+    aŭtoro: Rob Ketlaer
+
+rostro:
+    tabu1: elefanto
+    tabu2: nazo
+    tabu3: longa
+    tabu4: trumpeto
+    tabu5: akvo
+    aŭtoro: Rob Ketlaer
+
+vojo:
+    tabu1: veturi
+    tabu2: pado
+    tabu3: aŭto
+    tabu4: domo
+    tabu5: vilaĝo
+    aŭtoro: Rob Ketlaer
+
+saŭco:
+    tabu1: manĝaĵo
+    tabu2: gustigi
+    tabu3: viando
+    tabu4: spici
+    tabu5: aldoni
+    aŭtoro: Rob Ketlaer
+
+savano:
+    tabu1: tropika
+    tabu2: ebenaĵo
+    tabu3: stepo
+    tabu4: leono
+    tabu5: varma
+    aŭtoro: Rob Ketlaer
+
+sciuro:
+    tabu1: besto
+    tabu2: arbaro
+    tabu3: vosto
+    tabu4: nukso
+    tabu5: salti
+    aŭtoro: Rob Ketlaer
+
+nesto:
+    tabu1: besto
+    tabu2: loĝi
+    tabu3: arbo
+    tabu4: kavo
+    tabu5: birdo
+    aŭtoro: Rob Ketlaer
+
+seruro:
+    tabu1: ŝlosi
+    tabu2: pordo
+    tabu3: fermi
+    tabu4: kesto
+    tabu5: trezoro
+    aŭtoro: Rob Ketlaer
+
+sfero:
+    tabu1: globo
+    tabu2: bulo
+    tabu3: tero
+    tabu4: ronda
+    tabu5: medio
+    aŭtoro: Rob Ketlaer
+
+sinjoro:
+    tabu1: viro
+    tabu2: homo
+    tabu3: edzo
+    tabu4: Jesuo
+    tabu5: ĝentila
+    aŭtoro: Rob Ketlaer
+
+skeleto:
+    tabu1: osto
+    tabu2: korpo
+    tabu3: spino
+    tabu4: homo
+    tabu5: vertebro
+    aŭtoro: Rob Ketlaer
+
+sonĝo:
+    tabu1: revo
+    tabu2: nokto
+    tabu3: penso
+    tabu4: imago
+    tabu5: dormi
+    aŭtoro: Rob Ketlaer
+
+spiono:
+    tabu1: sekreta
+    tabu2: informi
+    tabu3: fremda
+    tabu4: observi
+    tabu5: kaŝe
+    aŭtoro: Rob Ketlaer
+
+stomako:
+    tabu1: korpo
+    tabu2: manĝi
+    tabu3: ventro
+    tabu4: intesto
+    tabu5: acido
+    aŭtoro: Rob Ketlaer
+
+strigo:
+    tabu1: birdo
+    tabu2: nokto
+    tabu3: okulo
+    tabu4: muso
+    tabu5: flugi
+    aŭtoro: Rob Ketlaer
+
+surda:
+    tabu1: aŭdi
+    tabu2: orelo
+    tabu3: bruo
+    tabu4: aŭskulti
+    tabu5: kapablo
+    aŭtoro: Rob Ketlaer
+
+sveni:
+    tabu1: konscio
+    tabu2: malaperi
+    tabu3: perdi
+    tabu4: movo
+    tabu5: fali
+    aŭtoro: Rob Ketlaer
+
+okulkuracisto:
+    tabu1: Zamenhof
+    tabu2: oftalmologo
+    tabu3: medicino
+    tabu4: rigardi
+    tabu5: okulvitroj
+    aŭtoro: Rob Ketlaer
+
+ŝlosi:
+    tabu1: fermi
+    tabu2: seruro
+    tabu3: pordo
+    tabu4: kofro
+    tabu5: valizo
+    aŭtoro: Rob Ketlaer
+
+oceano:
+    tabu1: maro
+    tabu2: akvo
+    tabu3: tero
+    tabu4: granda
+    tabu5: surfaco
+    aŭtoro: Rob Ketlaer
+
+tabako:
+    tabu1: planto
+    tabu2: fumi
+    tabu3: cigaro
+    tabu4: pipo
+    tabu5: cigaredo
+    aŭtoro: Rob Ketlaer
+
+procesio:
+    tabu1: religio
+    tabu2: eklezio
+    tabu3: rito
+    tabu4: pompo
+    tabu5: vico
+    aŭtoro: Rob Ketlaer
+
+tajpi:
+    tabu1: skribi
+    tabu2: maŝino
+    tabu3: komputilo
+    tabu4: mesaĝo
+    tabu5: papero
+    aŭtoro: Rob Ketlaer
+
+talpo:
+    tabu1: besto
+    tabu2: tera
+    tabu3: blinda
+    tabu4: insekto
+    tabu5: fosi
+    aŭtoro: Rob Ketlaer
+
+tatui:
+    tabu1: skribi
+    tabu2: haŭto
+    tabu3: desegni
+    tabu4: dorso
+    tabu5: inko
+    aŭtoro: Rob Ketlaer
+
+teo:
+    tabu1: trinki
+    tabu2: kafo
+    tabu3: planto
+    tabu4: folioj
+    tabu5: varma
+    aŭtoro: Rob Ketlaer
+
+templo:
+    tabu1: konstruaĵo
+    tabu2: kulto
+    tabu3: rito
+    tabu4: preĝi
+    tabu5: Dio
+    aŭtoro: Rob Ketlaer
+
+ĝangalo:
+    tabu1: praa
+    tabu2: sovaĝa
+    tabu3: arbaro
+    tabu4: bestoj
+    tabu5: plantoj
+    aŭtoro: Rob Ketlaer
+
+tigro:
+    tabu1: besto
+    tabu2: pantero
+    tabu3: strioj
+    tabu4: sovaĝa
+    tabu5: kato
+    aŭtoro: Rob Ketlaer
+
+moskito:
+    tabu1: insekto
+    tabu2: piki
+    tabu3: sango
+    tabu4: muŝo
+    tabu5: kulo
+    aŭtoro: Rob Ketlaer
+
+titolo:
+    tabu1: libro
+    tabu2: poemo
+    tabu3: artikolo
+    tabu4: ĉapitro
+    tabu5: filmo
+    aŭtoro: Rob Ketlaer
+
+tribunalo:
+    tabu1: juĝi
+    tabu2: krimo
+    tabu3: rabi
+    tabu4: verdikto
+    tabu5: Hago
+    aŭtoro: Rob Ketlaer
+
+tordi:
+    tabu1: turni
+    tabu2: volvi
+    tabu3: misformi
+    tabu4: tuko
+    tabu5: stango
+    aŭtoro: Rob Ketlaer
+
+torto:
+    tabu1: kuko
+    tabu2: frukto
+    tabu3: manĝi
+    tabu4: pasto
+    tabu5: kremo
+    aŭtoro: Rob Ketlaer
+
+tropiko:
+    tabu1: paralelo
+    tabu2: ekvatoro
+    tabu3: kaprikorno
+    tabu4: tero
+    tabu5: varma
+    aŭtoro: Rob Ketlaer
+
+trumpeto:
+    tabu1: muziko
+    tabu2: instrumento
+    tabu3: blovi
+    tabu4: ĵazo
+    tabu5: kupro
+    aŭtoro: Rob Ketlaer
+
+truto:
+    tabu1: fiŝo
+    tabu2: salmono
+    tabu3: rivero
+    tabu4: bongusta
+    tabu5: manĝi
+    aŭtoro: Rob Ketlaer
+
+tuko:
+    tabu1: teksaĵo
+    tabu2: tablo
+    tabu3: ĉifono
+    tabu4: kapo
+    tabu5: sekigi
+    aŭtoro: Rob Ketlaer
+
+umbiliko:
+    tabu1: kavo
+    tabu2: ventro
+    tabu3: bebo
+    tabu4: naski
+    tabu5: ŝnuro
+    aŭtoro: Rob Ketlaer
+
+vagono:
+    tabu1: veturilo
+    tabu2: trajno
+    tabu3: pasaĝero
+    tabu4: transporto
+    tabu5: relo
+    aŭtoro: Rob Ketlaer
+
+valso:
+    tabu1: danco
+    tabu2: turni
+    tabu3: muziko
+    tabu4: balo
+    tabu5: Vieno
+    aŭtoro: Rob Ketlaer
+
+vanilo:
+    tabu1: planto
+    tabu2: aroma
+    tabu3: kuko
+    tabu4: tropika
+    tabu5: dolĉa
+    aŭtoro: Rob Ketlaer
+
+vejno:
+    tabu1: sango
+    tabu2: arterio
+    tabu3: koro
+    tabu4: tubo
+    tabu5: marmoro
+    aŭtoro: Rob Ketlaer
+
+velo:
+    tabu1: ŝipo
+    tabu2: vento
+    tabu3: maro
+    tabu4: hisi
+    tabu5: tuko
+    aŭtoro: Rob Ketlaer
+
+vento:
+    tabu1: blovi
+    tabu2: aero
+    tabu3: velo
+    tabu4: fluo
+    tabu5: ŝtormo
+    aŭtoro: Rob Ketlaer
+
+diri:
+    tabu1: buŝo
+    tabu2: lango
+    tabu3: paroli
+    tabu4: vorto
+    tabu5: frazo
+    aŭtoro: Rob Ketlaer
+
+vertebro:
+    tabu1: osto
+    tabu2: dorso
+    tabu3: kolumno
+    tabu4: mjelo
+    tabu5: skeleto
+    aŭtoro: Rob Ketlaer
+
+spiri:
+    tabu1: aero
+    tabu2: pulmo
+    tabu3: buŝo
+    tabu4: korpo
+    tabu5: oksigeno
+    aŭtoro: Rob Ketlaer
+
+puzlo:
+    tabu1: tasko
+    tabu2: enigmo
+    tabu3: peco
+    tabu4: solvi
+    tabu5: bildo
+    aŭtoro: Rob Ketlaer
+
+vico:
+    tabu1: linio
+    tabu2: rango
+    tabu3: procesio
+    tabu4: serio
+    tabu5: numero
+    aŭtoro: Rob Ketlaer
+
+vidvino:
+    tabu1: morto
+    tabu2: edzino
+    tabu3: sola
+    tabu4: virino
+    tabu5: postresti
+    aŭtoro: Rob Ketlaer
+
+familio:
+    tabu1: patro
+    tabu2: filo
+    tabu3: domo
+    tabu4: infano
+    tabu5: edzoj
+    aŭtoro: Rob Ketlaer
+
+violonĉelo:
+    tabu1: violono
+    tabu2: muziko
+    tabu3: granda
+    tabu4: orkestro
+    tabu5: arĉo
+    aŭtoro: Rob Ketlaer
+
+viruso:
+    tabu1: parazito
+    tabu2: mikrobo
+    tabu3: malsano
+    tabu4: komputilo
+    tabu5: malbona
+    aŭtoro: Rob Ketlaer
+
+supo:
+    tabu1: manĝi
+    tabu2: plado
+    tabu3: fluaĵo
+    tabu4: varma
+    tabu5: telero
+    aŭtoro: Rob Ketlaer
+
+vitralo:
+    tabu1: katedralo
+    tabu2: fenestro
+    tabu3: preĝejo
+    tabu4: desegno
+    tabu5: sanktulo
+    aŭtoro: Rob Ketlaer
+
+vosto:
+    tabu1: hundo
+    tabu2: vertebro
+    tabu3: kato
+    tabu4: diablo
+    tabu5: besto
+    aŭtoro: Rob Ketlaer
+
+vulpo:
+    tabu1: besto
+    tabu2: arbaro
+    tabu3: rufa
+    tabu4: ruza
+    tabu5: lupo
+    aŭtoro: Rob Ketlaer
+
+zebro:
+    tabu1: besto
+    tabu2: ĉevalo
+    tabu3: strioj
+    tabu4: Afriko
+    tabu5: azeno
+    aŭtoro: Rob Ketlaer
+
+zinko:
+    tabu1: metalo
+    tabu2: tegmento
+    tabu3: sitelo
+    tabu4: defluilo
+    tabu5: latuno
+    aŭtoro: Rob Ketlaer
+
+zodiako:
+    tabu1: ĉielo
+    tabu2: steloj
+    tabu3: planedoj
+    tabu4: konstelacioj
+    tabu5: naskiĝo
+    aŭtoro: Rob Ketlaer
+
+zono:
+    tabu1: pantalono
+    tabu2: ledo
+    tabu3: talio
+    tabu4: ĉirkaŭi
+    tabu5: bendo
+    aŭtoro: Rob Ketlaer
+
+zoo:
+    tabu1: bestoj
+    tabu2: parko
+    tabu3: spekti
+    tabu4: elefanto
+    tabu5: leono
+    aŭtoro: Rob Ketlaer
+
+zumi:
+    tabu1: insekto
+    tabu2: bruo
+    tabu3: flugi
+    tabu4: abelo
+    tabu5: muŝo
+    aŭtoro: Rob Ketlaer
+
+selo:
+    tabu1: ĉevalo
+    tabu2: biciklo
+    tabu3: sidi
+    tabu4: veturilo
+    tabu5: pugo
+    aŭtoro: Rob Ketlaer
+
+glano:
+    tabu1: kverko
+    tabu2: frukto
+    tabu3: arbaro
+    tabu4: porko
+    tabu5: semo
+    aŭtoro: Rob Ketlaer
+
+gluo:
+    tabu1: kunigi
+    tabu2: papero
+    tabu3: ligno
+    tabu4: afiŝo
+    tabu5: metalo
+    aŭtoro: Rob Ketlaer
+
+gorĝo:
+    tabu1: kolo
+    tabu2: korpo
+    tabu3: spiri
+    tabu4: gluti
+    tabu5: kapo
+    aŭtoro: Rob Ketlaer
+
+gorilo:
+    tabu1: simio
+    tabu2: simili
+    tabu3: besto
+    tabu4: granda
+    tabu5: arbaro
+    aŭtoro: Rob Ketlaer
+
+graso:
+    tabu1: butero
+    tabu2: margarino
+    tabu3: dika
+    tabu4: oleo
+    tabu5: viando
+    aŭtoro: Rob Ketlaer
+
+koverto:
+    tabu1: letero
+    tabu2: poŝto
+    tabu3: kovrilo
+    tabu4: enteni
+    tabu5: sendi
+    aŭtoro: Rob Ketlaer
+
+ĝentila:
+    tabu1: afabla
+    tabu2: bona
+    tabu3: simpatio
+    tabu4: obei
+    tabu5: ĝentlemano
+    aŭtoro: Rob Ketlaer
+
+atlaso:
+    tabu1: mapo
+    tabu2: libro
+    tabu3: lando
+    tabu4: tero
+    tabu5: maro
+    aŭtoro: Rob Ketlaer
+
+ĝusta:
+    tabu1: preciza
+    tabu2: neta
+    tabu3: ekzakta
+    tabu4: justa
+    tabu5: specifa
+    aŭtoro: Rob Ketlaer
+
+harpo:
+    tabu1: muziko
+    tabu2: granda
+    tabu3: kordoj
+    tabu4: instrumento
+    tabu5: arko
+    aŭtoro: Rob Ketlaer
+
+latitudo:
+    tabu1: distanco
+    tabu2: nordo
+    tabu3: sudo
+    tabu4: ekvatoro
+    tabu5: longitudo
+    aŭtoro: Rob Ketlaer
+
+leciono:
+    tabu1: lernejo
+    tabu2: infanoj
+    tabu3: instruisto
+    tabu4: tasko
+    tabu5: temo
+    aŭtoro: Rob Ketlaer
+
+lenso:
+    tabu1: vitro
+    tabu2: okulo
+    tabu3: kurba
+    tabu4: lumo
+    tabu5: rigardi
+    aŭtoro: Rob Ketlaer
+
+libelo:
+    tabu1: insekto
+    tabu2: akvo
+    tabu3: flugiloj
+    tabu4: lageto
+    tabu5: koloroj
+    aŭtoro: Rob Ketlaer
+
+lifto:
+    tabu1: supreniri
+    tabu2: levi
+    tabu3: etaĝo
+    tabu4: elevatoro
+    tabu5: kaĝo
+    aŭtoro: Rob Ketlaer
+
+lilio:
+    tabu1: floro
+    tabu2: blanka
+    tabu3: pureco
+    tabu4: planto
+    tabu5: akvo
+    aŭtoro: Rob Ketlaer
+
+longitudo:
+    tabu1: distanco
+    tabu2: meridiano
+    tabu3: ekvatoro
+    tabu4: tero
+    tabu5: latitudo
+    aŭtoro: Rob Ketlaer
+
+lumbriko:
+    tabu1: tero
+    tabu2: vermo
+    tabu3: rampi
+    tabu4: fiŝkapti
+    tabu5: kompoŝti
+    aŭtoro: Rob Ketlaer
+
+lutro:
+    tabu1: besto
+    tabu2: rivero
+    tabu3: naĝi
+    tabu4: fiŝo
+    tabu5: mamulo
+    aŭtoro: Rob Ketlaer
+
+maizo:
+    tabu1: planto
+    tabu2: spiko
+    tabu3: grajnoj
+    tabu4: flava
+    tabu5: manĝo
+    aŭtoro: Rob Ketlaer
+
+majoro:
+    tabu1: armeo
+    tabu2: kapitano
+    tabu3: leŭtenanto
+    tabu4: oficiro
+    tabu5: milito
+    aŭtoro: Rob Ketlaer
+
+mamuto:
+    tabu1: elefanto
+    tabu2: fosilia
+    tabu3: dentego
+    tabu4: kolosa
+    tabu5: haroj
+    aŭtoro: Rob Ketlaer
+
+mapo:
+    tabu1: atlaso
+    tabu2: geografio
+    tabu3: papero
+    tabu4: ŝoseo
+    tabu5: urbo
+    aŭtoro: Rob Ketlaer
+
+marĉo:
+    tabu1: koto
+    tabu2: akvo
+    tabu3: rano
+    tabu4: mola
+    tabu5: ŝlimo
+    aŭtoro: Rob Ketlaer
+
+marioneto:
+    tabu1: pupo
+    tabu2: fadeno
+    tabu3: teatro
+    tabu4: pulĉinelo
+    tabu5: harlekeno
+    aŭtoro: Rob Ketlaer
+
+marmoto:
+    tabu1: besto
+    tabu2: dormi
+    tabu3: vintro
+    tabu4: monto
+    tabu5: ronĝi
+    aŭtoro: Rob Ketlaer
+
