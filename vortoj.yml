@@ -1,4590 +1,4590 @@
-﻿- domo:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - ĉambro
-        - loĝi
-        - urbo
-        - tegmento
-        - konstruaĵo
-
-- aŭto:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - veturi
-        - strato
-        - motoro
-        - rapida
-        - trafiko
-
-- fenestro:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - pordo
-        - domo
-        - vitro
-        - kurteno
-        - ĉambro
-
-- mi:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - vi
-        - ni
-        - unu
-        - homo
-        - pronomo
-
-- dorso:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - ventro
-        - pugo
-        - malantaŭ
-        - ŝultro
-        - korpo
-
-- kulero:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - forko
-        - tranĉilo
-        - manĝi
-        - supo
-        - kafo
-
-- fajro:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - flamo
-        - bruli
-        - varma
-        - ligno
-        - lumo
-
-- simio:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - animalo
-        - besto
-        - Afriko
-        - banano
-        - arbo
-
-- sapo:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - lavi
-        - purigi
-        - akvo
-        - ŝaŭmo
-        - bani
-
-- filmo:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - kino
-        - bildo
-        - aktoro
-        - ekrano
-        - foto
-
-- ovo:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - koko
-        - birdo
-        - ŝelo
-        - blanka
-        - flava
-
-- insekto:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - besto
-        - animalo
-        - skarabo
-        - muŝo
-        - kruro
-
-- butono:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - vesto
-        - kudri
-        - ronda
-        - truo
-        - fadeno
-
-- donaco:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - naskiĝtago
-        - skatolo
-        - doni
-        - surprizo
-        - Kristnasko
-
-- desegno:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - krajono
-        - bildo
-        - arto
-        - papero
-        - pentri
-
-- korno:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - bovo
-        - kapo
-        - osto
-        - malmola
-        - besto
-
-- lampo:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - lumo
-        - hela
-        - nokto
-        - ŝalti
-        - ampolo
-
-- pomo:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - manĝi
-        - ronda
-        - arbo
-        - frukto
-        - kreski
-
-- lingvo:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - paroli
-        - legi
-        - skribi
-        - komuniki
-        - vorto
-
-- ŝipo:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - maro
-        - rivero
-        - boato
-        - veturi
-        - akvo
-
-- orelo:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - aŭdi
-        - aŭskulti
-        - kapo
-        - flanko
-        - vizaĝo
-
-- radio:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - aŭdi
-        - aŭskulti
-        - programo
-        - aparato
-        - elsendo
-
-- fromaĝo:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - lakto
-        - manĝi
-        - kolbaso
-        - kazeo
-        - bovino
-
-- elefanto:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - rostro
-        - granda
-        - besto
-        - animalo
-        - griza
-
-- telero:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - taso
-        - manĝi
-        - vazaro
-        - ronda
-        - plado
-
-- muŝo:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - besto
-        - animalo
-        - insekto
-        - flugi
-        - malgranda
-
-- ŝerco:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - ridi
-        - gaja
-        - rakonto
-        - paroli
-        - legi
-
-- ĝirafo:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - animalo
-        - besto
-        - Afriko
-        - kolo
-        - granda
-
-- horo:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - minuto
-        - sekundo
-        - tempo
-        - horloĝo
-        - tago
-
-- ludilo:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - infano
-        - pilko
-        - pupo
-        - amuzi
-        - urso
-
-- piedo:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - kruro
-        - ŝuo
-        - ŝtrumpo
-        - iri
-        - kuri
-
-- bruli:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - fajro
-        - flamo
-        - varma
-        - hela
-        - ligno
-
-- ombro:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - lumo
-        - suno
-        - malhela
-        - nigra
-        - vidi
-
-- faruno:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - tritiko
-        - pano
-        - kuko
-        - baki
-        - mueli
-
-- kuko:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - faruno
-        - manĝi
-        - dolĉa
-        - sukero
-        - baki
-
-- insulo:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - maro
-        - akvo
-        - tero
-        - oceano
-        - ŝipo
-
-- krokodilo:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - besto
-        - dento
-        - rivero
-        - Esperanto
-        - danĝera
-
-- banano:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - frukto
-        - flava
-        - kurba
-        - longa
-        - manĝi
-
-- tomato:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - ruĝa
-        - legomo
-        - manĝi
-        - kreski
-        - planto
-
-- verbo:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - vorto
-        - agi
-        - substantivo
-        - adjektivo
-        - adverbo
-
-- mensogi:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - diri
-        - malvero
-        - ŝajnigi
-        - trompi
-        - honesta
-
-- plori:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - larmo
-        - doloro
-        - ĝemi
-        - malĝojo
-        - okulo
-
-- morto:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - maljuna
-        - naskiĝi
-        - vivo
-        - fino
-        - perdi
-
-- trajno:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - vagono
-        - relo
-        - veturi
-        - fervojo
-        - rapida
-
-- buŝo:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - vizaĝo
-        - manĝi
-        - paroli
-        - nazo
-        - kapo
-
-- junulo:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - infano
-        - homo
-        - plenkreskulo
-        - viro
-        - knabo
-
-- pagi:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - mono
-        - aĉeti
-        - vendi
-        - doni
-        - elspezi
-
-- sukero:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - dolĉa
-        - frandaĵo
-        - kafo
-        - bombono
-        - infano
-
-- dento:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - buŝo
-        - manĝi
-        - maĉi
-        - mordi
-        - malmola
-
-- veneno:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - mortigi
-        - substanco
-        - serpento
-        - araneo
-        - drogo
-
-- iri:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - kuri
-        - promeni
-        - piedo
-        - kruro
-        - moviĝi
-
-- spegulo:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - vitro
-        - metalo
-        - lumo
-        - rigardi
-        - bildo
-
-- lerni:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - instrui
-        - scii
-        - infano
-        - memori
-        - ekzerci
-
-- ronki:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - dormi
-        - bruo
-        - nokto
-        - lito
-        - sonĝi
-
-- tramo:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - veturi
-        - trajno
-        - relo
-        - urbo
-        - strato
-
-- matematiko:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - kalkuli
-        - nombro
-        - scienco
-        - fako
-        - lernejo
-
-- universitato:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - lerni
-        - instrui
-        - profesoro
-        - studento
-        - doktoro
-
-- elektro:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - lampo
-        - ŝalti
-        - drato
-        - kurento
-        - energio
-
-- turo:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - konstruaĵo
-        - alta
-        - ŝako
-        - preĝejo
-        - domo
-
-- sago:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - arko
-        - pafi
-        - pinto
-        - montri
-        - direkto
-
-- tago:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - tempo
-        - monato
-        - jaro
-        - semajno
-        - nokto
-
-- horloĝo:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - horo
-        - minuto
-        - sekundo
-        - tempo
-        - montrilo
-
-- suno:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - luno
-        - varma
-        - hela
-        - ĉielo
-        - stelo
-
-- semajno:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - tago
-        - lundo
-        - vendredo
-        - dimanĉo
-        - monato
-
-- ventro:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - stomako
-        - korpo
-        - brusto
-        - kapo
-        - brako
-
-- haro:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - kapo
-        - virino
-        - longa
-        - maldika
-        - kombi
-
-- herbo:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - planto
-        - ĝardeno
-        - tero
-        - verda
-        - gazono
-
-- telfero:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - veturi
-        - monto
-        - funikularo
-        - vagono
-        - kablo
-
-- nubo:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - blanka
-        - ĉielo
-        - pluvi
-        - vaporo
-        - vetero
-
-- soldato:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - milito
-        - batali
-        - armeo
-        - pafilo
-        - uniformo
-
-- nokto:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - tago
-        - nigra
-        - malhela
-        - stelo
-        - luno
-
-- lago:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - akvo
-        - maro
-        - boato
-        - naĝi
-        - fiŝo
-
-- pado:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - vojo
-        - iri
-        - strato
-        - promeni
-        - arbaro
-
-- ĉielo:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - blua
-        - nubo
-        - suno
-        - supre
-        - stelo
-
-- fadeno:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - kudri
-        - longa
-        - maldika
-        - ŝnuro
-        - ŝtofo
-
-- ankro:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - ŝipo
-        - maro
-        - fiksi
-        - ŝnuro
-        - fero
-
-- vitro:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - fenestro
-        - malmola
-        - travidebla
-        - substanco
-        - rompebla
-
-- fabelo:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - legendo
-        - rakonto
-        - fantazio
-        - aventuro
-        - mensogi
-
-- libro:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - legi
-        - vorto
-        - litero
-        - papero
-        - paĝo
-
-- renkontiĝo:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - Esperanto
-        - homoj
-        - kunveno
-        - prelego
-        - paroli
-
-- nazo:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - vizaĝo
-        - flari
-        - odoro
-        - okulo
-        - buŝo
-
-- vetero:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - nubo
-        - vento
-        - suno
-        - pluvi
-        - neĝi
-
-- tritiko:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - pano
-        - grajno
-        - faruno
-        - baki
-        - greno
-
-- barbo:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - haro
-        - vizaĝo
-        - buŝo
-        - nazo
-        - vango
-
-- muso:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - malgranda
-        - besto
-        - animalo
-        - kato
-        - griza
-
-- mielo:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - abelo
-        - manĝi
-        - dolĉa
-        - sukero
-        - urso
-
-- bruo:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - laŭta
-        - sono
-        - aŭdi
-        - orelo
-        - krii
-
-- serpento:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - longa
-        - maldika
-        - veneno
-        - besto
-        - piedo
-
-- minuto:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - horo
-        - sekundo
-        - tempo
-        - horloĝo
-        - tago
-
-- verda:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - ruĝa
-        - blua
-        - flava
-        - koloro
-        - farbo
-
-- mano:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - brako
-        - fingro
-        - pugno
-        - ganto
-        - homo
-
-- lernejo:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - instrui
-        - domo
-        - infano
-        - leciono
-        - ferioj
-
-- bildo:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - foto
-        - desegno
-        - arto
-        - koloro
-        - farbo
-
-- pano:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - faruno
-        - baki
-        - manĝi
-        - tritiko
-        - forno
-
-- blanka:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - hela
-        - nigra
-        - koloro
-        - lumo
-        - neĝo
-
-- Zamenhof:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - pola
-        - Esperanto
-        - Bjalistoko
-        - lingvo
-        - okulkuracisto
-
-- papilio:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - besto
-        - insekto
-        - flugi
-        - raŭpo
-        - floro
-
-- lito:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - dormi
-        - kuŝi
-        - sonĝi
-        - ripozi
-        - kuseno
-
-- mateno:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - vespero
-        - frue
-        - tago
-        - nokto
-        - tempo
-
-- substantivo:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - objekto
-        - adjektivo
-        - vorto
-        - verbo
-        - frazo
-
-- cirko:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - tendo
-        - klaŭno
-        - artisto
-        - leono
-        - spektaklo
-
-- pluvi:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - akvo
-        - vetero
-        - nubo
-        - suno
-        - neĝo
-
-- ŝarko:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - besto
-        - fiŝo
-        - maro
-        - dento
-        - manĝi
-
-- rabisto:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - ŝteli
-        - krimulo
-        - polico
-        - malliberejo
-        - fripono
-
-- plumo:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - birdo
-        - flugi
-        - skribi
-        - malpeza
-        - lanugo
-
-- kanti:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - muziko
-        - voĉo
-        - aŭdi
-        - aŭskulti
-        - sono
-
-- jupo:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - virino
-        - vestaĵo
-        - surmeti
-        - kruro
-        - talio
-
-- tempo:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - horloĝo
-        - sekundo
-        - minuto
-        - horo
-        - daŭri
-
-- osto:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - korpo
-        - homo
-        - besto
-        - malmola
-        - skeleto
-
-- dormi:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - sonĝi
-        - kuŝi
-        - ripozi
-        - lito
-        - ronki
-
-- globo:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - ronda
-        - pilko
-        - tero
-        - bulo
-        - cirklo
-
-- okulvitroj:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - orelo
-        - nazo
-        - vidi
-        - miopa
-        - lenso
-
-- instrui:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - lerni
-        - sciigi
-        - eduki
-        - infano
-        - montri
-
-- ŝako:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - ludo
-        - reĝo
-        - tabulo
-        - nigra
-        - blanka
-
-- soifa:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - trinki
-        - malsata
-        - dezerto
-        - akvo
-        - likvo
-
-- gazeto:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - presi
-        - novaĵo
-        - sciigi
-        - legi
-        - papero
-
-- poŝto:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - letero
-        - pakaĵo
-        - transporti
-        - afranko
-        - koverto
-
-- sango:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - korpo
-        - ruĝa
-        - vundo
-        - koro
-        - likva
-
-- ĉevalo:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - besto
-        - rajdi
-        - vosto
-        - kaleŝo
-        - animalo
-
-- ŝati:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - ami
-        - estimi
-        - plaĉi
-        - volonte
-        - aprezi
-
-- hundo:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - kato
-        - boji
-        - besto
-        - animalo
-        - lupo
-
-- buso:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - aŭto
-        - veturi
-        - strato
-        - granda
-        - homo
-
-- ŝuo:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - piedo
-        - iri
-        - kruro
-        - boto
-        - ŝtrumpo
-
-- kalendaro:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - tago
-        - monato
-        - jaro
-        - tabelo
-        - semajno
-
-- lakto:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - bovino
-        - trinki
-        - blanka
-        - fromaĝo
-        - kazeo
-
-- krano:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - akvo
-        - flui
-        - tubo
-        - turni
-        - lavi
-
-- kajero:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - papero
-        - skribi
-        - paĝo
-        - noti
-        - lerni
-
-- okulo:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - vidi
-        - vizaĝo
-        - pupilo
-        - rigardi
-        - larmo
-
-- duŝo:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - akvo
-        - purigi
-        - lavi
-        - bani
-        - flui
-
-- skribi:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - papero
-        - krajono
-        - legi
-        - litero
-        - vorto
-
-- Ruĝa Kruco:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - kuraci
-        - helpo
-        - sano
-        - hospitalo
-        - flegistino
-
-- fungo:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - arbaro
-        - planto
-        - manĝi
-        - ĉapelo
-        - kreski
-
-- bombono:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - dolĉa
-        - sukero
-        - manĝi
-        - frandi
-        - infano
-
-- heliko:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - besto
-        - animalo
-        - limako
-        - konko
-        - malrapida
-
-- telefono:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - paroli
-        - aŭskulti
-        - komuniki
-        - aŭdi
-        - distanco
-
-- fingro:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - mano
-        - brako
-        - piedo
-        - ungo
-        - maldika
-
-- monto:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - alta
-        - neĝo
-        - valo
-        - roko
-        - tero
-
-- ŝultro:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - kolo
-        - brako
-        - ventro
-        - kapo
-        - dorso
-
-- ridi:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - gaja
-        - ĝoji
-        - buŝo
-        - humoro
-        - ŝerco
-
-- traduki:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - lingvo
-        - libro
-        - vorto
-        - paroli
-        - teksto
-
-- luno:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - suno
-        - stelo
-        - ĉielo
-        - nokto
-        - hela
-
-- mono:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - aĉeti
-        - vendi
-        - bileto
-        - pagi
-        - kotizo
-
-- kafo:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - trinki
-        - teo
-        - akvo
-        - lakto
-        - sukero
-
-- haveno:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - ŝipo
-        - maro
-        - urbo
-        - boato
-        - rivero
-
-- kato:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - besto
-        - animalo
-        - hundo
-        - muso
-        - arbo
-
-- vespo:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - besto
-        - insekto
-        - flugi
-        - flava
-        - piki
-
-- martelo:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - najlo
-        - bati
-        - peza
-        - fero
-        - ligno
-
-- legi:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - libro
-        - skribi
-        - vorto
-        - litero
-        - vidi
-
-- sekundo:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - minuto
-        - horo
-        - tempo
-        - horloĝo
-        - tago
-
-- triki:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - fadeno
-        - lano
-        - kudri
-        - kroĉi
-        - manlaboro
-
-- ĉapelo:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - kapo
-        - litero
-        - vesti
-        - ĉapo
-        - Esperanto
-
-- Pasporta Servo:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - gasto
-        - vojaĝi
-        - Esperanto
-        - loĝi
-        - senpage
-
-- foto:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - bildo
-        - filmo
-        - kamerao
-        - lumo
-        - vidi
-
-- kolbaso:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - fromaĝo
-        - viando
-        - manĝi
-        - besto
-        - intesto
-
-- nigra:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - koloro
-        - malhela
-        - blanka
-        - ombro
-        - nokto
-
-- cerbo:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - kapo
-        - pensi
-        - kranio
-        - inteligenta
-        - menso
-
-- neĝo:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - vintro
-        - blanka
-        - malvarma
-        - glacio
-        - pluvo
-
-- seĝo:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - sidi
-        - tablo
-        - meblo
-        - piedo
-        - apogilo
-
-- vespero:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - mateno
-        - tempo
-        - nokto
-        - malfrue
-        - tago
-
-- adjektivo:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - kia
-        - adverbo
-        - vorto
-        - substantivo
-        - frazo
-
-- kuracisto:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - malsana
-        - prizorgi
-        - flegi
-        - medicinisto
-        - vundo
-
-- baki:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - kuiri
-        - forno
-        - pano
-        - kuko
-        - varma
-
-- vino:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - trinki
-        - suko
-        - alkoholo
-        - glaso
-        - botelo
-
-- ĉielarko:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - koloro
-        - pluvo
-        - suno
-        - supra
-        - lumo
-
-- aero:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - spiri
-        - gaso
-        - malpeza
-        - elemento
-        - flugi
-
-- muziko:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - kanti
-        - sono
-        - instrumento
-        - aŭdi
-        - aŭskulti
-
-- eraro:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - malvero
-        - malĝuste
-        - malpravi
-        - korekti
-        - trompi
-
-- ondo:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - akvo
-        - maro
-        - vento
-        - monto
-        - leviĝi
-
-- fero:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - metalo
-        - peza
-        - ŝtalo
-        - rusto
-        - malmola
-
-- pordo:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - fenestro
-        - domo
-        - ĉambro
-        - fermi
-        - muro
-
-- ŝranko:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - meblo
-        - breto
-        - ligno
-        - kesto
-        - pordo
-
-- tabuo:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - ludo
-        - malpermesi
-        - rajti
-        - diri
-        - vorto
-
-- oro:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - metalo
-        - flava
-        - multekosta
-        - peza
-        - valora
-
-- lango:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - buŝo
-        - gustumi
-        - dento
-        - lipo
-        - paroli
-
-- dezerto:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - sablo
-        - seka
-        - varma
-        - pluvo
-        - akvo
-
-- funelo:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - likvaĵo
-        - verŝi
-        - konuso
-        - tubo
-        - botelo
-
-- plafono:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - domo
-        - supre
-        - tegmento
-        - ĉambro
-        - alta
-
-- sablo:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - ŝtono
-        - plaĝo
-        - dezerto
-        - infano
-        - ludi
-
-- rusto:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - fero
-        - metalo
-        - ruĝa
-        - bruna
-        - akvo
-
-- ŝtupo:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - supren
-        - suben
-        - etaĝo
-        - grimpi
-        - paŝi
-
-- fiŝo:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - akvo
-        - maro
-        - besto
-        - animalo
-        - naĝi
-
-- birdo:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - besto
-        - beko
-        - flugi
-        - nesto
-        - plumo
-
-- nuda:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - vesti
-        - ĉemizo
-        - pantalono
-        - bani
-        - haŭto
-
-- vizaĝo:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - okulo
-        - nazo
-        - buŝo
-        - kapo
-        - vango
-
-- akvo:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - maro
-        - pluvi
-        - lago
-        - naĝi
-        - trinki
-
-- bebo:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - infano
-        - eta
-        - malgranda
-        - ido
-        - homo
-
-- parfumo:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - odoro
-        - virino
-        - flari
-        - botelo
-        - multekosta
-
-- ĝardeno:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - arbo
-        - verda
-        - floro
-        - planto
-        - gazono
-
-- Esperanto:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - paroli
-        - lingvo
-        - Zamenhof
-        - komuniki
-        - internacia
-
-- vorto:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - lingvo
-        - paroli
-        - litero
-        - frazo
-        - skribi
-
-- testudo:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - animalo
-        - besto
-        - karapaco
-        - malrapida
-        - maljuna
-
-- tegmento:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - domo
-        - konstruaĵo
-        - supra
-        - kovri
-        - tegolo
-
-- kino:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - filmo
-        - ekrano
-        - aktoro
-        - spekti
-        - teatro
-
-- masko:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - vizaĝo
-        - kaŝi
-        - teatro
-        - aktoro
-        - kostumo
-
-- prelego:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - paroli
-        - aŭskulti
-        - kunveno
-        - kongreso
-        - salono
-
-- jaro:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - tago
-        - monato
-        - semajno
-        - kalendaro
-        - tempo
-
-- reĝo:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - monarko
-        - krono
-        - sceptro
-        - estro
-        - regno
-
-- rozo:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - ruĝa
-        - odoro
-        - floro
-        - ĝardeno
-        - bela
-
-- kuri:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - piedo
-        - iri
-        - rapide
-        - kruro
-        - marŝi
-
-- komputilo:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - ekrano
-        - klavo
-        - muso
-        - retumi
-        - maŝino
-
-- televidilo:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - spekti
-        - rigardi
-        - filmo
-        - bildo
-        - programo
-
-- maro:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - akvo
-        - tero
-        - plaĝo
-        - strando
-        - oceano
-
-- leono:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - besto
-        - animalo
-        - kato
-        - Afriko
-        - sovaĝa
-
-- aviadilo:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - veturi
-        - flugi
-        - rapida
-        - vojaĝi
-        - ĉielo
-
-- glaso:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - taso
-        - trinki
-        - vino
-        - biero
-        - akvo
-
-- preĝejo:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - domo
-        - Dio
-        - pastro
-        - dimanĉo
-        - pastoro
-
-- pantalono:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - vesti
-        - kruro
-        - gambo
-        - surmeti
-        - piedo
-
-- papero:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - blanka
-        - maldika
-        - skribi
-        - pentri
-        - folio
-
-- planto:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - verda
-        - besto
-        - arbo
-        - floro
-        - herbo
-
-- pilko:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - futbalo
-        - ludi
-        - infano
-        - ronda
-        - globo
-
-- urbo:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - vilaĝo
-        - domo
-        - loĝi
-        - lando
-        - strato
-
-- botelo:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - vitro
-        - ujo
-        - likva
-        - fluaĵo
-        - trinki
-
-- folio:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - arbo
-        - planto
-        - floro
-        - verda
-        - kreski
-
-- manĝi:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - trinki
-        - buŝo
-        - stomako
-        - mordi
-        - gluti
-
-- ponto:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - konstruaĵo
-        - trairi
-        - rivero
-        - strato
-        - viadukto
-
-- ĵongli:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - pilko
-        - ringo
-        - ĵeti
-        - kapti
-        - cirko
-
-- kandelo:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - vakso
-        - flamo
-        - fajro
-        - bruli
-        - lumo
-
-- tablo:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - seĝo
-        - plato
-        - piedo
-        - meblo
-        - ligno
-
-- bovino:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - lakto
-        - besto
-        - animalo
-        - korno
-        - melki
-
-- semaforo:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - ruĝa
-        - flava
-        - verda
-        - strato
-        - aŭto
-
-- barilo:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - limo
-        - muro
-        - ĝardeno
-        - strato
-        - domo
-
-- knabino:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - virino
-        - juna
-        - homo
-        - infano
-        - aĝo
-
-- cindro:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - fajro
-        - bruli
-        - flamo
-        - griza
-        - restaĵo
-
-- kajto:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - ludilo
-        - vento
-        - flugi
-        - aero
-        - infano
-
-- kuirejo:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - baki
-        - boligi
-        - ĉambro
-        - poto
-        - manĝaĵo
-
-- flugi:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - movi
-        - aero
-        - birdo
-        - aviadilo
-        - ĉielo
-
-- glacio:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - akvo
-        - malvarma
-        - vintro
-        - neĝo
-        - malmola
-
-- januaro:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - monato
-        - jaro
-        - decembro
-        - februaro
-        - vintro
-
-- plumbo:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - metalo
-        - peza
-        - mola
-        - griza
-        - elemento
-
-- muro:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - domo
-        - konstruaĵo
-        - briko
-        - ŝtono
-        - masoni
-
-- ŝtrumpo:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - piedo
-        - ŝuo
-        - kruro
-        - triki
-        - vesto
-
-- montri:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - prezenti
-        - vidigi
-        - rigardo
-        - indiki
-        - fingro
-
-- taso:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - telero
-        - glaso
-        - trinki
-        - kafo
-        - teo
-
-- naĝi:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - akvo
-        - fiŝo
-        - movi
-        - flosi
-        - sporto
-
-- fumo:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - fajro
-        - tabako
-        - nebulo
-        - bruli
-        - incendio
-
-- kastelo:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - domo
-        - konstruaĵo
-        - reĝo
-        - princo
-        - loĝi
-
-- planko:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - malsupra
-        - domo
-        - ĉambro
-        - paŝi
-        - iri
-
-- pensi:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - ideo
-        - cerbo
-        - spirito
-        - opinii
-        - kredi
-
-- pafi:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - kuglo
-        - milito
-        - celi
-        - soldato
-        - mortigi
-
-- cigno:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - birdo
-        - besto
-        - akvo
-        - blanka
-        - kolo
-
-- ĉaso:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - pafilo
-        - arbaro
-        - besto
-        - birdo
-        - kapti
-
-- voĉo:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - sono
-        - gorĝo
-        - paroli
-        - aero
-        - tono
-
-- papago:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - birdo
-        - plumaro
-        - ripeti
-        - paroli
-        - kaĝo
-
-- truo:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - nenio
-        - vakuo
-        - kava
-        - groto
-        - malplena
-
-- printempo:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - sezono
-        - vintro
-        - somero
-        - jaro
-        - marto
-
-- hororo:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - filmo
-        - teruri
-        - abomeno
-        - naŭzo
-        - sango
-
-- miraklo:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - mirindaĵo
-        - mistero
-        - signo
-        - virgo
-        - nenatura
-
-- aŭtuno:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - sezono
-        - septembro
-        - printempo
-        - folioj
-        - bruna
-
-- lokomotivo:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - trajno
-        - relo
-        - vaporo
-        - fervojo
-        - vagono
-
-- juĝisto:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - akuzo
-        - verdikto
-        - tribunalo
-        - atestanto
-        - procezo
-
-- mizero:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - riĉeco
-        - nenio
-        - manko
-        - bezono
-        - malhavo
-
-- afiŝo:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - reklamo
-        - glui
-        - papero
-        - anonco
-        - bildo
-
-- korpo:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - persono
-        - homo
-        - karno
-        - membro
-        - skeleto
-
-- pramo:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - ŝipo
-        - boato
-        - rivero
-        - trans
-        - veturi
-
-- talio:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - korpo
-        - kokso
-        - virino
-        - ventro
-        - umbiliko
-
-- kaĝo:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - birdo
-        - stango
-        - besto
-        - zoo
-        - kapti
-
-- benzino:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - veturilo
-        - aŭto
-        - petrolo
-        - motoro
-        - dizelo
-
-- reto:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - fiŝo
-        - maro
-        - barko
-        - ŝipo
-        - araneo
-
-- kovrilo:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - lito
-        - dormi
-        - varma
-        - nokto
-        - skatolo
-
-- frukto:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - arbo
-        - semo
-        - pomo
-        - piro
-        - manĝi
-
-- inviti:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - gasto
-        - manĝi
-        - ricevi
-        - tablo
-        - trinki
-
-- urso:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - besto
-        - poluso
-        - blanka
-        - ludi
-        - mielo
-
-- protekti:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - helpi
-        - advokato
-        - asekuro
-        - ŝirmi
-        - polico
-
-- trezoro:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - mono
-        - oro
-        - pirato
-        - kofro
-        - juvelo
-
-- kerno:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - frukto
-        - centro
-        - amando
-        - semo
-        - mezo
-
-- biciklo:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - rado
-        - selo
-        - pedalo
-        - veturi
-        - kruro
-
-- diablo:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - Dio
-        - malbona
-        - infero
-        - delogi
-        - satano
-
-- poeto:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - verkisto
-        - rimo
-        - verso
-        - skribi
-        - emocio
-
-- ferioj:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - libertempo
-        - ripozo
-        - vojaĝo
-        - laboro
-        - lando
-
-- koro:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - sango
-        - cirkulado
-        - amo
-        - muskolo
-        - pumpi
-
-- vojaĝo:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - lando
-        - viziti
-        - ferioj
-        - hotelo
-        - veturi
-
-- boji:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - hundo
-        - jelpi
-        - bleki
-        - besto
-        - mordi
-
-- pasporto:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - dogano
-        - vizo
-        - landlimo
-        - vojaĝo
-        - dokumento
-
-- hipopotamo:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - besto
-        - mamulo
-        - dika
-        - rivero
-        - Nilo
-
-- ĉapo:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - ĉapelo
-        - kapo
-        - lano
-        - banado
-        - haro
-
-- hospitalo:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - kuraci
-        - kliniko
-        - malsana
-        - preventorio
-        - medicino
-
-- kuseno:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - lito
-        - benko
-        - mola
-        - kuŝi
-        - kapo
-
-- baleno:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - mamulo
-        - maro
-        - harpuno
-        - akvo
-        - delfeno
-
-- horizonto:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - vertikalo
-        - linio
-        - tero
-        - maro
-        - ĉielo
-
-- butero:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - bovino
-        - lakto
-        - kuiri
-        - graso
-        - pano
-
-- sandalo:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - piedo
-        - ŝuo
-        - nuda
-        - ŝnuro
-        - simpla
-
-- hirundo:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - birdo
-        - printempo
-        - nigra
-        - pinta
-        - somero
-
-- subtera:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - tunelo
-        - galerio
-        - groto
-        - kaverno
-        - kelo
-
-- hotelo:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - ĉambroj
-        - vojaĝanto
-        - loĝi
-        - dormi
-        - manĝi
-
-- taŭro:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - Hispanio
-        - batalo
-        - virbovo
-        - areno
-        - mortigi
-
-- bukedo:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - floroj
-        - ornami
-        - donaco
-        - edziĝo
-        - vazo
-
-- hufo:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - ungo
-        - ĉevalo
-        - azeno
-        - bovo
-        - forĝi
-
-- ekzameno:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - testo
-        - scio
-        - lernejo
-        - scienco
-        - rezulto
-
-- aĉeti:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - pagi
-        - vendi
-        - akiri
-        - butiko
-        - mono
-
-- loko:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - placo
-        - angulo
-        - lando
-        - situo
-        - ejo
-
-- katedralo:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - preĝejo
-        - vitralo
-        - Dio
-        - religio
-        - bapti
-
-- jaĥto:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - ŝipo
-        - riĉa
-        - maro
-        - boato
-        - veturi
-
-- idolo:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - statuo
-        - diaĵo
-        - amuleto
-        - fetiĉo
-        - ekzemplo
-
-- imiti:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - agi
-        - same
-        - kopii
-        - parodii
-        - simile
-
-- rivero:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - akvo
-        - rojo
-        - maro
-        - flui
-        - lago
-
-- koleri:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - inciti
-        - furiozi
-        - eksplodi
-        - krii
-        - insulti
-
-- kateno:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - ligi
-        - prizono
-        - fero
-        - ringo
-        - mallibera
-
-- salono:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - domo
-        - ĉambro
-        - granda
-        - seĝoj
-        - prelego
-
-- ampolo:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - lampo
-        - lumo
-        - elektro
-        - kurento
-        - varma
-
-- jelpi:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - boji
-        - hundo
-        - krii
-        - bleki
-        - besto
-
-- ignori:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - scii
-        - preterlasi
-        - kaŝi
-        - saĝulo
-        - atenti
-
-- industrio:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - metio
-        - arto
-        - materialo
-        - tekniko
-        - maŝino
-
-- salajro:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - laboro
-        - monate
-        - pagi
-        - kolekti
-        - enspezo
-
-- stari:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - piedo
-        - sidi
-        - leviĝi
-        - seĝo
-        - kruro
-
-- juvelo:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - ornami
-        - oro
-        - arĝento
-        - gemo
-        - brili
-
-- silenti:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - paroli
-        - babili
-        - diri
-        - nenio
-        - buŝo
-
-- staĝo:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - lernejo
-        - studi
-        - instruado
-        - laboro
-        - provo
-
-- solvi:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - trovi
-        - malkovri
-        - rezulto
-        - problemo
-        - puzlo
-
-- ĵazo:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - muziko
-        - negro
-        - bluso
-        - svingo
-        - trumpeto
-
-- ĵurnalo:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - gazeto
-        - ĉiutage
-        - libro
-        - magazino
-        - papero
-
-- kadro:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - bordo
-        - kvadrata
-        - fenestro
-        - pentraĵo
-        - tabelo
-
-- kamelo:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - besto
-        - stepo
-        - dezerto
-        - trinki
-        - ĝibo
-
-- legomo:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - ĝardeno
-        - viando
-        - karoto
-        - tomato
-        - brasiko
-
-- kuzo:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - onklo
-        - familio
-        - nevo
-        - patro
-        - generacio
-
-- kelo:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - subtera
-        - domo
-        - ĉambro
-        - ŝtuparo
-        - malhela
-
-- Tinĉjo:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - ĵurnalisto
-        - bildstrio
-        - esplori
-        - hundo
-        - vojaĝi
-
-- vizo:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - pasporto
-        - lando
-        - eniri
-        - permeso
-        - kotizo
-
-- kabano:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - dometo
-        - ligno
-        - loĝi
-        - arbaro
-        - strando
-
-- kalkuli:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - lernejo
-        - nombro
-        - cifero
-        - kvanto
-        - adicii
-
-- kanono:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - obuso
-        - eksplodi
-        - milito
-        - pafilo
-        - kanto
-
-- ŝtormo:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - tempesto
-        - vento
-        - ciklono
-        - uragano
-        - blovi
-
-- liceo:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - lernejo
-        - profesoro
-        - ekzameno
-        - instrui
-        - lernanto
-
-- Asterikso:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - bildstrio
-        - gaŭlo
-        - Francio
-        - Obelikso
-        - Cezaro
-
-- limo:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - lando
-        - rando
-        - bordo
-        - fino
-        - barilo
-
-- informi:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - diri
-        - klarigi
-        - televidilo
-        - aktualaĵoj
-        - sciigi
-
-- kuglo:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - pistolo
-        - pafi
-        - kanono
-        - obuso
-        - armilo
-
-- afranko:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - poŝto
-        - kosto
-        - letero
-        - pakaĵo
-        - sendi
-
-- forgesi:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - memori
-        - foresti
-        - preterlasi
-        - neglekti
-        - cerbo
-
-- balai:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - purigi
-        - lavi
-        - polvo
-        - ĉambro
-        - strato
-
-- vintro:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - sezono
-        - decembro
-        - jaro
-        - printempo
-        - aŭtuno
-
-- azeno:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - besto
-        - orelo
-        - manko
-        - obstina
-        - ĉevalo
-
-- kombi:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - haro
-        - ŝampuo
-        - tondi
-        - frizi
-        - longa
-
-- boato:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - ŝipo
-        - veturi
-        - akvo
-        - rivero
-        - velo
-
-- ĝemelo:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - frato
-        - sama
-        - paro
-        - duopo
-        - naskiĝo
-
-- planedo:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - tero
-        - astro
-        - ĉielo
-        - luno
-        - Marso
-
-- araneo:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - reto
-        - piedo
-        - domo
-        - timi
-        - kapti
-
-- arbo:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - folio
-        - planto
-        - trunko
-        - frukto
-        - branĉo
-
-- benko:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - seĝo
-        - sidi
-        - longa
-        - parko
-        - ĉambro
-
-- beko:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - birdo
-        - kokino
-        - ansero
-        - piki
-        - manĝi
-
-- besto:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - animalo
-        - sovaĝa
-        - farmo
-        - ĝangalo
-        - arbaro
-
-- astro:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - ĉielo
-        - planedo
-        - tero
-        - luno
-        - suno
-
-- biero:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - trinki
-        - malto
-        - fermenti
-        - bruna
-        - alkoholo
-
-- nukso:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - kerno
-        - semo
-        - migdalo
-        - arakido
-        - manĝi
-
-- religio:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - kredi
-        - Dio
-        - preĝi
-        - Kristo
-        - templo
-
-- tendo:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - kampadi
-        - cirko
-        - ŝtofo
-        - dometo
-        - ferioj
-
-- bildstrio:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - libro
-        - desegni
-        - Tinĉjo
-        - Asterikso
-        - rakonto
-
-- ŝtono:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - muro
-        - ponto
-        - domo
-        - konstrui
-        - roko
-
-- espero:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - deziro
-        - verda
-        - kuraĝo
-        - atendi
-        - Zamenhof
-
-- banko:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - mono
-        - financo
-        - prunto
-        - kambio
-        - konto
-
-- melki:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - bovino
-        - lakto
-        - kazeo
-        - kaprino
-        - farmisto
-
-- griza:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - koloro
-        - muso
-        - blanka
-        - nigra
-        - cindro
-
-- priskribi:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - rakonti
-        - desegni
-        - klarigi
-        - diri
-        - bildigi
-
-- pupo:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - knabino
-        - homa
-        - ludi
-        - vestoj
-        - simila
-
-- afabla:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - ĝentila
-        - galanta
-        - bonvolema
-        - plaĉa
-        - ĝentlemano
-
-- sunumi:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - haŭto
-        - bruna
-        - plaĝo
-        - maro
-        - oleo
-
-- aktoro:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - filmo
-        - teatro
-        - rolo
-        - kinejo
-        - sceno
-
-- incendio:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - fajro
-        - granda
-        - detrui
-        - urbo
-        - domo
-
-- formiko:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - insekto
-        - laboro
-        - grupo
-        - serpento
-        - diligenta
-
-- tapiŝo:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - pargeto
-        - grundo
-        - komforto
-        - teksaĵo
-        - planko
-
-- reklamo:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - varbi
-        - vendi
-        - afiŝo
-        - filmeto
-        - komerco
-
-- paco:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - milito
-        - silento
-        - amikeco
-        - nacio
-        - lando
-
-- eĥo:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - bruo
-        - novaĵo
-        - sono
-        - monto
-        - puto
-
-- scienco:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - ĥemio
-        - fiziko
-        - naturo
-        - sperto
-        - biologio
-
-- metalo:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - fero
-        - oro
-        - materialo
-        - malmola
-        - peza
-
-- barko:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - ŝipo
-        - maro
-        - boato
-        - veturi
-        - akvo
-
-- raŭpo:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - papilio
-        - vermo
-        - larvo
-        - insekto
-        - folio
-
-- pulmo:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - brusto
-        - koro
-        - enspiri
-        - fumi
-        - aero
-
-- najlo:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - martelo
-        - bati
-        - ligno
-        - ligi
-        - meblo
-
-- abelo:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - mielo
-        - insekto
-        - poleno
-        - floro
-        - flava
-
-- krajono:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - skribi
-        - desegni
-        - papero
-        - koloro
-        - kajero
-
-- pirato:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - maro
-        - rabisto
-        - ŝteli
-        - trezoro
-        - ŝipo
-
-- polpo:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - maro
-        - besto
-        - suĉilo
-        - brako
-        - ok
-
-- pompo:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - lukso
-        - parado
-        - reĝo
-        - ceremonio
-        - impona
-
-- ponardo:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - pinta
-        - tranĉilo
-        - zono
-        - piki
-        - armilo
-
-- maĉi:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - manĝi
-        - dentoj
-        - mordi
-        - makzelo
-        - molaro
-
-- monarko:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - reĝo
-        - ŝtato
-        - lando
-        - princo
-        - krono
-
-- porko:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - besto
-        - farmo
-        - viando
-        - mamulo
-        - trufelo
-
-- portreto:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - desegnaĵo
-        - pentraĵo
-        - persono
-        - muzeo
-        - foto
-
-- poŝo:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - vesto
-        - paperujo
-        - monujo
-        - interne
-        - saketo
-
-- mordi:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - dento
-        - makzelo
-        - hundo
-        - manĝi
-        - boji
-
-- preciza:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - ĝusta
-        - klara
-        - neta
-        - ekzakta
-        - specifa
-
-- prefikso:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - afikso
-        - vorto
-        - antaŭ
-        - litero
-        - silabo
-
-- premio:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - rekompenco
-        - donaco
-        - mono
-        - venki
-        - konkurso
-
-- prezo:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - valoro
-        - vendi
-        - aĉeti
-        - butiko
-        - valuto
-
-- sabato:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - tago
-        - semajno
-        - lundo
-        - dimanĉo
-        - vendredo
-
-- sabro:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - armilo
-        - klingo
-        - spado
-        - skermo
-        - tranĉi
-
-- safrano:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - krokuso
-        - floro
-        - oranĝa
-        - spico
-        - forta
-
-- kongreso:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - homoj
-        - amaso
-        - Esperanto
-        - fako
-        - prelego
-
-- salo:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - maro
-        - blanko
-        - pulvoro
-        - gustigi
-        - kuiri
-
-- hisi:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - supren
-        - flago
-        - velo
-        - ŝipo
-        - honoro
-
-- rostro:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - elefanto
-        - nazo
-        - longa
-        - trumpeto
-        - akvo
-
-- vojo:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - veturi
-        - pado
-        - aŭto
-        - domo
-        - vilaĝo
-
-- saŭco:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - manĝaĵo
-        - gustigi
-        - viando
-        - spici
-        - aldoni
-
-- savano:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - tropika
-        - ebenaĵo
-        - stepo
-        - leono
-        - varma
-
-- sciuro:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - besto
-        - arbaro
-        - vosto
-        - nukso
-        - salti
-
-- nesto:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - besto
-        - loĝi
-        - arbo
-        - kavo
-        - birdo
-
-- seruro:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - ŝlosi
-        - pordo
-        - fermi
-        - kesto
-        - trezoro
-
-- sfero:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - globo
-        - bulo
-        - tero
-        - ronda
-        - medio
-
-- sinjoro:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - viro
-        - homo
-        - edzo
-        - Jesuo
-        - ĝentila
-
-- skeleto:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - osto
-        - korpo
-        - spino
-        - homo
-        - vertebro
-
-- sonĝo:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - revo
-        - nokto
-        - penso
-        - imago
-        - dormi
-
-- spiono:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - sekreta
-        - informi
-        - fremda
-        - observi
-        - kaŝe
-
-- stomako:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - korpo
-        - manĝi
-        - ventro
-        - intesto
-        - acido
-
-- strigo:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - birdo
-        - nokto
-        - okulo
-        - muso
-        - flugi
-
-- surda:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - aŭdi
-        - orelo
-        - bruo
-        - aŭskulti
-        - kapablo
-
-- sveni:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - konscio
-        - malaperi
-        - perdi
-        - movo
-        - fali
-
-- okulkuracisto:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - Zamenhof
-        - oftalmologo
-        - medicino
-        - rigardi
-        - okulvitroj
-
-- ŝlosi:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - fermi
-        - seruro
-        - pordo
-        - kofro
-        - valizo
-
-- oceano:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - maro
-        - akvo
-        - tero
-        - granda
-        - surfaco
-
-- tabako:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - planto
-        - fumi
-        - cigaro
-        - pipo
-        - cigaredo
-
-- procesio:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - religio
-        - eklezio
-        - rito
-        - pompo
-        - vico
-
-- tajpi:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - skribi
-        - maŝino
-        - komputilo
-        - mesaĝo
-        - papero
-
-- talpo:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - besto
-        - tera
-        - blinda
-        - insekto
-        - fosi
-
-- tatui:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - skribi
-        - haŭto
-        - desegni
-        - dorso
-        - inko
-
-- teo:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - trinki
-        - kafo
-        - planto
-        - folioj
-        - varma
-
-- templo:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - konstruaĵo
-        - kulto
-        - rito
-        - preĝi
-        - Dio
-
-- ĝangalo:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - praa
-        - sovaĝa
-        - arbaro
-        - bestoj
-        - plantoj
-
-- tigro:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - besto
-        - pantero
-        - strioj
-        - sovaĝa
-        - kato
-
-- moskito:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - insekto
-        - piki
-        - sango
-        - muŝo
-        - kulo
-
-- titolo:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - libro
-        - poemo
-        - artikolo
-        - ĉapitro
-        - filmo
-
-- tribunalo:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - juĝi
-        - krimo
-        - rabi
-        - verdikto
-        - Hago
-
-- tordi:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - turni
-        - volvi
-        - misformi
-        - tuko
-        - stango
-
-- torto:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - kuko
-        - frukto
-        - manĝi
-        - pasto
-        - kremo
-
-- tropiko:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - paralelo
-        - ekvatoro
-        - kaprikorno
-        - tero
-        - varma
-
-- trumpeto:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - muziko
-        - instrumento
-        - blovi
-        - ĵazo
-        - kupro
-
-- truto:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - fiŝo
-        - salmono
-        - rivero
-        - bongusta
-        - manĝi
-
-- tuko:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - teksaĵo
-        - tablo
-        - ĉifono
-        - kapo
-        - sekigi
-
-- umbiliko:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - kavo
-        - ventro
-        - bebo
-        - naski
-        - ŝnuro
-
-- vagono:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - veturilo
-        - trajno
-        - pasaĝero
-        - transporto
-        - relo
-
-- valso:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - danco
-        - turni
-        - muziko
-        - balo
-        - Vieno
-
-- vanilo:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - planto
-        - aroma
-        - kuko
-        - tropika
-        - dolĉa
-
-- vejno:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - sango
-        - arterio
-        - koro
-        - tubo
-        - marmoro
-
-- velo:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - ŝipo
-        - vento
-        - maro
-        - hisi
-        - tuko
-
-- vento:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - blovi
-        - aero
-        - velo
-        - fluo
-        - ŝtormo
-
-- diri:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - buŝo
-        - lango
-        - paroli
-        - vorto
-        - frazo
-
-- vertebro:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - osto
-        - dorso
-        - kolumno
-        - mjelo
-        - skeleto
-
-- spiri:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - aero
-        - pulmo
-        - buŝo
-        - korpo
-        - oksigeno
-
-- puzlo:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - tasko
-        - enigmo
-        - peco
-        - solvi
-        - bildo
-
-- vico:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - linio
-        - rango
-        - procesio
-        - serio
-        - numero
-
-- vidvino:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - morto
-        - edzino
-        - sola
-        - virino
-        - postresti
-
-- familio:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - patro
-        - filo
-        - domo
-        - infano
-        - edzoj
-
-- violonĉelo:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - violono
-        - muziko
-        - granda
-        - orkestro
-        - arĉo
-
-- viruso:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - parazito
-        - mikrobo
-        - malsano
-        - komputilo
-        - malbona
-
-- supo:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - manĝi
-        - plado
-        - fluaĵo
-        - varma
-        - telero
-
-- vitralo:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - katedralo
-        - fenestro
-        - preĝejo
-        - desegno
-        - sanktulo
-
-- vosto:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - hundo
-        - vertebro
-        - kato
-        - diablo
-        - besto
-
-- vulpo:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - besto
-        - arbaro
-        - rufa
-        - ruza
-        - lupo
-
-- zebro:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - besto
-        - ĉevalo
-        - strioj
-        - Afriko
-        - azeno
-
-- zinko:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - metalo
-        - tegmento
-        - sitelo
-        - defluilo
-        - latuno
-
-- zodiako:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - ĉielo
-        - steloj
-        - planedoj
-        - konstelacioj
-        - naskiĝo
-
-- zono:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - pantalono
-        - ledo
-        - talio
-        - ĉirkaŭi
-        - bendo
-
-- zoo:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - bestoj
-        - parko
-        - spekti
-        - elefanto
-        - leono
-
-- zumi:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - insekto
-        - bruo
-        - flugi
-        - abelo
-        - muŝo
-
-- selo:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - ĉevalo
-        - biciklo
-        - sidi
-        - veturilo
-        - pugo
-
-- glano:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - kverko
-        - frukto
-        - arbaro
-        - porko
-        - semo
-
-- gluo:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - kunigi
-        - papero
-        - ligno
-        - afiŝo
-        - metalo
-
-- gorĝo:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - kolo
-        - korpo
-        - spiri
-        - gluti
-        - kapo
-
-- gorilo:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - simio
-        - simili
-        - besto
-        - granda
-        - arbaro
-
-- graso:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - butero
-        - margarino
-        - dika
-        - oleo
-        - viando
-
-- koverto:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - letero
-        - poŝto
-        - kovrilo
-        - enteni
-        - sendi
-
-- ĝentila:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - afabla
-        - bona
-        - simpatio
-        - obei
-        - ĝentlemano
-
-- atlaso:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - mapo
-        - libro
-        - lando
-        - tero
-        - maro
-
-- ĝusta:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - preciza
-        - neta
-        - ekzakta
-        - justa
-        - specifa
-
-- harpo:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - muziko
-        - granda
-        - kordoj
-        - instrumento
-        - arko
-
-- latitudo:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - distanco
-        - nordo
-        - sudo
-        - ekvatoro
-        - longitudo
-
-- leciono:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - lernejo
-        - infanoj
-        - instruisto
-        - tasko
-        - temo
-
-- lenso:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - vitro
-        - okulo
-        - kurba
-        - lumo
-        - rigardi
-
-- libelo:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - insekto
-        - akvo
-        - flugiloj
-        - lageto
-        - koloroj
-
-- lifto:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - supreniri
-        - levi
-        - etaĝo
-        - elevatoro
-        - kaĝo
-
-- lilio:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - floro
-        - blanka
-        - pureco
-        - planto
-        - akvo
-
-- longitudo:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - distanco
-        - meridiano
-        - ekvatoro
-        - tero
-        - latitudo
-
-- lumbriko:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - tero
-        - vermo
-        - rampi
-        - fiŝkapti
-        - kompoŝti
-
-- lutro:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - besto
-        - rivero
-        - naĝi
-        - fiŝo
-        - mamulo
-
-- maizo:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - planto
-        - spiko
-        - grajnoj
-        - flava
-        - manĝo
-
-- majoro:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - armeo
-        - kapitano
-        - leŭtenanto
-        - oficiro
-        - milito
-
-- mamuto:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - elefanto
-        - fosilia
-        - dentego
-        - kolosa
-        - haroj
-
-- mapo:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - atlaso
-        - geografio
-        - papero
-        - ŝoseo
-        - urbo
-
-- marĉo:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - koto
-        - akvo
-        - rano
-        - mola
-        - ŝlimo
-
-- marioneto:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - pupo
-        - fadeno
-        - teatro
-        - pulĉinelo
-        - harlekeno
-
-- marmoto:
-    aŭtoro: Rob Ketlaer
-    tabuoj:
-        - besto
-        - dormi
-        - vintro
-        - monto
-        - ronĝi
-
-- poneo:
-    aŭtoro: Timwi Heizmann
-    tabuoj:
-        - ĉevalo
-        - zebro
-        - rajdi
-        - besto
-        - knabino
-
-- krepusko:
-    aŭtoro: Timwi Heizmann
-    tabuoj:
-        - hela
-        - tago
-        - nokto
-        - lumo
-        - suno
-
-- fajrero:
-    aŭtoro: Timwi Heizmann
-    tabuoj:
-        - bruli
-        - flamo
-        - incendio
-        - flugi
-        - lumi
-
-- raraĵo:
-    aŭtoro: Timwi Heizmann
-    tabuoj:
-        - malofta
-        - valora
-        - oro
-        - diamanto
-        - juvelo
-
-- impeto:
-    aŭtoro: Timwi Heizmann
-    tabuoj:
-        - forto
-        - ĵeti
-        - svingi
-        - puŝi
-        - salti
-
-- vibri:
-    aŭtoro: Timwi Heizmann
-    tabuoj:
-        - movi
-        - zumi
-        - sono
-        - sonori
-        - tremi
-
-- timo:
-    aŭtoro: Timwi Heizmann
-    tabuoj:
-        - sento
-        - imagi
-        - minaco
-        - danĝero
-        - tremi
-
-- akiri:
-    aŭtoro: Timwi Heizmann
-    tabuoj:
-        - havi
-        - aĉeti
-        - atingi
-        - gajni
-        - preni
-
-- medicino:
-    aŭtoro: Timwi Heizmann
-    tabuoj:
-        - kuraci
-        - malsana
-        - apoteko
-        - pilolo
-        - gluti
-
-- ina:
-    aŭtoro: Timwi Heizmann
-    tabuoj:
-        - vira
-        - malo
-        - sekso
-        - li
-        - ŝi
-
-- intence:
-    aŭtoro: Timwi Heizmann
-    tabuoj:
-        - fari
-        - voli
-        - celi
-        - aspiri
-        - plani
-
-- skribilo:
-    aŭtoro: Timwi Heizmann
-    tabuoj:
-        - inko
-        - krajono
-        - grifelo
-        - papero
-        - teksto
-
-- IJK:
-    aŭtoro: Timwi Heizmann
-    tabuoj:
-        - Esperanto
-        - renkontiĝo
-        - kunveno
-        - jaro
-        - lando
-
-- pardonu:
-    aŭtoro: Timwi Heizmann
-    tabuoj:
-        - peti
-        - bedaŭri
-        - maljusta
-        - kulpa
-        - ofendo
-
-- saluti:
-    aŭtoro: Timwi Heizmann
-    tabuoj:
-        - ĝis
-        - adiaŭ
-        - alveni
-        - akceptejo
-        - mansvingi
-
-- ĝis:
-    aŭtoro: Timwi Heizmann
-    tabuoj:
-        - revido
-        - adiaŭ
-        - foriri
-        - mansvingi
-        - prepozicio
-
-- adiaŭ:
-    aŭtoro: Timwi Heizmann
-    tabuoj:
-        - saluti
-        - ĝis
-        - foriri
-        - mansvingi
-        - bonfarti
-
-- hodiaŭ:
-    aŭtoro: Timwi Heizmann
-    tabuoj:
-        - morgaŭ
-        - hieraŭ
-        - tago
-        - nun
-        - ĉi
-
-- morgaŭ:
-    aŭtoro: Timwi Heizmann
-    tabuoj:
-        - hodiaŭ
-        - hieraŭ
-        - tago
-        - sekvonta
-        - proksima
-
-- hieraŭ:
-    aŭtoro: Timwi Heizmann
-    tabuoj:
-        - hodiaŭ
-        - morgaŭ
-        - tago
-        - pasinta
-        - antaŭ
-
-- Vindozo:
-    aŭtoro: Timwi Heizmann
-    tabuoj:
-        - fenestro
-        - Microsoft
-        - komputilo
-        - sistemo
-        - Linukso
-
-- dupunkto:
-    aŭtoro: Timwi Heizmann
-    tabuoj:
-        - interpunkcio
-        - signo
-        - frazo
-        - teksto
-        - listo
-
-- mezo:
-    aŭtoro: Timwi Heizmann
-    tabuoj:
-        - centro
-        - kerno
-        - manĝi
-        - nokto
-        - tra
-
-- Usono:
-    aŭtoro: Timwi Heizmann
-    tabuoj:
-        - lando
-        - Vaŝingtono
-        - Ameriko
-        - prezidento
-        - ŝtato
-
-- Eŭropo:
-    aŭtoro: Timwi Heizmann
-    tabuoj:
-        - kontinento
-        - landoj
-        - Germanio
-        - Francio
-        - Hispanio
-
-- Rusio:
-    aŭtoro: Timwi Heizmann
-    tabuoj:
-        - Azio
-        - lando
-        - Putino
-        - soveto
-        - Moskvo
-
-- litero:
-    aŭtoro: Timwi Heizmann
-    tabuoj:
-        - skribi
-        - vorto
-        - signo
-        - frazo
-        - teksto
-
-- pluralo:
-    aŭtoro: Timwi Heizmann
-    tabuoj:
-        - substantivo
-        - multe
-        - pluraj
-        - pli
-        - unu
-
-- Verda Stelo:
-    aŭtoro: Timwi Heizmann
-    tabuoj:
-        - Esperanto
-        - simbolo
-        - koloro
-        - Zamenhof
-        - flago
-
-- spesmilo:
-    aŭtoro: Timwi Heizmann
-    tabuoj:
-        - mono
-        - valuto
-        - fikcia
-        - inventi
-        - René de Saussure
+﻿- divenendo: domo
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - ĉambro
+    - loĝi
+    - urbo
+    - tegmento
+    - konstruaĵo
+
+- divenendo: aŭto
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - veturi
+    - strato
+    - motoro
+    - rapida
+    - trafiko
+
+- divenendo: fenestro
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - pordo
+    - domo
+    - vitro
+    - kurteno
+    - ĉambro
+
+- divenendo: mi
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - vi
+    - ni
+    - unu
+    - homo
+    - pronomo
+
+- divenendo: dorso
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - ventro
+    - pugo
+    - malantaŭ
+    - ŝultro
+    - korpo
+
+- divenendo: kulero
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - forko
+    - tranĉilo
+    - manĝi
+    - supo
+    - kafo
+
+- divenendo: fajro
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - flamo
+    - bruli
+    - varma
+    - ligno
+    - lumo
+
+- divenendo: simio
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - animalo
+    - besto
+    - Afriko
+    - banano
+    - arbo
+
+- divenendo: sapo
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - lavi
+    - purigi
+    - akvo
+    - ŝaŭmo
+    - bani
+
+- divenendo: filmo
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - kino
+    - bildo
+    - aktoro
+    - ekrano
+    - foto
+
+- divenendo: ovo
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - koko
+    - birdo
+    - ŝelo
+    - blanka
+    - flava
+
+- divenendo: insekto
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - besto
+    - animalo
+    - skarabo
+    - muŝo
+    - kruro
+
+- divenendo: butono
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - vesto
+    - kudri
+    - ronda
+    - truo
+    - fadeno
+
+- divenendo: donaco
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - naskiĝtago
+    - skatolo
+    - doni
+    - surprizo
+    - Kristnasko
+
+- divenendo: desegno
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - krajono
+    - bildo
+    - arto
+    - papero
+    - pentri
+
+- divenendo: korno
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - bovo
+    - kapo
+    - osto
+    - malmola
+    - besto
+
+- divenendo: lampo
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - lumo
+    - hela
+    - nokto
+    - ŝalti
+    - ampolo
+
+- divenendo: pomo
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - manĝi
+    - ronda
+    - arbo
+    - frukto
+    - kreski
+
+- divenendo: lingvo
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - paroli
+    - legi
+    - skribi
+    - komuniki
+    - vorto
+
+- divenendo: ŝipo
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - maro
+    - rivero
+    - boato
+    - veturi
+    - akvo
+
+- divenendo: orelo
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - aŭdi
+    - aŭskulti
+    - kapo
+    - flanko
+    - vizaĝo
+
+- divenendo: radio
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - aŭdi
+    - aŭskulti
+    - programo
+    - aparato
+    - elsendo
+
+- divenendo: fromaĝo
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - lakto
+    - manĝi
+    - kolbaso
+    - kazeo
+    - bovino
+
+- divenendo: elefanto
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - rostro
+    - granda
+    - besto
+    - animalo
+    - griza
+
+- divenendo: telero
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - taso
+    - manĝi
+    - vazaro
+    - ronda
+    - plado
+
+- divenendo: muŝo
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - besto
+    - animalo
+    - insekto
+    - flugi
+    - malgranda
+
+- divenendo: ŝerco
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - ridi
+    - gaja
+    - rakonto
+    - paroli
+    - legi
+
+- divenendo: ĝirafo
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - animalo
+    - besto
+    - Afriko
+    - kolo
+    - granda
+
+- divenendo: horo
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - minuto
+    - sekundo
+    - tempo
+    - horloĝo
+    - tago
+
+- divenendo: ludilo
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - infano
+    - pilko
+    - pupo
+    - amuzi
+    - urso
+
+- divenendo: piedo
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - kruro
+    - ŝuo
+    - ŝtrumpo
+    - iri
+    - kuri
+
+- divenendo: bruli
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - fajro
+    - flamo
+    - varma
+    - hela
+    - ligno
+
+- divenendo: ombro
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - lumo
+    - suno
+    - malhela
+    - nigra
+    - vidi
+
+- divenendo: faruno
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - tritiko
+    - pano
+    - kuko
+    - baki
+    - mueli
+
+- divenendo: kuko
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - faruno
+    - manĝi
+    - dolĉa
+    - sukero
+    - baki
+
+- divenendo: insulo
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - maro
+    - akvo
+    - tero
+    - oceano
+    - ŝipo
+
+- divenendo: krokodilo
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - besto
+    - dento
+    - rivero
+    - Esperanto
+    - danĝera
+
+- divenendo: banano
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - frukto
+    - flava
+    - kurba
+    - longa
+    - manĝi
+
+- divenendo: tomato
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - ruĝa
+    - legomo
+    - manĝi
+    - kreski
+    - planto
+
+- divenendo: verbo
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - vorto
+    - agi
+    - substantivo
+    - adjektivo
+    - adverbo
+
+- divenendo: mensogi
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - diri
+    - malvero
+    - ŝajnigi
+    - trompi
+    - honesta
+
+- divenendo: plori
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - larmo
+    - doloro
+    - ĝemi
+    - malĝojo
+    - okulo
+
+- divenendo: morto
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - maljuna
+    - naskiĝi
+    - vivo
+    - fino
+    - perdi
+
+- divenendo: trajno
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - vagono
+    - relo
+    - veturi
+    - fervojo
+    - rapida
+
+- divenendo: buŝo
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - vizaĝo
+    - manĝi
+    - paroli
+    - nazo
+    - kapo
+
+- divenendo: junulo
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - infano
+    - homo
+    - plenkreskulo
+    - viro
+    - knabo
+
+- divenendo: pagi
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - mono
+    - aĉeti
+    - vendi
+    - doni
+    - elspezi
+
+- divenendo: sukero
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - dolĉa
+    - frandaĵo
+    - kafo
+    - bombono
+    - infano
+
+- divenendo: dento
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - buŝo
+    - manĝi
+    - maĉi
+    - mordi
+    - malmola
+
+- divenendo: veneno
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - mortigi
+    - substanco
+    - serpento
+    - araneo
+    - drogo
+
+- divenendo: iri
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - kuri
+    - promeni
+    - piedo
+    - kruro
+    - moviĝi
+
+- divenendo: spegulo
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - vitro
+    - metalo
+    - lumo
+    - rigardi
+    - bildo
+
+- divenendo: lerni
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - instrui
+    - scii
+    - infano
+    - memori
+    - ekzerci
+
+- divenendo: ronki
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - dormi
+    - bruo
+    - nokto
+    - lito
+    - sonĝi
+
+- divenendo: tramo
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - veturi
+    - trajno
+    - relo
+    - urbo
+    - strato
+
+- divenendo: matematiko
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - kalkuli
+    - nombro
+    - scienco
+    - fako
+    - lernejo
+
+- divenendo: universitato
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - lerni
+    - instrui
+    - profesoro
+    - studento
+    - doktoro
+
+- divenendo: elektro
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - lampo
+    - ŝalti
+    - drato
+    - kurento
+    - energio
+
+- divenendo: turo
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - konstruaĵo
+    - alta
+    - ŝako
+    - preĝejo
+    - domo
+
+- divenendo: sago
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - arko
+    - pafi
+    - pinto
+    - montri
+    - direkto
+
+- divenendo: tago
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - tempo
+    - monato
+    - jaro
+    - semajno
+    - nokto
+
+- divenendo: horloĝo
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - horo
+    - minuto
+    - sekundo
+    - tempo
+    - montrilo
+
+- divenendo: suno
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - luno
+    - varma
+    - hela
+    - ĉielo
+    - stelo
+
+- divenendo: semajno
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - tago
+    - lundo
+    - vendredo
+    - dimanĉo
+    - monato
+
+- divenendo: ventro
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - stomako
+    - korpo
+    - brusto
+    - kapo
+    - brako
+
+- divenendo: haro
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - kapo
+    - virino
+    - longa
+    - maldika
+    - kombi
+
+- divenendo: herbo
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - planto
+    - ĝardeno
+    - tero
+    - verda
+    - gazono
+
+- divenendo: telfero
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - veturi
+    - monto
+    - funikularo
+    - vagono
+    - kablo
+
+- divenendo: nubo
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - blanka
+    - ĉielo
+    - pluvi
+    - vaporo
+    - vetero
+
+- divenendo: soldato
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - milito
+    - batali
+    - armeo
+    - pafilo
+    - uniformo
+
+- divenendo: nokto
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - tago
+    - nigra
+    - malhela
+    - stelo
+    - luno
+
+- divenendo: lago
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - akvo
+    - maro
+    - boato
+    - naĝi
+    - fiŝo
+
+- divenendo: pado
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - vojo
+    - iri
+    - strato
+    - promeni
+    - arbaro
+
+- divenendo: ĉielo
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - blua
+    - nubo
+    - suno
+    - supre
+    - stelo
+
+- divenendo: fadeno
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - kudri
+    - longa
+    - maldika
+    - ŝnuro
+    - ŝtofo
+
+- divenendo: ankro
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - ŝipo
+    - maro
+    - fiksi
+    - ŝnuro
+    - fero
+
+- divenendo: vitro
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - fenestro
+    - malmola
+    - travidebla
+    - substanco
+    - rompebla
+
+- divenendo: fabelo
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - legendo
+    - rakonto
+    - fantazio
+    - aventuro
+    - mensogi
+
+- divenendo: libro
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - legi
+    - vorto
+    - litero
+    - papero
+    - paĝo
+
+- divenendo: renkontiĝo
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - Esperanto
+    - homoj
+    - kunveno
+    - prelego
+    - paroli
+
+- divenendo: nazo
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - vizaĝo
+    - flari
+    - odoro
+    - okulo
+    - buŝo
+
+- divenendo: vetero
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - nubo
+    - vento
+    - suno
+    - pluvi
+    - neĝi
+
+- divenendo: tritiko
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - pano
+    - grajno
+    - faruno
+    - baki
+    - greno
+
+- divenendo: barbo
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - haro
+    - vizaĝo
+    - buŝo
+    - nazo
+    - vango
+
+- divenendo: muso
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - malgranda
+    - besto
+    - animalo
+    - kato
+    - griza
+
+- divenendo: mielo
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - abelo
+    - manĝi
+    - dolĉa
+    - sukero
+    - urso
+
+- divenendo: bruo
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - laŭta
+    - sono
+    - aŭdi
+    - orelo
+    - krii
+
+- divenendo: serpento
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - longa
+    - maldika
+    - veneno
+    - besto
+    - piedo
+
+- divenendo: minuto
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - horo
+    - sekundo
+    - tempo
+    - horloĝo
+    - tago
+
+- divenendo: verda
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - ruĝa
+    - blua
+    - flava
+    - koloro
+    - farbo
+
+- divenendo: mano
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - brako
+    - fingro
+    - pugno
+    - ganto
+    - homo
+
+- divenendo: lernejo
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - instrui
+    - domo
+    - infano
+    - leciono
+    - ferioj
+
+- divenendo: bildo
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - foto
+    - desegno
+    - arto
+    - koloro
+    - farbo
+
+- divenendo: pano
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - faruno
+    - baki
+    - manĝi
+    - tritiko
+    - forno
+
+- divenendo: blanka
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - hela
+    - nigra
+    - koloro
+    - lumo
+    - neĝo
+
+- divenendo: Zamenhof
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - pola
+    - Esperanto
+    - Bjalistoko
+    - lingvo
+    - okulkuracisto
+
+- divenendo: papilio
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - besto
+    - insekto
+    - flugi
+    - raŭpo
+    - floro
+
+- divenendo: lito
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - dormi
+    - kuŝi
+    - sonĝi
+    - ripozi
+    - kuseno
+
+- divenendo: mateno
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - vespero
+    - frue
+    - tago
+    - nokto
+    - tempo
+
+- divenendo: substantivo
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - objekto
+    - adjektivo
+    - vorto
+    - verbo
+    - frazo
+
+- divenendo: cirko
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - tendo
+    - klaŭno
+    - artisto
+    - leono
+    - spektaklo
+
+- divenendo: pluvi
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - akvo
+    - vetero
+    - nubo
+    - suno
+    - neĝo
+
+- divenendo: ŝarko
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - besto
+    - fiŝo
+    - maro
+    - dento
+    - manĝi
+
+- divenendo: rabisto
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - ŝteli
+    - krimulo
+    - polico
+    - malliberejo
+    - fripono
+
+- divenendo: plumo
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - birdo
+    - flugi
+    - skribi
+    - malpeza
+    - lanugo
+
+- divenendo: kanti
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - muziko
+    - voĉo
+    - aŭdi
+    - aŭskulti
+    - sono
+
+- divenendo: jupo
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - virino
+    - vestaĵo
+    - surmeti
+    - kruro
+    - talio
+
+- divenendo: tempo
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - horloĝo
+    - sekundo
+    - minuto
+    - horo
+    - daŭri
+
+- divenendo: osto
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - korpo
+    - homo
+    - besto
+    - malmola
+    - skeleto
+
+- divenendo: dormi
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - sonĝi
+    - kuŝi
+    - ripozi
+    - lito
+    - ronki
+
+- divenendo: globo
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - ronda
+    - pilko
+    - tero
+    - bulo
+    - cirklo
+
+- divenendo: okulvitroj
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - orelo
+    - nazo
+    - vidi
+    - miopa
+    - lenso
+
+- divenendo: instrui
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - lerni
+    - sciigi
+    - eduki
+    - infano
+    - montri
+
+- divenendo: ŝako
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - ludo
+    - reĝo
+    - tabulo
+    - nigra
+    - blanka
+
+- divenendo: soifa
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - trinki
+    - malsata
+    - dezerto
+    - akvo
+    - likvo
+
+- divenendo: gazeto
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - presi
+    - novaĵo
+    - sciigi
+    - legi
+    - papero
+
+- divenendo: poŝto
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - letero
+    - pakaĵo
+    - transporti
+    - afranko
+    - koverto
+
+- divenendo: sango
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - korpo
+    - ruĝa
+    - vundo
+    - koro
+    - likva
+
+- divenendo: ĉevalo
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - besto
+    - rajdi
+    - vosto
+    - kaleŝo
+    - animalo
+
+- divenendo: ŝati
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - ami
+    - estimi
+    - plaĉi
+    - volonte
+    - aprezi
+
+- divenendo: hundo
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - kato
+    - boji
+    - besto
+    - animalo
+    - lupo
+
+- divenendo: buso
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - aŭto
+    - veturi
+    - strato
+    - granda
+    - homo
+
+- divenendo: ŝuo
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - piedo
+    - iri
+    - kruro
+    - boto
+    - ŝtrumpo
+
+- divenendo: kalendaro
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - tago
+    - monato
+    - jaro
+    - tabelo
+    - semajno
+
+- divenendo: lakto
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - bovino
+    - trinki
+    - blanka
+    - fromaĝo
+    - kazeo
+
+- divenendo: krano
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - akvo
+    - flui
+    - tubo
+    - turni
+    - lavi
+
+- divenendo: kajero
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - papero
+    - skribi
+    - paĝo
+    - noti
+    - lerni
+
+- divenendo: okulo
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - vidi
+    - vizaĝo
+    - pupilo
+    - rigardi
+    - larmo
+
+- divenendo: duŝo
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - akvo
+    - purigi
+    - lavi
+    - bani
+    - flui
+
+- divenendo: skribi
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - papero
+    - krajono
+    - legi
+    - litero
+    - vorto
+
+- divenendo: Ruĝa Kruco
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - kuraci
+    - helpo
+    - sano
+    - hospitalo
+    - flegistino
+
+- divenendo: fungo
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - arbaro
+    - planto
+    - manĝi
+    - ĉapelo
+    - kreski
+
+- divenendo: bombono
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - dolĉa
+    - sukero
+    - manĝi
+    - frandi
+    - infano
+
+- divenendo: heliko
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - besto
+    - animalo
+    - limako
+    - konko
+    - malrapida
+
+- divenendo: telefono
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - paroli
+    - aŭskulti
+    - komuniki
+    - aŭdi
+    - distanco
+
+- divenendo: fingro
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - mano
+    - brako
+    - piedo
+    - ungo
+    - maldika
+
+- divenendo: monto
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - alta
+    - neĝo
+    - valo
+    - roko
+    - tero
+
+- divenendo: ŝultro
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - kolo
+    - brako
+    - ventro
+    - kapo
+    - dorso
+
+- divenendo: ridi
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - gaja
+    - ĝoji
+    - buŝo
+    - humoro
+    - ŝerco
+
+- divenendo: traduki
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - lingvo
+    - libro
+    - vorto
+    - paroli
+    - teksto
+
+- divenendo: luno
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - suno
+    - stelo
+    - ĉielo
+    - nokto
+    - hela
+
+- divenendo: mono
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - aĉeti
+    - vendi
+    - bileto
+    - pagi
+    - kotizo
+
+- divenendo: kafo
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - trinki
+    - teo
+    - akvo
+    - lakto
+    - sukero
+
+- divenendo: haveno
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - ŝipo
+    - maro
+    - urbo
+    - boato
+    - rivero
+
+- divenendo: kato
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - besto
+    - animalo
+    - hundo
+    - muso
+    - arbo
+
+- divenendo: vespo
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - besto
+    - insekto
+    - flugi
+    - flava
+    - piki
+
+- divenendo: martelo
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - najlo
+    - bati
+    - peza
+    - fero
+    - ligno
+
+- divenendo: legi
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - libro
+    - skribi
+    - vorto
+    - litero
+    - vidi
+
+- divenendo: sekundo
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - minuto
+    - horo
+    - tempo
+    - horloĝo
+    - tago
+
+- divenendo: triki
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - fadeno
+    - lano
+    - kudri
+    - kroĉi
+    - manlaboro
+
+- divenendo: ĉapelo
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - kapo
+    - litero
+    - vesti
+    - ĉapo
+    - Esperanto
+
+- divenendo: Pasporta Servo
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - gasto
+    - vojaĝi
+    - Esperanto
+    - loĝi
+    - senpage
+
+- divenendo: foto
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - bildo
+    - filmo
+    - kamerao
+    - lumo
+    - vidi
+
+- divenendo: kolbaso
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - fromaĝo
+    - viando
+    - manĝi
+    - besto
+    - intesto
+
+- divenendo: nigra
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - koloro
+    - malhela
+    - blanka
+    - ombro
+    - nokto
+
+- divenendo: cerbo
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - kapo
+    - pensi
+    - kranio
+    - inteligenta
+    - menso
+
+- divenendo: neĝo
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - vintro
+    - blanka
+    - malvarma
+    - glacio
+    - pluvo
+
+- divenendo: seĝo
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - sidi
+    - tablo
+    - meblo
+    - piedo
+    - apogilo
+
+- divenendo: vespero
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - mateno
+    - tempo
+    - nokto
+    - malfrue
+    - tago
+
+- divenendo: adjektivo
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - kia
+    - adverbo
+    - vorto
+    - substantivo
+    - frazo
+
+- divenendo: kuracisto
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - malsana
+    - prizorgi
+    - flegi
+    - medicinisto
+    - vundo
+
+- divenendo: baki
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - kuiri
+    - forno
+    - pano
+    - kuko
+    - varma
+
+- divenendo: vino
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - trinki
+    - suko
+    - alkoholo
+    - glaso
+    - botelo
+
+- divenendo: ĉielarko
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - koloro
+    - pluvo
+    - suno
+    - supra
+    - lumo
+
+- divenendo: aero
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - spiri
+    - gaso
+    - malpeza
+    - elemento
+    - flugi
+
+- divenendo: muziko
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - kanti
+    - sono
+    - instrumento
+    - aŭdi
+    - aŭskulti
+
+- divenendo: eraro
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - malvero
+    - malĝuste
+    - malpravi
+    - korekti
+    - trompi
+
+- divenendo: ondo
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - akvo
+    - maro
+    - vento
+    - monto
+    - leviĝi
+
+- divenendo: fero
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - metalo
+    - peza
+    - ŝtalo
+    - rusto
+    - malmola
+
+- divenendo: pordo
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - fenestro
+    - domo
+    - ĉambro
+    - fermi
+    - muro
+
+- divenendo: ŝranko
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - meblo
+    - breto
+    - ligno
+    - kesto
+    - pordo
+
+- divenendo: tabuo
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - ludo
+    - malpermesi
+    - rajti
+    - diri
+    - vorto
+
+- divenendo: oro
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - metalo
+    - flava
+    - multekosta
+    - peza
+    - valora
+
+- divenendo: lango
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - buŝo
+    - gustumi
+    - dento
+    - lipo
+    - paroli
+
+- divenendo: dezerto
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - sablo
+    - seka
+    - varma
+    - pluvo
+    - akvo
+
+- divenendo: funelo
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - likvaĵo
+    - verŝi
+    - konuso
+    - tubo
+    - botelo
+
+- divenendo: plafono
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - domo
+    - supre
+    - tegmento
+    - ĉambro
+    - alta
+
+- divenendo: sablo
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - ŝtono
+    - plaĝo
+    - dezerto
+    - infano
+    - ludi
+
+- divenendo: rusto
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - fero
+    - metalo
+    - ruĝa
+    - bruna
+    - akvo
+
+- divenendo: ŝtupo
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - supren
+    - suben
+    - etaĝo
+    - grimpi
+    - paŝi
+
+- divenendo: fiŝo
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - akvo
+    - maro
+    - besto
+    - animalo
+    - naĝi
+
+- divenendo: birdo
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - besto
+    - beko
+    - flugi
+    - nesto
+    - plumo
+
+- divenendo: nuda
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - vesti
+    - ĉemizo
+    - pantalono
+    - bani
+    - haŭto
+
+- divenendo: vizaĝo
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - okulo
+    - nazo
+    - buŝo
+    - kapo
+    - vango
+
+- divenendo: akvo
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - maro
+    - pluvi
+    - lago
+    - naĝi
+    - trinki
+
+- divenendo: bebo
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - infano
+    - eta
+    - malgranda
+    - ido
+    - homo
+
+- divenendo: parfumo
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - odoro
+    - virino
+    - flari
+    - botelo
+    - multekosta
+
+- divenendo: ĝardeno
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - arbo
+    - verda
+    - floro
+    - planto
+    - gazono
+
+- divenendo: Esperanto
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - paroli
+    - lingvo
+    - Zamenhof
+    - komuniki
+    - internacia
+
+- divenendo: vorto
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - lingvo
+    - paroli
+    - litero
+    - frazo
+    - skribi
+
+- divenendo: testudo
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - animalo
+    - besto
+    - karapaco
+    - malrapida
+    - maljuna
+
+- divenendo: tegmento
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - domo
+    - konstruaĵo
+    - supra
+    - kovri
+    - tegolo
+
+- divenendo: kino
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - filmo
+    - ekrano
+    - aktoro
+    - spekti
+    - teatro
+
+- divenendo: masko
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - vizaĝo
+    - kaŝi
+    - teatro
+    - aktoro
+    - kostumo
+
+- divenendo: prelego
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - paroli
+    - aŭskulti
+    - kunveno
+    - kongreso
+    - salono
+
+- divenendo: jaro
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - tago
+    - monato
+    - semajno
+    - kalendaro
+    - tempo
+
+- divenendo: reĝo
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - monarko
+    - krono
+    - sceptro
+    - estro
+    - regno
+
+- divenendo: rozo
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - ruĝa
+    - odoro
+    - floro
+    - ĝardeno
+    - bela
+
+- divenendo: kuri
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - piedo
+    - iri
+    - rapide
+    - kruro
+    - marŝi
+
+- divenendo: komputilo
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - ekrano
+    - klavo
+    - muso
+    - retumi
+    - maŝino
+
+- divenendo: televidilo
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - spekti
+    - rigardi
+    - filmo
+    - bildo
+    - programo
+
+- divenendo: maro
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - akvo
+    - tero
+    - plaĝo
+    - strando
+    - oceano
+
+- divenendo: leono
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - besto
+    - animalo
+    - kato
+    - Afriko
+    - sovaĝa
+
+- divenendo: aviadilo
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - veturi
+    - flugi
+    - rapida
+    - vojaĝi
+    - ĉielo
+
+- divenendo: glaso
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - taso
+    - trinki
+    - vino
+    - biero
+    - akvo
+
+- divenendo: preĝejo
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - domo
+    - Dio
+    - pastro
+    - dimanĉo
+    - pastoro
+
+- divenendo: pantalono
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - vesti
+    - kruro
+    - gambo
+    - surmeti
+    - piedo
+
+- divenendo: papero
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - blanka
+    - maldika
+    - skribi
+    - pentri
+    - folio
+
+- divenendo: planto
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - verda
+    - besto
+    - arbo
+    - floro
+    - herbo
+
+- divenendo: pilko
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - futbalo
+    - ludi
+    - infano
+    - ronda
+    - globo
+
+- divenendo: urbo
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - vilaĝo
+    - domo
+    - loĝi
+    - lando
+    - strato
+
+- divenendo: botelo
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - vitro
+    - ujo
+    - likva
+    - fluaĵo
+    - trinki
+
+- divenendo: folio
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - arbo
+    - planto
+    - floro
+    - verda
+    - kreski
+
+- divenendo: manĝi
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - trinki
+    - buŝo
+    - stomako
+    - mordi
+    - gluti
+
+- divenendo: ponto
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - konstruaĵo
+    - trairi
+    - rivero
+    - strato
+    - viadukto
+
+- divenendo: ĵongli
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - pilko
+    - ringo
+    - ĵeti
+    - kapti
+    - cirko
+
+- divenendo: kandelo
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - vakso
+    - flamo
+    - fajro
+    - bruli
+    - lumo
+
+- divenendo: tablo
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - seĝo
+    - plato
+    - piedo
+    - meblo
+    - ligno
+
+- divenendo: bovino
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - lakto
+    - besto
+    - animalo
+    - korno
+    - melki
+
+- divenendo: semaforo
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - ruĝa
+    - flava
+    - verda
+    - strato
+    - aŭto
+
+- divenendo: barilo
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - limo
+    - muro
+    - ĝardeno
+    - strato
+    - domo
+
+- divenendo: knabino
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - virino
+    - juna
+    - homo
+    - infano
+    - aĝo
+
+- divenendo: cindro
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - fajro
+    - bruli
+    - flamo
+    - griza
+    - restaĵo
+
+- divenendo: kajto
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - ludilo
+    - vento
+    - flugi
+    - aero
+    - infano
+
+- divenendo: kuirejo
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - baki
+    - boligi
+    - ĉambro
+    - poto
+    - manĝaĵo
+
+- divenendo: flugi
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - movi
+    - aero
+    - birdo
+    - aviadilo
+    - ĉielo
+
+- divenendo: glacio
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - akvo
+    - malvarma
+    - vintro
+    - neĝo
+    - malmola
+
+- divenendo: januaro
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - monato
+    - jaro
+    - decembro
+    - februaro
+    - vintro
+
+- divenendo: plumbo
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - metalo
+    - peza
+    - mola
+    - griza
+    - elemento
+
+- divenendo: muro
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - domo
+    - konstruaĵo
+    - briko
+    - ŝtono
+    - masoni
+
+- divenendo: ŝtrumpo
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - piedo
+    - ŝuo
+    - kruro
+    - triki
+    - vesto
+
+- divenendo: montri
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - prezenti
+    - vidigi
+    - rigardo
+    - indiki
+    - fingro
+
+- divenendo: taso
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - telero
+    - glaso
+    - trinki
+    - kafo
+    - teo
+
+- divenendo: naĝi
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - akvo
+    - fiŝo
+    - movi
+    - flosi
+    - sporto
+
+- divenendo: fumo
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - fajro
+    - tabako
+    - nebulo
+    - bruli
+    - incendio
+
+- divenendo: kastelo
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - domo
+    - konstruaĵo
+    - reĝo
+    - princo
+    - loĝi
+
+- divenendo: planko
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - malsupra
+    - domo
+    - ĉambro
+    - paŝi
+    - iri
+
+- divenendo: pensi
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - ideo
+    - cerbo
+    - spirito
+    - opinii
+    - kredi
+
+- divenendo: pafi
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - kuglo
+    - milito
+    - celi
+    - soldato
+    - mortigi
+
+- divenendo: cigno
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - birdo
+    - besto
+    - akvo
+    - blanka
+    - kolo
+
+- divenendo: ĉaso
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - pafilo
+    - arbaro
+    - besto
+    - birdo
+    - kapti
+
+- divenendo: voĉo
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - sono
+    - gorĝo
+    - paroli
+    - aero
+    - tono
+
+- divenendo: papago
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - birdo
+    - plumaro
+    - ripeti
+    - paroli
+    - kaĝo
+
+- divenendo: truo
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - nenio
+    - vakuo
+    - kava
+    - groto
+    - malplena
+
+- divenendo: printempo
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - sezono
+    - vintro
+    - somero
+    - jaro
+    - marto
+
+- divenendo: hororo
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - filmo
+    - teruri
+    - abomeno
+    - naŭzo
+    - sango
+
+- divenendo: miraklo
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - mirindaĵo
+    - mistero
+    - signo
+    - virgo
+    - nenatura
+
+- divenendo: aŭtuno
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - sezono
+    - septembro
+    - printempo
+    - folioj
+    - bruna
+
+- divenendo: lokomotivo
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - trajno
+    - relo
+    - vaporo
+    - fervojo
+    - vagono
+
+- divenendo: juĝisto
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - akuzo
+    - verdikto
+    - tribunalo
+    - atestanto
+    - procezo
+
+- divenendo: mizero
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - riĉeco
+    - nenio
+    - manko
+    - bezono
+    - malhavo
+
+- divenendo: afiŝo
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - reklamo
+    - glui
+    - papero
+    - anonco
+    - bildo
+
+- divenendo: korpo
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - persono
+    - homo
+    - karno
+    - membro
+    - skeleto
+
+- divenendo: pramo
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - ŝipo
+    - boato
+    - rivero
+    - trans
+    - veturi
+
+- divenendo: talio
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - korpo
+    - kokso
+    - virino
+    - ventro
+    - umbiliko
+
+- divenendo: kaĝo
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - birdo
+    - stango
+    - besto
+    - zoo
+    - kapti
+
+- divenendo: benzino
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - veturilo
+    - aŭto
+    - petrolo
+    - motoro
+    - dizelo
+
+- divenendo: reto
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - fiŝo
+    - maro
+    - barko
+    - ŝipo
+    - araneo
+
+- divenendo: kovrilo
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - lito
+    - dormi
+    - varma
+    - nokto
+    - skatolo
+
+- divenendo: frukto
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - arbo
+    - semo
+    - pomo
+    - piro
+    - manĝi
+
+- divenendo: inviti
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - gasto
+    - manĝi
+    - ricevi
+    - tablo
+    - trinki
+
+- divenendo: urso
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - besto
+    - poluso
+    - blanka
+    - ludi
+    - mielo
+
+- divenendo: protekti
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - helpi
+    - advokato
+    - asekuro
+    - ŝirmi
+    - polico
+
+- divenendo: trezoro
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - mono
+    - oro
+    - pirato
+    - kofro
+    - juvelo
+
+- divenendo: kerno
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - frukto
+    - centro
+    - amando
+    - semo
+    - mezo
+
+- divenendo: biciklo
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - rado
+    - selo
+    - pedalo
+    - veturi
+    - kruro
+
+- divenendo: diablo
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - Dio
+    - malbona
+    - infero
+    - delogi
+    - satano
+
+- divenendo: poeto
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - verkisto
+    - rimo
+    - verso
+    - skribi
+    - emocio
+
+- divenendo: ferioj
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - libertempo
+    - ripozo
+    - vojaĝo
+    - laboro
+    - lando
+
+- divenendo: koro
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - sango
+    - cirkulado
+    - amo
+    - muskolo
+    - pumpi
+
+- divenendo: vojaĝo
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - lando
+    - viziti
+    - ferioj
+    - hotelo
+    - veturi
+
+- divenendo: boji
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - hundo
+    - jelpi
+    - bleki
+    - besto
+    - mordi
+
+- divenendo: pasporto
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - dogano
+    - vizo
+    - landlimo
+    - vojaĝo
+    - dokumento
+
+- divenendo: hipopotamo
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - besto
+    - mamulo
+    - dika
+    - rivero
+    - Nilo
+
+- divenendo: ĉapo
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - ĉapelo
+    - kapo
+    - lano
+    - banado
+    - haro
+
+- divenendo: hospitalo
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - kuraci
+    - kliniko
+    - malsana
+    - preventorio
+    - medicino
+
+- divenendo: kuseno
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - lito
+    - benko
+    - mola
+    - kuŝi
+    - kapo
+
+- divenendo: baleno
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - mamulo
+    - maro
+    - harpuno
+    - akvo
+    - delfeno
+
+- divenendo: horizonto
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - vertikalo
+    - linio
+    - tero
+    - maro
+    - ĉielo
+
+- divenendo: butero
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - bovino
+    - lakto
+    - kuiri
+    - graso
+    - pano
+
+- divenendo: sandalo
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - piedo
+    - ŝuo
+    - nuda
+    - ŝnuro
+    - simpla
+
+- divenendo: hirundo
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - birdo
+    - printempo
+    - nigra
+    - pinta
+    - somero
+
+- divenendo: subtera
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - tunelo
+    - galerio
+    - groto
+    - kaverno
+    - kelo
+
+- divenendo: hotelo
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - ĉambroj
+    - vojaĝanto
+    - loĝi
+    - dormi
+    - manĝi
+
+- divenendo: taŭro
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - Hispanio
+    - batalo
+    - virbovo
+    - areno
+    - mortigi
+
+- divenendo: bukedo
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - floroj
+    - ornami
+    - donaco
+    - edziĝo
+    - vazo
+
+- divenendo: hufo
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - ungo
+    - ĉevalo
+    - azeno
+    - bovo
+    - forĝi
+
+- divenendo: ekzameno
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - testo
+    - scio
+    - lernejo
+    - scienco
+    - rezulto
+
+- divenendo: aĉeti
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - pagi
+    - vendi
+    - akiri
+    - butiko
+    - mono
+
+- divenendo: loko
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - placo
+    - angulo
+    - lando
+    - situo
+    - ejo
+
+- divenendo: katedralo
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - preĝejo
+    - vitralo
+    - Dio
+    - religio
+    - bapti
+
+- divenendo: jaĥto
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - ŝipo
+    - riĉa
+    - maro
+    - boato
+    - veturi
+
+- divenendo: idolo
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - statuo
+    - diaĵo
+    - amuleto
+    - fetiĉo
+    - ekzemplo
+
+- divenendo: imiti
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - agi
+    - same
+    - kopii
+    - parodii
+    - simile
+
+- divenendo: rivero
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - akvo
+    - rojo
+    - maro
+    - flui
+    - lago
+
+- divenendo: koleri
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - inciti
+    - furiozi
+    - eksplodi
+    - krii
+    - insulti
+
+- divenendo: kateno
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - ligi
+    - prizono
+    - fero
+    - ringo
+    - mallibera
+
+- divenendo: salono
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - domo
+    - ĉambro
+    - granda
+    - seĝoj
+    - prelego
+
+- divenendo: ampolo
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - lampo
+    - lumo
+    - elektro
+    - kurento
+    - varma
+
+- divenendo: jelpi
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - boji
+    - hundo
+    - krii
+    - bleki
+    - besto
+
+- divenendo: ignori
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - scii
+    - preterlasi
+    - kaŝi
+    - saĝulo
+    - atenti
+
+- divenendo: industrio
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - metio
+    - arto
+    - materialo
+    - tekniko
+    - maŝino
+
+- divenendo: salajro
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - laboro
+    - monate
+    - pagi
+    - kolekti
+    - enspezo
+
+- divenendo: stari
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - piedo
+    - sidi
+    - leviĝi
+    - seĝo
+    - kruro
+
+- divenendo: juvelo
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - ornami
+    - oro
+    - arĝento
+    - gemo
+    - brili
+
+- divenendo: silenti
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - paroli
+    - babili
+    - diri
+    - nenio
+    - buŝo
+
+- divenendo: staĝo
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - lernejo
+    - studi
+    - instruado
+    - laboro
+    - provo
+
+- divenendo: solvi
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - trovi
+    - malkovri
+    - rezulto
+    - problemo
+    - puzlo
+
+- divenendo: ĵazo
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - muziko
+    - negro
+    - bluso
+    - svingo
+    - trumpeto
+
+- divenendo: ĵurnalo
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - gazeto
+    - ĉiutage
+    - libro
+    - magazino
+    - papero
+
+- divenendo: kadro
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - bordo
+    - kvadrata
+    - fenestro
+    - pentraĵo
+    - tabelo
+
+- divenendo: kamelo
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - besto
+    - stepo
+    - dezerto
+    - trinki
+    - ĝibo
+
+- divenendo: legomo
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - ĝardeno
+    - viando
+    - karoto
+    - tomato
+    - brasiko
+
+- divenendo: kuzo
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - onklo
+    - familio
+    - nevo
+    - patro
+    - generacio
+
+- divenendo: kelo
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - subtera
+    - domo
+    - ĉambro
+    - ŝtuparo
+    - malhela
+
+- divenendo: Tinĉjo
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - ĵurnalisto
+    - bildstrio
+    - esplori
+    - hundo
+    - vojaĝi
+
+- divenendo: vizo
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - pasporto
+    - lando
+    - eniri
+    - permeso
+    - kotizo
+
+- divenendo: kabano
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - dometo
+    - ligno
+    - loĝi
+    - arbaro
+    - strando
+
+- divenendo: kalkuli
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - lernejo
+    - nombro
+    - cifero
+    - kvanto
+    - adicii
+
+- divenendo: kanono
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - obuso
+    - eksplodi
+    - milito
+    - pafilo
+    - kanto
+
+- divenendo: ŝtormo
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - tempesto
+    - vento
+    - ciklono
+    - uragano
+    - blovi
+
+- divenendo: liceo
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - lernejo
+    - profesoro
+    - ekzameno
+    - instrui
+    - lernanto
+
+- divenendo: Asterikso
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - bildstrio
+    - gaŭlo
+    - Francio
+    - Obelikso
+    - Cezaro
+
+- divenendo: limo
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - lando
+    - rando
+    - bordo
+    - fino
+    - barilo
+
+- divenendo: informi
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - diri
+    - klarigi
+    - televidilo
+    - aktualaĵoj
+    - sciigi
+
+- divenendo: kuglo
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - pistolo
+    - pafi
+    - kanono
+    - obuso
+    - armilo
+
+- divenendo: afranko
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - poŝto
+    - kosto
+    - letero
+    - pakaĵo
+    - sendi
+
+- divenendo: forgesi
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - memori
+    - foresti
+    - preterlasi
+    - neglekti
+    - cerbo
+
+- divenendo: balai
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - purigi
+    - lavi
+    - polvo
+    - ĉambro
+    - strato
+
+- divenendo: vintro
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - sezono
+    - decembro
+    - jaro
+    - printempo
+    - aŭtuno
+
+- divenendo: azeno
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - besto
+    - orelo
+    - manko
+    - obstina
+    - ĉevalo
+
+- divenendo: kombi
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - haro
+    - ŝampuo
+    - tondi
+    - frizi
+    - longa
+
+- divenendo: boato
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - ŝipo
+    - veturi
+    - akvo
+    - rivero
+    - velo
+
+- divenendo: ĝemelo
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - frato
+    - sama
+    - paro
+    - duopo
+    - naskiĝo
+
+- divenendo: planedo
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - tero
+    - astro
+    - ĉielo
+    - luno
+    - Marso
+
+- divenendo: araneo
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - reto
+    - piedo
+    - domo
+    - timi
+    - kapti
+
+- divenendo: arbo
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - folio
+    - planto
+    - trunko
+    - frukto
+    - branĉo
+
+- divenendo: benko
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - seĝo
+    - sidi
+    - longa
+    - parko
+    - ĉambro
+
+- divenendo: beko
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - birdo
+    - kokino
+    - ansero
+    - piki
+    - manĝi
+
+- divenendo: besto
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - animalo
+    - sovaĝa
+    - farmo
+    - ĝangalo
+    - arbaro
+
+- divenendo: astro
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - ĉielo
+    - planedo
+    - tero
+    - luno
+    - suno
+
+- divenendo: biero
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - trinki
+    - malto
+    - fermenti
+    - bruna
+    - alkoholo
+
+- divenendo: nukso
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - kerno
+    - semo
+    - migdalo
+    - arakido
+    - manĝi
+
+- divenendo: religio
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - kredi
+    - Dio
+    - preĝi
+    - Kristo
+    - templo
+
+- divenendo: tendo
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - kampadi
+    - cirko
+    - ŝtofo
+    - dometo
+    - ferioj
+
+- divenendo: bildstrio
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - libro
+    - desegni
+    - Tinĉjo
+    - Asterikso
+    - rakonto
+
+- divenendo: ŝtono
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - muro
+    - ponto
+    - domo
+    - konstrui
+    - roko
+
+- divenendo: espero
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - deziro
+    - verda
+    - kuraĝo
+    - atendi
+    - Zamenhof
+
+- divenendo: banko
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - mono
+    - financo
+    - prunto
+    - kambio
+    - konto
+
+- divenendo: melki
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - bovino
+    - lakto
+    - kazeo
+    - kaprino
+    - farmisto
+
+- divenendo: griza
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - koloro
+    - muso
+    - blanka
+    - nigra
+    - cindro
+
+- divenendo: priskribi
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - rakonti
+    - desegni
+    - klarigi
+    - diri
+    - bildigi
+
+- divenendo: pupo
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - knabino
+    - homa
+    - ludi
+    - vestoj
+    - simila
+
+- divenendo: afabla
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - ĝentila
+    - galanta
+    - bonvolema
+    - plaĉa
+    - ĝentlemano
+
+- divenendo: sunumi
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - haŭto
+    - bruna
+    - plaĝo
+    - maro
+    - oleo
+
+- divenendo: aktoro
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - filmo
+    - teatro
+    - rolo
+    - kinejo
+    - sceno
+
+- divenendo: incendio
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - fajro
+    - granda
+    - detrui
+    - urbo
+    - domo
+
+- divenendo: formiko
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - insekto
+    - laboro
+    - grupo
+    - serpento
+    - diligenta
+
+- divenendo: tapiŝo
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - pargeto
+    - grundo
+    - komforto
+    - teksaĵo
+    - planko
+
+- divenendo: reklamo
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - varbi
+    - vendi
+    - afiŝo
+    - filmeto
+    - komerco
+
+- divenendo: paco
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - milito
+    - silento
+    - amikeco
+    - nacio
+    - lando
+
+- divenendo: eĥo
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - bruo
+    - novaĵo
+    - sono
+    - monto
+    - puto
+
+- divenendo: scienco
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - ĥemio
+    - fiziko
+    - naturo
+    - sperto
+    - biologio
+
+- divenendo: metalo
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - fero
+    - oro
+    - materialo
+    - malmola
+    - peza
+
+- divenendo: barko
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - ŝipo
+    - maro
+    - boato
+    - veturi
+    - akvo
+
+- divenendo: raŭpo
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - papilio
+    - vermo
+    - larvo
+    - insekto
+    - folio
+
+- divenendo: pulmo
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - brusto
+    - koro
+    - enspiri
+    - fumi
+    - aero
+
+- divenendo: najlo
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - martelo
+    - bati
+    - ligno
+    - ligi
+    - meblo
+
+- divenendo: abelo
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - mielo
+    - insekto
+    - poleno
+    - floro
+    - flava
+
+- divenendo: krajono
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - skribi
+    - desegni
+    - papero
+    - koloro
+    - kajero
+
+- divenendo: pirato
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - maro
+    - rabisto
+    - ŝteli
+    - trezoro
+    - ŝipo
+
+- divenendo: polpo
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - maro
+    - besto
+    - suĉilo
+    - brako
+    - ok
+
+- divenendo: pompo
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - lukso
+    - parado
+    - reĝo
+    - ceremonio
+    - impona
+
+- divenendo: ponardo
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - pinta
+    - tranĉilo
+    - zono
+    - piki
+    - armilo
+
+- divenendo: maĉi
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - manĝi
+    - dentoj
+    - mordi
+    - makzelo
+    - molaro
+
+- divenendo: monarko
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - reĝo
+    - ŝtato
+    - lando
+    - princo
+    - krono
+
+- divenendo: porko
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - besto
+    - farmo
+    - viando
+    - mamulo
+    - trufelo
+
+- divenendo: portreto
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - desegnaĵo
+    - pentraĵo
+    - persono
+    - muzeo
+    - foto
+
+- divenendo: poŝo
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - vesto
+    - paperujo
+    - monujo
+    - interne
+    - saketo
+
+- divenendo: mordi
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - dento
+    - makzelo
+    - hundo
+    - manĝi
+    - boji
+
+- divenendo: preciza
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - ĝusta
+    - klara
+    - neta
+    - ekzakta
+    - specifa
+
+- divenendo: prefikso
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - afikso
+    - vorto
+    - antaŭ
+    - litero
+    - silabo
+
+- divenendo: premio
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - rekompenco
+    - donaco
+    - mono
+    - venki
+    - konkurso
+
+- divenendo: prezo
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - valoro
+    - vendi
+    - aĉeti
+    - butiko
+    - valuto
+
+- divenendo: sabato
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - tago
+    - semajno
+    - lundo
+    - dimanĉo
+    - vendredo
+
+- divenendo: sabro
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - armilo
+    - klingo
+    - spado
+    - skermo
+    - tranĉi
+
+- divenendo: safrano
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - krokuso
+    - floro
+    - oranĝa
+    - spico
+    - forta
+
+- divenendo: kongreso
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - homoj
+    - amaso
+    - Esperanto
+    - fako
+    - prelego
+
+- divenendo: salo
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - maro
+    - blanko
+    - pulvoro
+    - gustigi
+    - kuiri
+
+- divenendo: hisi
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - supren
+    - flago
+    - velo
+    - ŝipo
+    - honoro
+
+- divenendo: rostro
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - elefanto
+    - nazo
+    - longa
+    - trumpeto
+    - akvo
+
+- divenendo: vojo
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - veturi
+    - pado
+    - aŭto
+    - domo
+    - vilaĝo
+
+- divenendo: saŭco
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - manĝaĵo
+    - gustigi
+    - viando
+    - spici
+    - aldoni
+
+- divenendo: savano
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - tropika
+    - ebenaĵo
+    - stepo
+    - leono
+    - varma
+
+- divenendo: sciuro
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - besto
+    - arbaro
+    - vosto
+    - nukso
+    - salti
+
+- divenendo: nesto
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - besto
+    - loĝi
+    - arbo
+    - kavo
+    - birdo
+
+- divenendo: seruro
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - ŝlosi
+    - pordo
+    - fermi
+    - kesto
+    - trezoro
+
+- divenendo: sfero
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - globo
+    - bulo
+    - tero
+    - ronda
+    - medio
+
+- divenendo: sinjoro
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - viro
+    - homo
+    - edzo
+    - Jesuo
+    - ĝentila
+
+- divenendo: skeleto
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - osto
+    - korpo
+    - spino
+    - homo
+    - vertebro
+
+- divenendo: sonĝo
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - revo
+    - nokto
+    - penso
+    - imago
+    - dormi
+
+- divenendo: spiono
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - sekreta
+    - informi
+    - fremda
+    - observi
+    - kaŝe
+
+- divenendo: stomako
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - korpo
+    - manĝi
+    - ventro
+    - intesto
+    - acido
+
+- divenendo: strigo
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - birdo
+    - nokto
+    - okulo
+    - muso
+    - flugi
+
+- divenendo: surda
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - aŭdi
+    - orelo
+    - bruo
+    - aŭskulti
+    - kapablo
+
+- divenendo: sveni
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - konscio
+    - malaperi
+    - perdi
+    - movo
+    - fali
+
+- divenendo: okulkuracisto
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - Zamenhof
+    - oftalmologo
+    - medicino
+    - rigardi
+    - okulvitroj
+
+- divenendo: ŝlosi
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - fermi
+    - seruro
+    - pordo
+    - kofro
+    - valizo
+
+- divenendo: oceano
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - maro
+    - akvo
+    - tero
+    - granda
+    - surfaco
+
+- divenendo: tabako
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - planto
+    - fumi
+    - cigaro
+    - pipo
+    - cigaredo
+
+- divenendo: procesio
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - religio
+    - eklezio
+    - rito
+    - pompo
+    - vico
+
+- divenendo: tajpi
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - skribi
+    - maŝino
+    - komputilo
+    - mesaĝo
+    - papero
+
+- divenendo: talpo
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - besto
+    - tera
+    - blinda
+    - insekto
+    - fosi
+
+- divenendo: tatui
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - skribi
+    - haŭto
+    - desegni
+    - dorso
+    - inko
+
+- divenendo: teo
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - trinki
+    - kafo
+    - planto
+    - folioj
+    - varma
+
+- divenendo: templo
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - konstruaĵo
+    - kulto
+    - rito
+    - preĝi
+    - Dio
+
+- divenendo: ĝangalo
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - praa
+    - sovaĝa
+    - arbaro
+    - bestoj
+    - plantoj
+
+- divenendo: tigro
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - besto
+    - pantero
+    - strioj
+    - sovaĝa
+    - kato
+
+- divenendo: moskito
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - insekto
+    - piki
+    - sango
+    - muŝo
+    - kulo
+
+- divenendo: titolo
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - libro
+    - poemo
+    - artikolo
+    - ĉapitro
+    - filmo
+
+- divenendo: tribunalo
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - juĝi
+    - krimo
+    - rabi
+    - verdikto
+    - Hago
+
+- divenendo: tordi
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - turni
+    - volvi
+    - misformi
+    - tuko
+    - stango
+
+- divenendo: torto
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - kuko
+    - frukto
+    - manĝi
+    - pasto
+    - kremo
+
+- divenendo: tropiko
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - paralelo
+    - ekvatoro
+    - kaprikorno
+    - tero
+    - varma
+
+- divenendo: trumpeto
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - muziko
+    - instrumento
+    - blovi
+    - ĵazo
+    - kupro
+
+- divenendo: truto
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - fiŝo
+    - salmono
+    - rivero
+    - bongusta
+    - manĝi
+
+- divenendo: tuko
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - teksaĵo
+    - tablo
+    - ĉifono
+    - kapo
+    - sekigi
+
+- divenendo: umbiliko
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - kavo
+    - ventro
+    - bebo
+    - naski
+    - ŝnuro
+
+- divenendo: vagono
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - veturilo
+    - trajno
+    - pasaĝero
+    - transporto
+    - relo
+
+- divenendo: valso
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - danco
+    - turni
+    - muziko
+    - balo
+    - Vieno
+
+- divenendo: vanilo
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - planto
+    - aroma
+    - kuko
+    - tropika
+    - dolĉa
+
+- divenendo: vejno
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - sango
+    - arterio
+    - koro
+    - tubo
+    - marmoro
+
+- divenendo: velo
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - ŝipo
+    - vento
+    - maro
+    - hisi
+    - tuko
+
+- divenendo: vento
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - blovi
+    - aero
+    - velo
+    - fluo
+    - ŝtormo
+
+- divenendo: diri
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - buŝo
+    - lango
+    - paroli
+    - vorto
+    - frazo
+
+- divenendo: vertebro
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - osto
+    - dorso
+    - kolumno
+    - mjelo
+    - skeleto
+
+- divenendo: spiri
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - aero
+    - pulmo
+    - buŝo
+    - korpo
+    - oksigeno
+
+- divenendo: puzlo
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - tasko
+    - enigmo
+    - peco
+    - solvi
+    - bildo
+
+- divenendo: vico
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - linio
+    - rango
+    - procesio
+    - serio
+    - numero
+
+- divenendo: vidvino
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - morto
+    - edzino
+    - sola
+    - virino
+    - postresti
+
+- divenendo: familio
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - patro
+    - filo
+    - domo
+    - infano
+    - edzoj
+
+- divenendo: violonĉelo
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - violono
+    - muziko
+    - granda
+    - orkestro
+    - arĉo
+
+- divenendo: viruso
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - parazito
+    - mikrobo
+    - malsano
+    - komputilo
+    - malbona
+
+- divenendo: supo
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - manĝi
+    - plado
+    - fluaĵo
+    - varma
+    - telero
+
+- divenendo: vitralo
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - katedralo
+    - fenestro
+    - preĝejo
+    - desegno
+    - sanktulo
+
+- divenendo: vosto
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - hundo
+    - vertebro
+    - kato
+    - diablo
+    - besto
+
+- divenendo: vulpo
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - besto
+    - arbaro
+    - rufa
+    - ruza
+    - lupo
+
+- divenendo: zebro
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - besto
+    - ĉevalo
+    - strioj
+    - Afriko
+    - azeno
+
+- divenendo: zinko
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - metalo
+    - tegmento
+    - sitelo
+    - defluilo
+    - latuno
+
+- divenendo: zodiako
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - ĉielo
+    - steloj
+    - planedoj
+    - konstelacioj
+    - naskiĝo
+
+- divenendo: zono
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - pantalono
+    - ledo
+    - talio
+    - ĉirkaŭi
+    - bendo
+
+- divenendo: zoo
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - bestoj
+    - parko
+    - spekti
+    - elefanto
+    - leono
+
+- divenendo: zumi
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - insekto
+    - bruo
+    - flugi
+    - abelo
+    - muŝo
+
+- divenendo: selo
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - ĉevalo
+    - biciklo
+    - sidi
+    - veturilo
+    - pugo
+
+- divenendo: glano
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - kverko
+    - frukto
+    - arbaro
+    - porko
+    - semo
+
+- divenendo: gluo
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - kunigi
+    - papero
+    - ligno
+    - afiŝo
+    - metalo
+
+- divenendo: gorĝo
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - kolo
+    - korpo
+    - spiri
+    - gluti
+    - kapo
+
+- divenendo: gorilo
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - simio
+    - simili
+    - besto
+    - granda
+    - arbaro
+
+- divenendo: graso
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - butero
+    - margarino
+    - dika
+    - oleo
+    - viando
+
+- divenendo: koverto
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - letero
+    - poŝto
+    - kovrilo
+    - enteni
+    - sendi
+
+- divenendo: ĝentila
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - afabla
+    - bona
+    - simpatio
+    - obei
+    - ĝentlemano
+
+- divenendo: atlaso
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - mapo
+    - libro
+    - lando
+    - tero
+    - maro
+
+- divenendo: ĝusta
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - preciza
+    - neta
+    - ekzakta
+    - justa
+    - specifa
+
+- divenendo: harpo
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - muziko
+    - granda
+    - kordoj
+    - instrumento
+    - arko
+
+- divenendo: latitudo
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - distanco
+    - nordo
+    - sudo
+    - ekvatoro
+    - longitudo
+
+- divenendo: leciono
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - lernejo
+    - infanoj
+    - instruisto
+    - tasko
+    - temo
+
+- divenendo: lenso
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - vitro
+    - okulo
+    - kurba
+    - lumo
+    - rigardi
+
+- divenendo: libelo
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - insekto
+    - akvo
+    - flugiloj
+    - lageto
+    - koloroj
+
+- divenendo: lifto
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - supreniri
+    - levi
+    - etaĝo
+    - elevatoro
+    - kaĝo
+
+- divenendo: lilio
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - floro
+    - blanka
+    - pureco
+    - planto
+    - akvo
+
+- divenendo: longitudo
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - distanco
+    - meridiano
+    - ekvatoro
+    - tero
+    - latitudo
+
+- divenendo: lumbriko
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - tero
+    - vermo
+    - rampi
+    - fiŝkapti
+    - kompoŝti
+
+- divenendo: lutro
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - besto
+    - rivero
+    - naĝi
+    - fiŝo
+    - mamulo
+
+- divenendo: maizo
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - planto
+    - spiko
+    - grajnoj
+    - flava
+    - manĝo
+
+- divenendo: majoro
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - armeo
+    - kapitano
+    - leŭtenanto
+    - oficiro
+    - milito
+
+- divenendo: mamuto
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - elefanto
+    - fosilia
+    - dentego
+    - kolosa
+    - haroj
+
+- divenendo: mapo
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - atlaso
+    - geografio
+    - papero
+    - ŝoseo
+    - urbo
+
+- divenendo: marĉo
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - koto
+    - akvo
+    - rano
+    - mola
+    - ŝlimo
+
+- divenendo: marioneto
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - pupo
+    - fadeno
+    - teatro
+    - pulĉinelo
+    - harlekeno
+
+- divenendo: marmoto
+  aŭtoro: Rob Ketlaer
+  tabuoj:
+    - besto
+    - dormi
+    - vintro
+    - monto
+    - ronĝi
+
+- divenendo: poneo
+  aŭtoro: Timwi Heizmann
+  tabuoj:
+    - ĉevalo
+    - zebro
+    - rajdi
+    - besto
+    - knabino
+
+- divenendo: krepusko
+  aŭtoro: Timwi Heizmann
+  tabuoj:
+    - hela
+    - tago
+    - nokto
+    - lumo
+    - suno
+
+- divenendo: fajrero
+  aŭtoro: Timwi Heizmann
+  tabuoj:
+    - bruli
+    - flamo
+    - incendio
+    - flugi
+    - lumi
+
+- divenendo: raraĵo
+  aŭtoro: Timwi Heizmann
+  tabuoj:
+    - malofta
+    - valora
+    - oro
+    - diamanto
+    - juvelo
+
+- divenendo: impeto
+  aŭtoro: Timwi Heizmann
+  tabuoj:
+    - forto
+    - ĵeti
+    - svingi
+    - puŝi
+    - salti
+
+- divenendo: vibri
+  aŭtoro: Timwi Heizmann
+  tabuoj:
+    - movi
+    - zumi
+    - sono
+    - sonori
+    - tremi
+
+- divenendo: timo
+  aŭtoro: Timwi Heizmann
+  tabuoj:
+    - sento
+    - imagi
+    - minaco
+    - danĝero
+    - tremi
+
+- divenendo: akiri
+  aŭtoro: Timwi Heizmann
+  tabuoj:
+    - havi
+    - aĉeti
+    - atingi
+    - gajni
+    - preni
+
+- divenendo: medicino
+  aŭtoro: Timwi Heizmann
+  tabuoj:
+    - kuraci
+    - malsana
+    - apoteko
+    - pilolo
+    - gluti
+
+- divenendo: ina
+  aŭtoro: Timwi Heizmann
+  tabuoj:
+    - vira
+    - malo
+    - sekso
+    - li
+    - ŝi
+
+- divenendo: intence
+  aŭtoro: Timwi Heizmann
+  tabuoj:
+    - fari
+    - voli
+    - celi
+    - aspiri
+    - plani
+
+- divenendo: skribilo
+  aŭtoro: Timwi Heizmann
+  tabuoj:
+    - inko
+    - krajono
+    - grifelo
+    - papero
+    - teksto
+
+- divenendo: IJK
+  aŭtoro: Timwi Heizmann
+  tabuoj:
+    - Esperanto
+    - renkontiĝo
+    - kunveno
+    - jaro
+    - lando
+
+- divenendo: pardonu
+  aŭtoro: Timwi Heizmann
+  tabuoj:
+    - peti
+    - bedaŭri
+    - maljusta
+    - kulpa
+    - ofendo
+
+- divenendo: saluti
+  aŭtoro: Timwi Heizmann
+  tabuoj:
+    - ĝis
+    - adiaŭ
+    - alveni
+    - akceptejo
+    - mansvingi
+
+- divenendo: ĝis
+  aŭtoro: Timwi Heizmann
+  tabuoj:
+    - revido
+    - adiaŭ
+    - foriri
+    - mansvingi
+    - prepozicio
+
+- divenendo: adiaŭ
+  aŭtoro: Timwi Heizmann
+  tabuoj:
+    - saluti
+    - ĝis
+    - foriri
+    - mansvingi
+    - bonfarti
+
+- divenendo: hodiaŭ
+  aŭtoro: Timwi Heizmann
+  tabuoj:
+    - morgaŭ
+    - hieraŭ
+    - tago
+    - nun
+    - ĉi
+
+- divenendo: morgaŭ
+  aŭtoro: Timwi Heizmann
+  tabuoj:
+    - hodiaŭ
+    - hieraŭ
+    - tago
+    - sekvonta
+    - proksima
+
+- divenendo: hieraŭ
+  aŭtoro: Timwi Heizmann
+  tabuoj:
+    - hodiaŭ
+    - morgaŭ
+    - tago
+    - pasinta
+    - antaŭ
+
+- divenendo: Vindozo
+  aŭtoro: Timwi Heizmann
+  tabuoj:
+    - fenestro
+    - Microsoft
+    - komputilo
+    - sistemo
+    - Linukso
+
+- divenendo: dupunkto
+  aŭtoro: Timwi Heizmann
+  tabuoj:
+    - interpunkcio
+    - signo
+    - frazo
+    - teksto
+    - listo
+
+- divenendo: mezo
+  aŭtoro: Timwi Heizmann
+  tabuoj:
+    - centro
+    - kerno
+    - manĝi
+    - nokto
+    - tra
+
+- divenendo: Usono
+  aŭtoro: Timwi Heizmann
+  tabuoj:
+    - lando
+    - Vaŝingtono
+    - Ameriko
+    - prezidento
+    - ŝtato
+
+- divenendo: Eŭropo
+  aŭtoro: Timwi Heizmann
+  tabuoj:
+    - kontinento
+    - landoj
+    - Germanio
+    - Francio
+    - Hispanio
+
+- divenendo: Rusio
+  aŭtoro: Timwi Heizmann
+  tabuoj:
+    - Azio
+    - lando
+    - Putino
+    - soveto
+    - Moskvo
+
+- divenendo: litero
+  aŭtoro: Timwi Heizmann
+  tabuoj:
+    - skribi
+    - vorto
+    - signo
+    - frazo
+    - teksto
+
+- divenendo: pluralo
+  aŭtoro: Timwi Heizmann
+  tabuoj:
+    - substantivo
+    - multe
+    - pluraj
+    - pli
+    - unu
+
+- divenendo: Verda Stelo
+  aŭtoro: Timwi Heizmann
+  tabuoj:
+    - Esperanto
+    - simbolo
+    - koloro
+    - Zamenhof
+    - flago
+
+- divenendo: spesmilo
+  aŭtoro: Timwi Heizmann
+  tabuoj:
+    - mono
+    - valuto
+    - fikcia
+    - inventi
+    - René de Saussure
 
