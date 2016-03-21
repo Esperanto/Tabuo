@@ -1,13 +1,14 @@
 <!doctype html>
 <html>
     <head>
-				<meta charset="utf-8">
+        <meta charset="utf-8">
         <title>Tabu-kartoj</title>
         <style>
             table {
                 border-collapse: collapse;
-                width: 100%;
+                width: 33%;
                 font-family: "Verdana", sans-serif;
+                display: inline-block;
             }
 
             td {
@@ -55,182 +56,31 @@
         </style>
     </head>
     <body>
-        <table class='granda'>
-            <tr class='vortoj'>
-                <td>poneo</td>
-                <td>krepusko</td>
-                <td>fajrero</td>
-            </tr>
-            <tr class='tabuoj'>
-                <td>
-                    <div>ĉevalo</div>
-                    <div>zebro</div>
-                    <div>rajdi</div>
-                    <div>besto</div>
-                    <div>knabino</div>
-                </td>
-                <td>
-                    <div>hela</div>
-                    <div>tago</div>
-                    <div>nokto</div>
-                    <div>lumo</div>
-                    <div>suno</div>
-                </td>
-                <td>
-                    <div>bruli</div>
-                    <div>flamo</div>
-                    <div>incendio</div>
-                    <div>flugi</div>
-                    <div>lumi</div>
-                </td>
-            </tr>
-            <tr class='etoj'>
-                <td>
-                    <table class='eta'>
-                        <tr>
-                            <td>Tabu’</td>
-                            <td class='emblemo'><div class='emblemo'></div></td>
-                            <td class='nombro'>#481</td>
-                        </tr>
-                    </table>
-                </td>
-                <td>
-                    <table class='eta'>
-                        <tr>
-                            <td>Tabu’</td>
-                            <td class='emblemo'><div class='emblemo'></div></td>
-                            <td class='nombro'>#482</td>
-                        </tr>
-                    </table>
-                </td>
-                <td>
-                    <table class='eta'>
-                        <tr>
-                            <td>Tabu’</td>
-                            <td class='emblemo'><div class='emblemo'></div></td>
-                            <td class='nombro'>#483</td>
-                        </tr>
-                    </table>
-                </td>
-            </tr>
 
-            <!-- dua trio -->
-            <tr class='vortoj'>
-                <td>poneo</td>
-                <td>krepusko</td>
-                <td>fajrero</td>
-            </tr>
-            <tr class='tabuoj'>
-                <td>
-                    <div>ĉevalo</div>
-                    <div>zebro</div>
-                    <div>rajdi</div>
-                    <div>besto</div>
-                    <div>knabino</div>
-                </td>
-                <td>
-                    <div>hela</div>
-                    <div>tago</div>
-                    <div>nokto</div>
-                    <div>lumo</div>
-                    <div>suno</div>
-                </td>
-                <td>
-                    <div>bruli</div>
-                    <div>flamo</div>
-                    <div>incendio</div>
-                    <div>flugi</div>
-                    <div>lumi</div>
-                </td>
-            </tr>
-            <tr class='etoj'>
-                <td>
-                    <table class='eta'>
-                        <tr>
-                            <td>Tabu’</td>
-                            <td class='emblemo'><div class='emblemo'></div></td>
-                            <td class='nombro'>#481</td>
-                        </tr>
-                    </table>
-                </td>
-                <td>
-                    <table class='eta'>
-                        <tr>
-                            <td>Tabu’</td>
-                            <td class='emblemo'><div class='emblemo'></div></td>
-                            <td class='nombro'>#482</td>
-                        </tr>
-                    </table>
-                </td>
-                <td>
-                    <table class='eta'>
-                        <tr>
-                            <td>Tabu’</td>
-                            <td class='emblemo'><div class='emblemo'></div></td>
-                            <td class='nombro'>#483</td>
-                        </tr>
-                    </table>
-                </td>
-            </tr>
-
-            <!-- tria trio -->
-            <tr class='vortoj'>
-                <td>poneo</td>
-                <td>krepusko</td>
-                <td>fajrero</td>
-            </tr>
-            <tr class='tabuoj'>
-                <td>
-                    <div>ĉevalo</div>
-                    <div>zebro</div>
-                    <div>rajdi</div>
-                    <div>besto</div>
-                    <div>knabino</div>
-                </td>
-                <td>
-                    <div>hela</div>
-                    <div>tago</div>
-                    <div>nokto</div>
-                    <div>lumo</div>
-                    <div>suno</div>
-                </td>
-                <td>
-                    <div>bruli</div>
-                    <div>flamo</div>
-                    <div>incendio</div>
-                    <div>flugi</div>
-                    <div>lumi</div>
-                </td>
-            </tr>
-            <tr class='etoj'>
-                <td>
-                    <table class='eta'>
-                        <tr>
-                            <td>Tabu’</td>
-                            <td class='emblemo'><div class='emblemo'></div></td>
-                            <td class='nombro'>#481</td>
-                        </tr>
-                    </table>
-                </td>
-                <td>
-                    <table class='eta'>
-                        <tr>
-                            <td>Tabu’</td>
-                            <td class='emblemo'><div class='emblemo'></div></td>
-                            <td class='nombro'>#482</td>
-                        </tr>
-                    </table>
-                </td>
-                <td>
-                    <table class='eta'>
-                        <tr>
-                            <td>Tabu’</td>
-                            <td class='emblemo'><div class='emblemo'></div></td>
-                            <td class='nombro'>#483</td>
-                        </tr>
-                    </table>
-                </td>
-            </tr>
-        </table>
+        {% for karto in kartoj %}
+          <table class='granda'>
+              <tr class='vortoj'>
+                  <td>{{karto.divenendo}}</td>
+              </tr>
+              <tr class='tabuoj'>
+                  <td>
+                      {% for tabuo in karto.tabuoj %}
+                          <div>{{tabuo}}</div>
+                      {% endfor %}
+                  </td>
+              </tr>
+              <tr class='etoj'>
+                  <td>
+                      <table class='eta'>
+                          <tr>
+                              <td>Tabu’</td>
+                              <td class='emblemo'><div class='emblemo'></div></td>
+                              <td class='nombro'>#{{ loop.index }}</td>
+                          </tr>
+                      </table>
+                  </td>
+              </tr>
+          </table>
+        {% endfor %}
     </body>
 </html>
