@@ -10,8 +10,8 @@ for i in range(0, len(kartoj)):
     kartoj[i]['indekso'] = i + 1
 
 
-# kreu 'kartoj.html'-dosieron (printebla HTML enhavanta po 9 kartojn por paĝo)
-def eligu_html(kartoj):
+# Kreu printebla HTML enhavanta po 9 kartojn por paĝo.
+def eligu_9_po_pagxo(kartoj):
 
     # kreu liston, en kiu la anoj estas grupitaj per specifa nombro
     def grupigu(listo, nombro):
@@ -34,27 +34,28 @@ def eligu_html(kartoj):
     env.lstrip_blocks = True
     env.loader = jinja2.FileSystemLoader('sxablonoj/')
 
-    rendered = env.get_template('kartoj.html').render(
+    rendered = env.get_template('9_po_pagxo.html').render(
         pagxoj = pagxoj
     )
 
-    with open('eligo/kartoj.html', 'w') as f:
+    with open('eligo/9_po_pagxo.html', 'w') as f:
         f.write(rendered.encode('utf-8'))
 
-# kreu 'a4.html'-dosieron (ĉiu karto estas unu A4-paĝo)
-def eligu_a4(kartoj):
+# Kreu printebla HTML enhavanta po 1 kartojn por paĝo.
+# (Eblas decidi ĉe la print-dialogo, kiom da kartoj oni volas havi po printita paĝo.)
+def eligu_1_po_pagxo(kartoj):
 
     env = jinja2.Environment()
     env.trim_blocks = True
     env.lstrip_blocks = True
     env.loader = jinja2.FileSystemLoader('sxablonoj/')
 
-    rendered = env.get_template('a4.html').render(
+    rendered = env.get_template('1_po_pagxo.html').render(
         kartoj = kartoj
     )
 
-    with open('eligo/a4.html', 'w') as f:
+    with open('eligo/1_po_pagxo.html', 'w') as f:
         f.write(rendered.encode('utf-8'))
 
-eligu_html(kartoj)
-eligu_a4(kartoj)
+eligu_1_po_pagxo(kartoj)
+eligu_9_po_pagxo(kartoj)
