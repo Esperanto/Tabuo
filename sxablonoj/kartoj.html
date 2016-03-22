@@ -1,4 +1,4 @@
-<!doctype html>
+﻿<!doctype html>
 <html>
     <head>
         <meta charset="utf-8">
@@ -6,13 +6,13 @@
         <style>
             table {
                 border-collapse: collapse;
-                width: 33%;
                 font-family: "Verdana", sans-serif;
-                display: inline-block;
+                width: 100%;
             }
 
             td {
                 border: 2px solid black;
+                width: 33%;
             }
 
             .vortoj td {
@@ -57,31 +57,38 @@
         </style>
     </head>
     <body>
-
-        {% for karto in kartoj %}
-          <table class='granda'>
-              <tr class='vortoj'>
-                  <td>{{karto.divenendo}}</td>
-              </tr>
-              <tr class='tabuoj'>
-                  <td>
-                      {% for tabuo in karto.tabuoj %}
-                          <div>{{tabuo}}</div>
-                      {% endfor %}
-                  </td>
-              </tr>
-              <tr class='etoj'>
-                  <td>
-                      <table class='eta'>
-                          <tr>
-                              <td>Tabu’</td>
-                              <td class='emblemo'><div class='emblemo'></div></td>
-                              <td class='nombro'>#{{ loop.index }}</td>
-                          </tr>
-                      </table>
-                  </td>
-              </tr>
-          </table>
+        {% for linioj in pagxoj %}
+            <table class='granda'>
+                {% for kartotrio in linioj %}
+                    <tr class='vortoj'>
+                        {% for karto in kartotrio %}
+                            <td>{{karto.divenendo}}</td>
+                        {% endfor %}
+                    </tr>
+                    <tr class='tabuoj'>
+                        {% for karto in kartotrio %}
+                            <td>
+                                {% for tabuo in karto.tabuoj %}
+                                    <div>{{tabuo}}</div>
+                                {% endfor %}
+                            </td>
+                        {% endfor %}
+                    </tr>
+                    <tr class='etoj'>
+                        {% for karto in kartotrio %}
+                            <td>
+                                <table class='eta'>
+                                    <tr>
+                                        <td>Tabu’</td>
+                                        <td class='emblemo'><div class='emblemo'></div></td>
+                                        <td class='nombro'>#{{ karto.indekso }}</td>
+                                    </tr>
+                                </table>
+                            </td>
+                        {% endfor %}
+                    </tr>
+                {% endfor %}
+            </table>
         {% endfor %}
     </body>
 </html>
