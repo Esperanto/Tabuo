@@ -15,21 +15,35 @@
                 width: 33%;
             }
 
+            .vortoj {
+                height: 50pt;
+            }
+
             .vortoj td {
                 font-weight: bold;
                 font-size: 22pt;
-                padding: .5em 0;
                 text-align: center;
+            }
+
+            .vortoj td.longa {
+                font-size: 18pt;
+            }
+
+            .tabuoj {
+                height: 180pt;
             }
 
             .tabuoj td {
                 font-size: 18pt;
-                padding: 1.5em 0;
                 text-align: center;
             }
 
+            .etoj {
+                height: 20pt;
+            }
+
             .etoj td {
-                padding: .2em .75em;
+                padding: 0 .75em;
                 font-size: 8pt;
                 width: auto;
             }
@@ -58,14 +72,14 @@
                 {% for kartotrio in linioj %}
                     <tr class='vortoj'>
                         {% for karto in kartotrio %}
-                            <td>{{karto.divenendo}}</td>
+                            <td{% if karto.longa %} class='longa'{% endif %}>{{ karto.divenendo }}</td>
                         {% endfor %}
                     </tr>
                     <tr class='tabuoj'>
                         {% for karto in kartotrio %}
                             <td>
                                 {% for tabuo in karto.tabuoj %}
-                                    <div>{{tabuo}}</div>
+                                    <div>{{ tabuo }}</div>
                                 {% endfor %}
                             </td>
                         {% endfor %}
