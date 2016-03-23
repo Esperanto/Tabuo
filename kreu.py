@@ -38,7 +38,7 @@ def eligu_9_por_pagxo(kartoj):
         pagxoj = pagxoj
     )
 
-    with open('eligo/9_po_pagxo.html', 'w') as f:
+    with open('eligo/9_por_pagxo.html', 'w') as f:
         f.write(rendered.encode('utf-8'))
 
 # Kreu printeblan HTML-on enhavantan po 1 karton por paĝo.
@@ -54,7 +54,7 @@ def eligu_1_por_pagxo(kartoj):
         kartoj = kartoj
     )
 
-    with open('eligo/1_po_pagxo.html', 'w') as f:
+    with open('eligo/1_por_pagxo.html', 'w') as f:
         f.write(rendered.encode('utf-8'))
 
 eligu_1_por_pagxo(kartoj)
