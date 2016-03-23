@@ -44,12 +44,17 @@
 
             .etoj td {
                 padding: 0 .75em;
-                font-size: 8pt;
-                width: auto;
+                font-size: 9pt;
             }
 
             table.eta td {
                 border: none;
+                width: 45%;
+            }
+
+            table.eta td.emblemo {
+                width: 10%;
+                text-align: center;
             }
 
             table.eta td.nombro {
@@ -63,6 +68,7 @@
                 background-size: contain;
                 background-position: 50% 50%;
                 background-repeat: no-repeat;
+                display: inline-block;
             }
         </style>
     </head>
@@ -89,7 +95,7 @@
                             <td>
                                 <table class='eta'>
                                     <tr>
-                                        <td>de {{ karto['aŭtoro'] }}</td>
+                                        <td>Tabu’</td>
                                         <td class='emblemo'><div class='emblemo'></div></td>
                                         <td class='nombro'>#{{ karto.indekso }}</td>
                                     </tr>
