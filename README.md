@@ -11,6 +11,14 @@ Printu la dosierojn en `eligo`. Elektu ĉu vi volas
 
 ## Kreu novajn ludkartojn
 
+### Postuloj
+
+- Python, kun
+  - yaml
+  - jinja2
+
+### Kreado
+
 1. Aldonu liniojn en [`enhavo/kartoj.yml`](enhavo/kartoj.yml) laŭ la formo de la ekzistantaj linioj.
 1. Voku `$ python kreu.py`. La dosieroj en `eligo` aktualiĝos.
 
