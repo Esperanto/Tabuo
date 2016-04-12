@@ -1,4 +1,4 @@
-﻿- divenendo: domo
+- divenendo: domo
   aŭtoro: Rob Ketlaer
   tabuoj:
     - ĉambro
@@ -4858,3 +4858,85 @@
     - naskiĝo
     - aĝo
     - ludi
+
+- divenendo: elekti
+  aŭtoro: Timwi Heizmann
+  tabuoj:
+    - preni
+    - opcioj
+    - preferi
+    - voĉdoni
+    - hazarde
+
+- divenendo: palaco
+  aŭtoro: Timwi Heizmann
+  tabuoj:
+    - luksa
+    - pompa
+    - domo
+    - reĝo
+    - loĝi
+
+- divenendo: korvo
+  aŭtoro: Timwi Heizmann
+  tabuoj:
+    - birdo
+    - besto
+    - flugi
+    - nigra
+    - plumoj
+
+- divenendo: frato
+  aŭtoro: Timwi Heizmann
+  tabuoj:
+    - ĝemelo
+    - familio
+    - patro
+    - filo
+    - parenca
+
+- divenendo: animo
+  aŭtoro: Timwi Heizmann
+  tabuoj:
+    - religio
+    - kredo
+    - spirito
+    - menso
+    - vivi
+
+- divenendo: komenci
+  aŭtoro: Timwi Heizmann
+  tabuoj:
+    - ek
+    - fino
+    - lanĉi
+    - starti
+    - signalo
+
+- divenendo: helpi
+  aŭtoro: Timwi Heizmann
+  tabuoj:
+    - laboro
+    - bezoni
+    - protekti
+    - peti
+    - sole
+
+- divenendo: koni
+  aŭtoro: Timwi Heizmann
+  tabuoj:
+    - scii
+    - persono
+    - homo
+    - amiko
+    - eltrovi
+
+- divenendo: flago
+  aŭtoro: Timwi Heizmann
+  tabuoj:
+    - standardo
+    - tolo
+    - lando
+    - urbo
+    - signifi
+
