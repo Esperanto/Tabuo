@@ -6,7 +6,7 @@
         <style>
             @page
             {
-                margin: 7mm 10mm 7mm 10mm;
+                margin: 14mm 10mm 5mm 10mm;
             }
 
             body
@@ -20,13 +20,17 @@
                 width: 100%;
             }
 
+            table.granda:not(.unua) {
+                page-break-before: always;
+            }
+
             td {
                 border: 2px solid black;
                 width: 33%;
             }
 
             .vortoj {
-                height: 16mm;
+                height: 17mm;
             }
 
             .vortoj td {
@@ -84,7 +88,7 @@
     </head>
     <body>
         {% for linioj in pagxoj %}
-            <table class='granda'>
+            <table class='granda{% if loop.index == 1 %} unua{% endif %}'>
                 {% for kartotrio in linioj %}
                     <tr class='vortoj'>
                         {% for karto in kartotrio %}

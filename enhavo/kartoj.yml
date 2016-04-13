@@ -4941,3 +4941,171 @@
     - urbo
     - signifi
 
+- divenendo: antaŭ
+  aŭtoro: Timwi Heizmann
+  tabuoj:
+    - post
+    - fronto
+    - pasinteco
+    - stari
+    - frue
+
+- divenendo: transgenra
+  aŭtoro: Timwi Heizmann
+  tabuoj:
+    - sekso
+    - vestaĵoj
+    - viro
+    - ina
+    - ŝanĝi
+
+- divenendo: streko
+  aŭtoro: Timwi Heizmann
+  tabuoj:
+    - punkto
+    - interpunkcio
+    - signo
+    - desegni
+    - linio
+
+- divenendo: Barato
+  aŭtoro: Timwi Heizmann
+  tabuoj:
+    - lando
+    - Azio
+    - hinduo
+    - hindia
+    - popolo
+
+- divenendo: programo
+  aŭtoro: Timwi Heizmann
+  tabuoj:
+    - radio
+    - televido
+    - komputilo
+    - teatro
+    - kinejo
+
+- divenendo: ligno
+  aŭtoro: Timwi Heizmann
+  tabuoj:
+    - materialo
+    - tablo
+    - sidilo
+    - fajro
+    - farita
+
+- divenendo: gravito
+  aŭtoro: Timwi Heizmann
+  tabuoj:
+    - fiziko
+    - planedo
+    - astro
+    - fali
+    - Isaac Newton
+
+- divenendo: Isaac Newton
+  aŭtoro: Timwi Heizmann
+  longa: true
+  tabuoj:
+    - fizikisto
+    - gravito
+    - fali
+    - mekaniko
+    - Anglio
+
+- divenendo: Albert Einstein
+  aŭtoro: Timwi Heizmann
+  longa: true
+  tabuoj:
+    - fizikisto
+    - scienco
+    - relativeco
+    - teorio
+    - fama
+
+- divenendo: Kleopatra
+  aŭtoro: Timwi Heizmann
+  tabuoj:
+    - Egiptio
+    - faraono
+    - regi
+    - Julio Cezaro
+    - Marko Antonio
+
+- divenendo: Shakespeare
+  aŭtoro: Timwi Heizmann
+  longa: true
+  tabuoj:
+    - Anglujo
+    - verkisto
+    - skribi
+    - teatro
+    - Romeo kaj Julieta
+
+- divenendo: Elton John
+  aŭtoro: Timwi Heizmann
+  tabuoj:
+    - Anglujo
+    - muzikisto
+    - kantisto
+    - pianisto
+    - kavaliro
+
+- divenendo: Michael Phelps
+  aŭtoro: Timwi Heizmann
+  longa: true
+  tabuoj:
+    - sporto
+    - naĝi
+    - Olimpikaj Ludoj
+    - medalo
+    - Usono
+
+- divenendo: Barack Obama
+  aŭtoro: Timwi Heizmann
+  longa: true
+  tabuoj:
+    - Usono
+    - prezidanto
+    - politiko
+    - George Bush
+    - Demokrato
+
+- divenendo: Dolchamar
+  aŭtoro: Timwi Heizmann
+  tabuoj:
+    - Esperanto
+    - muziko
+    - grupo
+    - Finnlando
+    - kanti
+
+- divenendo: E-o Desperado
+  aŭtoro: Timwi Heizmann
+  longa: true
+  tabuoj:
+    - muziko
+    - grupo
+    - kanti
+    - Danio
+    - hotelo
+
+- divenendo: studi
+  aŭtoro: Timwi Heizmann
+  tabuoj:
+    - lerni
+    - universitato
+    - kolegio
+    - titolo
+    - doktoro
+
+- divenendo: noto
+  aŭtoro: Timwi Heizmann
+  tabuoj:
+    - kajero
+    - skribi
+    - muziko
+    - oktavo
+    - melodio
+
