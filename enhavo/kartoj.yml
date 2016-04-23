@@ -5033,7 +5033,7 @@
     - Julio Cezaro
     - Marko Antonio
 
-- divenendo: Shakespeare
+- divenendo: William Shakespeare
   aŭtoro: Timwi Heizmann
   longa: true
   tabuoj:
@@ -5081,7 +5081,7 @@
     - Finnlando
     - kanti
 
-- divenendo: E-o Desperado
+- divenendo: Esperanto Desperado
   aŭtoro: Timwi Heizmann
   longa: true
   tabuoj:
@@ -5108,4 +5108,167 @@
     - muziko
     - oktavo
     - melodio
+
+- divenendo: korinfarkto
+  aŭtoro: Timwi Heizmann
+  tabuoj:
+    - atako
+    - ĉesi
+    - malsana
+    - sango
+    - morti
+
+- divenendo: spamo
+  aŭtoro: Timwi Heizmann
+  tabuoj:
+    - mesaĝo
+    - interreto
+    - nedezirata
+    - amasa
+    - reklamo
+
+- divenendo: TTT
+  aŭtoro: Timwi Heizmann
+  tabuoj:
+    - interreto
+    - paĝoj
+    - ligiloj
+    - klaki
+    - komputilo
+
+- divenendo: Amazon
+  aŭtoro: Timwi Heizmann
+  tabuoj:
+    - interreto
+    - aĉeti
+    - vendi
+    - mendi
+    - libroj
+
+- divenendo: Facebook
+  aŭtoro: Timwi Heizmann
+  tabuoj:
+    - interreto
+    - paĝo
+    - amikoj
+    - komentoj
+    - ŝati
+
+- divenendo: Google
+  aŭtoro: Timwi Heizmann
+  tabuoj:
+    - retpaĝoj
+    - serĉi
+    - firmao
+    - Larry Page
+    - Sergey Brin
+
+- divenendo: YouTube
+  aŭtoro: Timwi Heizmann
+  tabuoj:
+    - videoj
+    - interreto
+    - vidi
+    - spekti
+    - katoj
+
+- divenendo: mikrofono
+  aŭtoro: Timwi Heizmann
+  tabuoj:
+    - muziko
+    - sono
+    - registri
+    - kanti
+    - aŭdi
+
+- divenendo: Plena Ilustrita Vortaro
+  aŭtoro: Timwi Heizmann
+  longa: true
+  tabuoj:
+    - libro
+    - Esperanto
+    - lingvo
+    - bildoj
+    - paĝoj
+
+- divenendo: ilo
+  aŭtoro: Timwi Heizmann
+  tabuoj:
+    - helpi
+    - uzi
+    - verki
+    - tranĉi
+    - flugi
+
+- divenendo: hela
+  aŭtoro: Timwi Heizmann
+  tabuoj:
+    - lumo
+    - suno
+    - brili
+    - blanka
+    - tago
+
+- divenendo: bazo
+  aŭtoro: Timwi Heizmann
+  tabuoj:
+    - malsupre
+    - facile
+    - simple
+    - fundo
+    - acido
+
+- divenendo: motivo
+  aŭtoro: Timwi Heizmann
+  tabuoj:
+    - kialo
+    - agi
+    - voli
+    - muziko
+    - melodio
+
+- divenendo: batali
+  aŭtoro: Timwi Heizmann
+  tabuoj:
+    - soldato
+    - milito
+    - konsento
+    - pafiloj
+    - glavoj
+
+- divenendo: nutri
+  aŭtoro: Timwi Heizmann
+  tabuoj:
+    - manĝi
+    - gluti
+    - bestoj
+    - homoj
+    - buŝo
+
+- divenendo: kvar
+  aŭtoro: Timwi Heizmann
+  tabuoj:
+    - sezonoj
+    - nombro
+    - numero
+    - tri
+    - kvin
+
+- divenendo: sep
+  aŭtoro: Timwi Heizmann
+  tabuoj:
+    - semajno
+    - tagoj
+    - nombro
+    - ses
+    - ok
+
+- divenendo: miliono
+  aŭtoro: Timwi Heizmann
+  tabuoj:
+    - granda
+    - nombro
+    - numero
+    - mil
+    - ses
 
