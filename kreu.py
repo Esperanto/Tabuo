@@ -57,5 +57,21 @@ def eligu_1_por_pagxo(kartoj):
     with open('eligo/1_por_pagxo.html', 'w') as f:
         f.write(rendered.encode('utf-8'))
 
+# Kreu HTML-dosieron por ludi (ekz. per saĝtelefoj)
+def eligu_ludon(kartoj):
+
+    env = jinja2.Environment()
+    env.trim_blocks = True
+    env.lstrip_blocks = True
+    env.loader = jinja2.FileSystemLoader('sxablonoj/')
+
+    rendered = env.get_template('ludo.html').render(
+        kartoj = kartoj
+    )
+
+    with open('eligo/ludo.html', 'w') as f:
+        f.write(rendered.encode('utf-8'))
+
 eligu_1_por_pagxo(kartoj)
 eligu_9_por_pagxo(kartoj)
+eligu_ludon(kartoj)

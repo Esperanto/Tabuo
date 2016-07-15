@@ -1,0 +1,155 @@
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Tabuo</title>
+        <style>
+						.malantauxen {
+							position: absolute;	
+							left: 1em;
+							top: 0em;
+						}
+						.antauxen {
+							position: absolute;	
+							top: 0em;
+							right: 1em;
+						}
+						.reordigu {
+							margin-top: 1em;
+						}
+						h1#divenendo {
+							text-align: center;	
+              font-size: 3em;
+							margin-top: 1.5em;
+						}
+            ul#tabuoj {
+              margin-top: 2em;
+              list-style-type: none;
+              margin: 0;
+              padding: 0;
+            }
+            ul.navigado {
+              margin-top: 2em;
+              list-style-type: none;
+              margin: 0;
+              padding: 0;
+            }
+            li {
+              margin-top: 0.3em;
+              text-align: center;  
+              font-size: 2em;
+            }
+        </style>
+
+    </head>
+    <body>
+			<ul class="navigado">
+				<li class="malantauxen"><a href="javascript:sxangxu(-1);">&lt;--</a></li>
+				<li class="antauxen"><a href="javascript:sxangxu(1);">--&gt;</a></li>
+			</ul>
+
+			<h1 id="divenendo"></h1>
+          <ul id="tabuoj">
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+          </ul>
+			<ul class="navigado">
+				<li class="reordigu"><a href="javascript:reordigu()">reordigu</a></li>
+			</ul>
+
+    <script>
+
+function range(start, count) {
+    if(arguments.length == 1) {
+        count = start;
+        start = 0;
+    }
+
+    var foo = [];
+    for (var i = 0; i < count; i++) {
+        foo.push(start + i);
+    }
+    return foo;
+}
+
+/**
+ * Shuffles array in place.
+ * @param {Array} a items The array containing the items.
+ */
+function shuffle(a) {
+    var j, x, i;
+    for (i = a.length; i; i--) {
+        j = Math.floor(Math.random() * i);
+        x = a[i - 1];
+        a[i - 1] = a[j];
+        a[j] = x;
+    }
+}
+
+function sxangxu(diferenco) {
+
+	if (
+			(indekso+diferenco < 0 ) ||
+	    (indekso+diferenco > ordo.length-1)
+	) {
+		return;
+	}
+	indekso = indekso + diferenco;
+	montru_karton(ordo[indekso]);
+}
+
+
+function reordigu() {
+
+	shuffle(ordo);
+	indekso = 0;
+	montru_karton(ordo[indekso]);
+}
+
+function montru_karton(ordindekso) {
+
+	var divenendo_elemento = document.getElementById('divenendo');
+	var tabuoj_elementoj = document.getElementById('tabuoj');
+	divenendo_elemento.innerHTML = divenendoj[ordindekso];
+	for (var j=0; j<tabuoj[ordindekso].length; j++) {
+		tabuoj_elementoj.children[j].innerHTML = tabuoj[ordindekso][j];
+	}
+}
+
+var indekso = 0;
+
+
+var divenendoj = Array(
+{% for karto in kartoj -%}
+	'{{karto.divenendo}}'
+	{%- if not loop.last -%}
+			,
+	{%- endif -%}
+{%- endfor %}
+);
+
+var tabuoj = Array(
+{% for karto in kartoj -%}
+	Array(
+		{%- for tabuo in karto.tabuoj -%}
+			'{{tabuo}}'
+			{%- if not loop.last -%}
+					,
+			{%- endif -%}
+		{%- endfor -%}
+	)
+	{%- if not loop.last -%}
+			,
+	{%- endif -%}
+{%- endfor %}
+	);
+
+var ordo = range(0, divenendoj.length);
+
+reordigu();
+
+    </script>
+    </body>
+</html>
