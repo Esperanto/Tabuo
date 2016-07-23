@@ -5272,3 +5272,31 @@
     - mil
     - ses
 
+- divenendo: scienc-fikcio
+  aŭtoro: Timwi Heizmann
+  longa: true
+  tabuoj:
+    - libro
+    - filmo
+    - rakonto
+    - estonteco
+    - teknologio
+
+- divenendo: Vikipedio
+  aŭtoro: Timwi Heizmann
+  tabuoj:
+    - enciklopedio
+    - artikoloj
+    - interreto
+    - paĝaro
+    - redakti
+
+- divenendo: Unuiĝintaj Nacioj
+  aŭtoro: Timwi Heizmann
+  tabuoj:
+    - landoj
+    - mondo
+    - Dua Mondmilito
+    - Ban Ki-moon
+    - Konsilio de Sekureco
+
