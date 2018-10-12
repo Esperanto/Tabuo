@@ -6685,3 +6685,408 @@
     - kampo
     - maŝino
     - farmo
+    
+- divenendo: ruino
+  aŭtoro: Heike Bieler
+  tabuoj:
+    - nova
+    - ŝtono
+    - domo
+    - konstrui
+    - muro
+    
+- divenendo: aplaŭdi
+  aŭtoro: Heike Bieler
+  tabuoj:
+    - mano
+    - frapi
+    - plaĉi
+    - admiri
+    - prezenti
+    
+- divenendo: boto
+  aŭtoro: Heike Bieler
+  tabuoj:
+    - ŝuo
+    - piedo
+    - iri
+    - ŝtrumpo
+    - kruro
+    
+- divenendo: korto
+  aŭtoro: Heike Bieler
+  tabuoj:
+    - domo
+    - arbo
+    - puto
+    - konstrui
+    - ĝardeno
+        
+- divenendo: alfabeto
+  aŭtoro: Heike Bieler
+  tabuoj:
+    - skribi
+    - legi
+    - litero
+    - aboco
+    - lerni
+    
+- divenendo: aerosako
+  aŭtoro: Heike Bieler
+  tabuoj:
+    - akcidento
+    - aŭto
+    - sekura
+    - protekti
+    - ŝoforo
+    
+- divenendo: fluto
+  aŭtoro: Heike Bieler
+  tabuoj:
+    - instrumento
+    - muziko
+    - blovi
+    - ligno
+    - ludi
+    
+- divenendo: koko
+  aŭtoro: Heike Bieler
+  tabuoj:
+    - birdo
+    - ruĝa
+    - krii
+    - veki
+    - mateno  
+    
+- divenendo: stacidomo
+  aŭtoro: Heike Bieler
+  tabuoj:
+    - trajno
+    - relo
+    - kajo
+    - fervojo
+    - vojaĝi
+    
+- divenendo: grafitio
+  aŭtoro: Heike Bieler
+  tabuoj:
+    - muro
+    - arto
+    - desegno
+    - pentri
+    - strato
+    
+- divenendo: helikoptero
+  aŭtoro: Heike Bieler
+  tabuoj:
+    - ĉielo
+    - flugi
+    - rotoro
+    - aviadilo
+    - aero
+    
+- divenendo: motoro
+  aŭtoro: Heike Bieler
+  tabuoj:
+    - maŝino
+    - aŭto
+    - veturi
+    - benzino
+    - mekaniko
+    
+- divenendo: sono
+  aŭtoro: Heike Bieler
+  tabuoj:
+    - aŭdi
+    - aŭskulti
+    - muziko
+    - laŭta
+    - bruo
+    
+- divenendo: ŝnuro
+  aŭtoro: Heike Bieler
+  tabuoj:
+    - nodo
+    - ligi
+    - longa
+    - fadeno
+    - pendi
+    
+- divenendo: akcidento
+  aŭtoro: Heike Bieler
+  tabuoj:
+    - aŭto
+    - veturi
+    - damaĝo
+    - rompi
+    - okazi
+    
+- divenendo: observi
+  aŭtoro: Heike Bieler
+  tabuoj:
+    - rigardi
+    - vidi
+    - atenta
+    - okulo
+    - rimarki
+    
+- divenendo: aresti
+  aŭtoro: Heike Bieler
+  tabuoj:
+    - polico
+    - krimo
+    - kapti
+    - libera
+    - prizono
+    
+- divenendo: ledo
+  aŭtoro: Heike Bieler
+  tabuoj:
+    - bruna
+    - felo
+    - haŭto
+    - ŝuo
+    - krokodilo
+    
+- divenendo: orkestro
+  aŭtoro: Heike Bieler
+  tabuoj:
+    - muziko
+    - dirigento
+    - ludi
+    - instrumento
+    - koncerto
+    
+- divenendo: pasaĝero
+  aŭtoro: Heike Bieler
+  tabuoj:
+    - vojaĝi
+    - aŭto
+    - trajno
+    - buso
+    - veturi
+    
+- divenendo: kuŝi
+  aŭtoro: Heike Bieler
+  tabuoj:
+    - ripozi
+    - dormi
+    - matraco
+    - lito
+    - sidi
+    
+- divenendo: teatro
+  aŭtoro: Heike Bieler
+  tabuoj:
+    - spekti
+    - balkono
+    - aktoro
+    - ludi
+    - arto
+    
+- divenendo: paroli
+  aŭtoro: Heike Bieler
+  tabuoj:
+    - diri
+    - konversacio
+    - lingvo
+    - aŭskulti
+    - voĉo
+    
+- divenendo: ekskurso
+  aŭtoro: Heike Bieler
+  tabuoj:
+    - viziti
+    - buso
+    - homo
+    - vojaĝi
+    - veturi
+    
+- divenendo: grajno
+  aŭtoro: Heike Bieler
+  tabuoj:
+    - tritiko
+    - greno
+    - faruno
+    - pano
+    - mueli
+    
+- divenendo: remi
+  aŭtoro: Heike Bieler
+  tabuoj:
+    - akvo
+    - boato
+    - rivero
+    - lago
+    - ŝipo
+    
+- divenendo: brokantaĵo
+  aŭtoro: Heike Bieler
+  tabuoj:
+    - antikva
+    - malnova
+    - vendi
+    - aĉeti
+    - meblo
+    
+- divenendo: oficejo
+  aŭtoro: Heike Bieler
+  tabuoj:
+    - komputilo
+    - seĝo
+    - tablo
+    - labori
+    - skribi
+    
+- divenendo: dika
+  aŭtoro: Heike Bieler
+  tabuoj:
+    - grasa
+    - korpo
+    - granda
+    - peza
+    - ventro
+    
+- divenendo: greno
+  aŭtoro: Heike Bieler
+  tabuoj:
+    - tritiko
+    - grajno
+    - planto
+    - faruno
+    - pano
+    
+- divenendo: fervojo
+  aŭtoro: Heike Bieler
+  tabuoj:
+    - trajno
+    - relo
+    - vagono
+    - veturi
+    - stacidomo
+    
+- divenendo: nordo
+  aŭtoro: Heike Bieler
+  tabuoj:
+    - kompaso
+    - sudo
+    - direkto
+    - poluso
+    - mapo
+    
+- divenendo: kasko
+  aŭtoro: Heike Bieler
+  tabuoj:
+    - kapo
+    - protekti
+    - biciklo
+    - veturi
+    - akcidento
+    
+- divenendo: dokumento
+  aŭtoro: Heike Bieler
+  tabuoj:
+    - papero
+    - skribi
+    - pasporto
+    - atesto
+    - oficiala
+    
+- divenendo: danĝero
+  aŭtoro: Heike Bieler
+  tabuoj:
+    - krii
+    - atenti
+    - averti
+    - minaci
+    - timi
+    
+- divenendo: masto
+  aŭtoro: Heike Bieler
+  tabuoj:
+    - ŝipo
+    - velo
+    - flago
+    - alta
+    - stango
+    
+- divenendo: preni
+  aŭtoro: Heike Bieler
+  tabuoj:
+    - doni
+    - akcepti
+    - kapti
+    - fingro
+    - mano
+    
+- divenendo: gufo
+  aŭtoro: Heike Bieler
+  tabuoj:
+    - birdo
+    - strigo
+    - nokto
+    - teo
+    - trinki
+    
+- divenendo: sumoo
+  aŭtoro: Heike Bieler
+  tabuoj:
+    - sporto
+    - Japanio
+    - lukto
+    - dika
+    - nuda
+    
+- divenendo: semi
+  aŭtoro: Heike Bieler
+  tabuoj:
+    - kampo
+    - grajno
+    - tero
+    - rigolti
+    - ĵeti
+    
+- divenendo: varma
+  aŭtoro: Heike Bieler
+  tabuoj:
+    - suno
+    - ŝviti
+    - somero
+    - temperaturo
+    - hejti
+    
+- divenendo: vaflo
+  aŭtoro: Heike Bieler
+  tabuoj:
+    - ĉokolado
+    - kuko
+    - sukero
+    - manĝi
+    - glacio
+    
+- divenendo: rendevuo
+  aŭtoro: Heike Bieler
+  tabuoj:
+    - telefono
+    - kalendaro
+    - dato
+    - renkonti
+    - horo
+    
+- divenendo: popolo
+  aŭtoro: Heike Bieler
+  tabuoj:
+    - homo
+    - nacio
+    - lando
+    - kulturo
+    - loĝi
+    
+- divenendo: fontano
+  aŭtoro: Heike Bieler
+  tabuoj:
+    - akvo
+    - ŝpruci
+    - placo
+    - parko
+    - flui
