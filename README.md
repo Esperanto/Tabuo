@@ -4,7 +4,9 @@ Tiu deponejo enhavas esperantlingvajn ludkartojn por la divenludo *Tabuo*.
 
 ## Ludo enrete
 
-Ebligas ludi per saĝtelefono / platkompulito. Simpla versio, montras nur la kartojn: http://tabuo.esperanto.com
+Ebligas ludi per saĝtelefono / platkompulito. Simpla versio, montras nur la kartojn:
+
+- http://tabuo.esperanto.com
 
 ## Uzado
 
