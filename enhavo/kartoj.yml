@@ -6691,7 +6691,7 @@
   tabuoj:
     - nova
     - ŝtono
-    - domo
+    - detrui
     - konstrui
     - muro
     
@@ -6701,7 +6701,7 @@
     - mano
     - frapi
     - plaĉi
-    - admiri
+    - teatro
     - prezenti
     
 - divenendo: boto
@@ -6753,7 +6753,7 @@
   aŭtoro: Heike Bieler
   tabuoj:
     - birdo
-    - ruĝa
+    - ovo
     - krii
     - veki
     - mateno  
@@ -6837,7 +6837,7 @@
     - krimo
     - kapti
     - libera
-    - prizono
+    - puno
     
 - divenendo: ledo
   aŭtoro: Heike Bieler
@@ -6846,7 +6846,7 @@
     - felo
     - haŭto
     - ŝuo
-    - krokodilo
+    - zono
     
 - divenendo: orkestro
   aŭtoro: Heike Bieler
@@ -6879,7 +6879,7 @@
   aŭtoro: Heike Bieler
   tabuoj:
     - spekti
-    - balkono
+    - sceno
     - aktoro
     - ludi
     - arto
@@ -6963,7 +6963,7 @@
     - relo
     - vagono
     - veturi
-    - stacidomo
+    - vojaĝi
     
 - divenendo: nordo
   aŭtoro: Heike Bieler
@@ -6990,7 +6990,7 @@
     - skribi
     - pasporto
     - atesto
-    - oficiala
+    - teksto
     
 - divenendo: danĝero
   aŭtoro: Heike Bieler
@@ -7016,7 +7016,7 @@
     - doni
     - akcepti
     - kapti
-    - fingro
+    - ricevi
     - mano
     
 - divenendo: gufo
@@ -7043,7 +7043,7 @@
     - kampo
     - grajno
     - tero
-    - rigolti
+    - rikolti
     - ĵeti
     
 - divenendo: varma
@@ -7058,20 +7058,20 @@
 - divenendo: vaflo
   aŭtoro: Heike Bieler
   tabuoj:
+    - dolĉa
     - ĉokolado
     - kuko
-    - sukero
     - manĝi
     - glacio
     
 - divenendo: rendevuo
   aŭtoro: Heike Bieler
   tabuoj:
-    - telefono
     - kalendaro
     - dato
     - renkonti
     - horo
+    - vidi
     
 - divenendo: popolo
   aŭtoro: Heike Bieler
@@ -7090,3 +7090,12 @@
     - placo
     - parko
     - flui
+    
+- divenendo: atuto
+  aŭtoro: Heike Bieler
+  tabuoj:
+    - karto
+    - ludi
+    - superi
+    - koloro
+    - sekvi
