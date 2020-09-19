@@ -7369,3 +7369,346 @@
     - ŝnuro
     - fiksi
     - risorto
+    
+- divenendo: hamako
+  aŭtoro: Heike Bieler
+  tabuoj:
+    - kuŝi
+    - pendi
+    - reto
+    - lito
+    - ŝipo
+    
+- divenendo: palmo
+  aŭtoro: Heike Bieler
+  tabuoj:
+    - plaĝo
+    - planto
+    - arbo
+    - kokoso
+    - varma
+    
+- divenendo: proverbo
+  aŭtoro: Heike Bieler
+  tabuoj:
+    - diri
+    - vorto
+    - lingvo
+    - esprimo
+    - frazo
+    
+- divenendo: ŝafo
+  aŭtoro: Heike Bieler
+  tabuoj:
+    - besto
+    - lano
+    - kapro
+    - herbo
+    - bleki
+    
+- divenendo: anaso
+  aŭtoro: Heike Bieler
+  tabuoj:
+    - birdo
+    - besto
+    - lago
+    - akvo
+    - kvako
+    
+- divenendo: ansero
+  aŭtoro: Heike Bieler
+  tabuoj:
+    - birdo
+    - besto
+    - anaso
+    - akvo
+    - manĝi
+    
+- divenendo: kapro
+  aŭtoro: Heike Bieler
+  tabuoj:
+    - besto
+    - ŝafo
+    - bovo
+    - salti
+    - barbo
+    
+- divenendo: leporo
+  aŭtoro: Heike Bieler
+  tabuoj:
+    - besto
+    - kuniklo
+    - karoto
+    - orelo
+    - kuri
+    
+- divenendo: kuniklo
+  aŭtoro: Heike Bieler
+  tabuoj:
+    - besto
+    - leporo
+    - karoto
+    - orelo
+    - ronĝi
+    
+- divenendo: kapreolo
+  aŭtoro: Heike Bieler
+  tabuoj:
+    - besto
+    - cervo
+    - arbaro
+    - ĉasi
+    - timi
+    
+- divenendo: cervo
+  aŭtoro: Heike Bieler
+  tabuoj:
+    - besto
+    - kapreolo
+    - arbaro
+    - ĉasi
+    - korno
+    
+- divenendo: apro
+  aŭtoro: Heike Bieler
+  tabuoj:
+    - besto
+    - porko
+    - arbaro
+    - ĉasi
+    - Obelikso
+    
+- divenendo: rato
+  aŭtoro: Heike Bieler
+  tabuoj:
+    - besto
+    - muso
+    - urbo
+    - kanalo
+    - ronĝi
+    
+- divenendo: kobajo
+  aŭtoro: Heike Bieler
+  tabuoj:
+    - besto
+    - infano
+    - porko
+    - hamstro
+    - ronĝi
+    
+- divenendo: hamstro
+  aŭtoro: Heike Bieler
+  tabuoj:
+    - besto
+    - kobajo
+    - kaĝo
+    - kuri
+    - ronĝi
+    
+- divenendo: kastoro
+  aŭtoro: Heike Bieler
+  tabuoj:
+    - besto
+    - konstrui
+    - akvo
+    - vosto
+    - ronĝi
+    
+- divenendo: ronĝi
+  aŭtoro: Heike Bieler
+  tabuoj:
+    - manĝi
+    - mordi
+    - dento
+    - rato
+    - kastoro
+    
+- divenendo: lupo
+  aŭtoro: Heike Bieler
+  tabuoj:
+    - besto
+    - hundo
+    - hurli
+    - sovaĝa
+    - arbaro
+    
+- divenendo: najtingalo
+  aŭtoro: Heike Bieler
+  tabuoj:
+    - birdo
+    - nokto
+    - kanti
+    - voĉo
+    - printempo
+    
+- divenendo: alaŭdo
+  aŭtoro: Heike Bieler
+  tabuoj:
+    - birdo
+    - kanti
+    - mateno
+    - najtingalo
+    - melodio
+    
+- divenendo: sturgo
+  aŭtoro: Heike Bieler
+  tabuoj:
+    - fiŝo
+    - ovo
+    - kaviaro
+    - frajo
+    - naĝi
+    
+- divenendo: kolzo
+  aŭtoro: Heike Bieler
+  tabuoj:
+    - planto
+    - flava
+    - kampo
+    - oleo
+    - printempo
+    
+- divenendo: aveno
+  aŭtoro: Heike Bieler
+  tabuoj:
+    - greno
+    - cerealo
+    - kaĉo
+    - floko
+    - ĉevalo
+    
+- divenendo: muslio
+  aŭtoro: Heike Bieler
+  tabuoj:
+    - manĝi
+    - cerealo
+    - mateno
+    - nukso
+    - lakto
+    
+- divenendo: sekalo
+  aŭtoro: Heike Bieler
+  tabuoj:
+    - greno
+    - grajno
+    - pano
+    - hordeo
+    - tritiko
+    
+- divenendo: viskio
+  aŭtoro: Heike Bieler
+  tabuoj:
+    - drinki
+    - trinki
+    - alkoholo
+    - skota
+    - brando
+
+- divenendo: pipro
+  aŭtoro: Heike Bieler
+  tabuoj:
+    - salo
+    - manĝi
+    - pika
+    - spico
+    - nigra
+
+- divenendo: muskato
+  aŭtoro: Heike Bieler
+  tabuoj:
+    - spico
+    - manĝi
+    - semo
+    - froti
+    - kuiri
+
+- divenendo: cinamo
+  aŭtoro: Heike Bieler
+  tabuoj:
+    - spico
+    - manĝi
+    - dolĉa
+    - kristnasko
+    - baki
+
+- divenendo: strato
+  aŭtoro: Heike Bieler
+  tabuoj:
+    - urbo
+    - aŭto
+    - vojo
+    - trotuaro
+    - ŝoseo
+
+- divenendo: trotuaro
+  aŭtoro: Heike Bieler
+  tabuoj:
+    - strato
+    - iri
+    - vojo
+    - urbo
+    - promeni
+
+- divenendo: gruo
+  aŭtoro: Heike Bieler
+  tabuoj:
+    - birdo
+    - konstrui
+    - ĉielo
+    - levi
+    - origamio
+
+- divenendo: zingibro
+  aŭtoro: Heike Bieler
+  tabuoj:
+    - planto
+    - kuiri
+    - spico
+    - akra
+    - Azio
+
+- divenendo: timiano
+  aŭtoro: Heike Bieler
+  tabuoj:
+    - planto
+    - herbo
+    - tusi
+    - odoro
+    - gusto
+
+- divenendo: ajlo
+  aŭtoro: Heike Bieler
+  tabuoj:
+    - cepo
+    - odoro
+    - akra
+    - vampiro
+    - kuiri
+
+- divenendo: glicirizo
+  aŭtoro: Heike Bieler
+  tabuoj:
+    - lakrico
+    - dolĉa
+    - teo
+    - radiko
+    - planto
+
+- divenendo: lanugo
+  aŭtoro: Heike Bieler
+  tabuoj:
+    - plumo
+    - delikata
+    - mola
+    - birdo
+    - kuseno
+
+- divenendo: leontodo
+  aŭtoro: Heike Bieler
+  tabuoj:
+    - herbo
+    - floro
+    - flava
+    - paraŝuto
+    - salato
+
