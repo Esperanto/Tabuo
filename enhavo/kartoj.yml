@@ -7745,7 +7745,7 @@
     - reptilio
     - rampi
     - serpento
-    - kruroj
+    - kruro
     - besto
 
 - divenendo: kameleono
@@ -8261,3 +8261,596 @@
     - ŝmiri
     - koloro
     
+- divenendo: melo
+  aŭtoro: Heike Bieler
+  tabuoj:
+    - besto
+    - strio
+    - nigra
+    - blanka
+    - fosi
+    
+- divenendo: pando
+  aŭtoro: Heike Bieler
+  tabuoj:
+    - urso
+    - blanka
+    - Ĉinio
+    - bambuo
+    - koalo
+    
+- divenendo: kanguruo
+  aŭtoro: Heike Bieler
+  tabuoj:
+    - besto
+    - Aŭstralio
+    - marsupio
+    - sako
+    - salti
+    
+- divenendo: marsupio
+  aŭtoro: Heike Bieler
+  tabuoj:
+    - kanguruo
+    - besto
+    - sako
+    - poŝo
+    - bebo
+    
+- divenendo: koalo
+  aŭtoro: Heike Bieler
+  tabuoj:
+    - besto
+    - marsupio
+    - Aŭstralio
+    - eŭkalipto
+    - pando
+    
+- divenendo: foko
+  aŭtoro: Heike Bieler
+  tabuoj:
+    - maro
+    - hundo
+    - dika
+    - naĝi
+    - besto
+    
+- divenendo: pigo
+  aŭtoro: Heike Bieler
+  tabuoj:
+    - birdo
+    - korvo
+    - ŝteli
+    - blanka
+    - nigra
+    
+- divenendo: pego
+  aŭtoro: Heike Bieler
+  tabuoj:
+    - birdo
+    - arbo
+    - frapi
+    - beko
+    - bunta
+    
+- divenendo: muskolo
+  aŭtoro: Heike Bieler
+  tabuoj:
+    - movi
+    - korpo
+    - osto
+    - spasmo
+    - forta
+    
+- divenendo: nervo
+  aŭtoro: Heike Bieler
+  tabuoj:
+    - muskolo
+    - stimuli
+    - senti
+    - cerbo
+    - sistemo
+    
+- divenendo: Aĥila tendeno
+  aŭtoro: Heike Bieler
+  tabuoj:
+    - muskolo
+    - osto
+    - korpo
+    - elasta
+    - kalkano
+    
+- divenendo: nuko
+  aŭtoro: Heike Bieler
+  tabuoj:
+    - kolo
+    - kapo
+    - antaŭ
+    - ŝultro
+    - klini
+    
+- divenendo: vango
+  aŭtoro: Heike Bieler
+  tabuoj:
+    - vizaĝo
+    - barbo
+    - flanko
+    - bati
+    - nazo
+    
+- divenendo: kolo
+  aŭtoro: Heike Bieler
+  tabuoj:
+    - korpo
+    - kapo
+    - ŝultro
+    - ĝirafo
+    - ansero
+    
+- divenendo: palpebro
+  aŭtoro: Heike Bieler
+  tabuoj:
+    - okulo
+    - haŭto
+    - haro
+    - ŝminki
+    - fermi
+    
+- divenendo: brovo
+  aŭtoro: Heike Bieler
+  tabuoj:
+    - okulo
+    - haro
+    - arko
+    - vizaĝo
+    - palpebro
+    
+- divenendo: frunto
+  aŭtoro: Heike Bieler
+  tabuoj:
+    - kapo
+    - vizaĝo
+    - cerbo
+    - okulo
+    - brovo
+    
+- divenendo: tempio
+  aŭtoro: Heike Bieler
+  tabuoj:
+    - kapo
+    - vizaĝo
+    - flanko
+    - cerbo
+    - orelo
+    
+- divenendo: lipo
+  aŭtoro: Heike Bieler
+  tabuoj:
+    - buŝo
+    - kisi
+    - ruĝa
+    - dento
+    - vizaĝo
+    
+- divenendo: mentono
+  aŭtoro: Heike Bieler
+  tabuoj:
+    - vizaĝo
+    - barbo
+    - buŝo
+    - kolo
+    - lipo
+    
+- divenendo: palato
+  aŭtoro: Heike Bieler
+  tabuoj:
+    - buŝo
+    - lango
+    - gusto
+    - velo
+    - gluti
+
+- divenendo: gingivo
+  aŭtoro: Heike Bieler
+  tabuoj:
+    - buŝo
+    - dento
+    - makzelo
+    - paradontozo
+    - karno
+    
+- divenendo: makzelo
+  aŭtoro: Heike Bieler
+  tabuoj:
+    - buŝo
+    - dento
+    - osto
+    - maĉi
+    - manĝi
+    
+- divenendo: plombo
+  aŭtoro: Heike Bieler
+  tabuoj:
+    - dento
+    - ŝtopi
+    - kario
+    - hidrargo
+    - truo
+    
+- divenendo: brusto
+  aŭtoro: Heike Bieler
+  tabuoj:
+    - korpo
+    - ventro
+    - dorso
+    - pulmo
+    - mamo
+    
+- divenendo: mamo
+  aŭtoro: Heike Bieler
+  tabuoj:
+    - korpo
+    - ino
+    - brusto
+    - bebo
+    - lakto
+    
+- divenendo: brako
+  aŭtoro: Heike Bieler
+  tabuoj:
+    - korpo
+    - mano
+    - ŝultro
+    - kubuto
+    - tentaklo
+  
+- divenendo: pojno
+  aŭtoro: Heike Bieler
+  tabuoj:
+    - mano
+    - artiko
+    - horloĝo
+    - brako
+    - movi      
+    
+- divenendo: artiko
+  aŭtoro: Heike Bieler
+  tabuoj:
+    - korpo
+    - kubuto
+    - genuo
+    - movi
+    - ligi          
+    
+- divenendo: polmo
+  aŭtoro: Heike Bieler
+  tabuoj:
+    - mano
+    - pugno
+    - falto
+    - linio
+    - interna
+    
+- divenendo: arterio
+  aŭtoro: Heike Bieler
+  tabuoj:
+    - sango
+    - koro
+    - tubo
+    - vejno
+    - pulso
+    
+- divenendo: gambo
+  aŭtoro: Heike Bieler
+  tabuoj:
+    - kruro
+    - piedo
+    - femuro
+    - stari
+    - genuo
+    
+- divenendo: kruro
+  aŭtoro: Heike Bieler
+  tabuoj:
+    - piedo
+    - sub
+    - gambo
+    - stari
+    - genuo
+    
+- divenendo: femuro
+  aŭtoro: Heike Bieler
+  tabuoj:
+    - kokso
+    - genuo
+    - kruro
+    - gambo
+    - korpo
+    
+- divenendo: kokso
+  aŭtoro: Heike Bieler
+  tabuoj:
+    - korpo
+    - osto
+    - svingi
+    - talio
+    - larĝa
+    
+- divenendo: kalkanumo
+  aŭtoro: Heike Bieler
+  tabuoj:
+    - ŝuo
+    - ina
+    - piedo
+    - plando
+    - stari
+    
+- divenendo: plando
+  aŭtoro: Heike Bieler
+  tabuoj:
+    - piedo
+    - sub
+    - kalkano
+    - stari
+    - ŝuo
+
+- divenendo: intesto
+  aŭtoro: Heike Bieler
+  tabuoj:
+    - korpo
+    - ventro
+    - organo
+    - digesti
+    - stomako
+
+- divenendo: veziko
+  aŭtoro: Heike Bieler
+  tabuoj:
+    - aero
+    - sapo
+    - ventro
+    - reno
+    - urino
+
+- divenendo: hepato
+  aŭtoro: Heike Bieler
+  tabuoj:
+    - korpo
+    - ventro
+    - organo
+    - galo
+    - stomako         
+
+- divenendo: galo
+  aŭtoro: Heike Bieler
+  tabuoj:
+    - korpo
+    - likvo
+    - organo
+    - veziko
+    - digesti      
+
+- divenendo: reno
+  aŭtoro: Heike Bieler
+  tabuoj:
+    - korpo
+    - ventro
+    - organo
+    - hepato
+    - urino   
+
+- divenendo: akselo
+  aŭtoro: Heike Bieler
+  tabuoj:
+    - korpo
+    - brako
+    - ŝultro
+    - haro
+    - ŝvito  
+
+- divenendo: suro
+  aŭtoro: Heike Bieler
+  tabuoj:
+    - korpo
+    - kruro
+    - muskolo
+    - spasmo
+    - kuri 
+
+- divenendo: laktuko
+  aŭtoro: Heike Bieler
+  tabuoj:
+    - legomo
+    - verda
+    - salato
+    - kapo
+    - folio 
+
+- divenendo: sambuko
+  aŭtoro: Heike Bieler
+  tabuoj:
+    - planto
+    - arbedo
+    - floro
+    - frukto
+    - suko
+
+- divenendo: cidonio
+  aŭtoro: Heike Bieler
+  tabuoj:
+    - arbo
+    - frukto
+    - marmelado
+    - flava
+    - pomo
+
+- divenendo: eglanterio
+  aŭtoro: Heike Bieler
+  tabuoj:
+    - rozo
+    - piki
+    - frukto
+    - teo
+    - ruĝa
+
+- divenendo: urtiko
+  aŭtoro: Heike Bieler
+  tabuoj:
+    - herbo
+    - piki
+    - haŭto
+    - kuraca
+    - planto
+
+- divenendo: floro
+  aŭtoro: Heike Bieler
+  tabuoj:
+    - planto
+    - ĝardeno
+    - koloro
+    - abelo
+    - bukedo
+
+- divenendo: granda
+  aŭtoro: Heike Bieler
+  tabuoj:
+    - vasta
+    - larĝa
+    - dika
+    - alta
+    - kreski
+
+- divenendo: ronda
+  aŭtoro: Heike Bieler
+  tabuoj:
+    - cirklo
+    - globo
+    - pilko
+    - rado
+    - formo
+
+- divenendo: mola
+  aŭtoro: Heike Bieler
+  tabuoj:
+    - lanugo
+    - kuseno
+    - kaĉo
+    - fleksi
+    - premi
+
+- divenendo: rapida
+  aŭtoro: Heike Bieler
+  tabuoj:
+    - tempo
+    - kuri
+    - flugi
+    - movi
+    - heliko
+
+- divenendo: nova
+  aŭtoro: Heike Bieler
+  tabuoj:
+    - freŝa
+    - juna
+    - aktuala
+    - aĉeti
+    - uzi
+
+- divenendo: movi
+  aŭtoro: Heike Bieler
+  tabuoj:
+    - transporti
+    - loko
+    - ŝanĝi
+    - pozicio
+    - iri
+
+- divenendo: trinki
+  aŭtoro: Heike Bieler
+  tabuoj:
+    - manĝi
+    - soifa
+    - akvo
+    - buŝo
+    - pisi
+
+- divenendo: vidi
+  aŭtoro: Heike Bieler
+  tabuoj:
+    - okulo
+    - spekti
+    - rigardi
+    - rimarki
+    - trovi
+
+- divenendo: rigardi
+  aŭtoro: Heike Bieler
+  tabuoj:
+    - okulo
+    - vidi
+    - observi
+    - spekti
+    - atento
+
+- divenendo: festo
+  aŭtoro: Heike Bieler
+  tabuoj:
+    - danci
+    - manĝi
+    - okazi
+    - kristnasko
+    - tago
+
+- divenendo: stalo
+  aŭtoro: Heike Bieler
+  tabuoj:
+    - besto
+    - domo
+    - loĝi
+    - fojno
+    - konstrui
+
+- divenendo: fojno
+  aŭtoro: Heike Bieler
+  tabuoj:
+    - herbo
+    - seka
+    - pajlo
+    - manĝi
+    - besto
+
+- divenendo: pajlo
+  aŭtoro: Heike Bieler
+  tabuoj:
+    - greno
+    - tigo
+    - stalo
+    - fojno
+    - kampo
+
+- divenendo: ĉambro
+  aŭtoro: Heike Bieler
+  tabuoj:
+    - domo
+    - loĝi
+    - kuiri
+    - muro
+    - apartamento
+
+- divenendo: lumo
+  aŭtoro: Heike Bieler
+  tabuoj:
+    - lampo
+    - suno
+    - hela
+    - vidi
+    - radio
+
+- divenendo: viando
+  aŭtoro: Heike Bieler
+  tabuoj:
+    - manĝi
+    - besto
+    - karno
+    - vegetara
+    - fiŝo
