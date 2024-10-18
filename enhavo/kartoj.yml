@@ -9107,3 +9107,399 @@
     - ovo
     - voki
     
+- divenendo: mokbirdo
+  aŭtoro: Heike Bieler
+  tabuoj:
+    - birdo
+    - moki
+    - kanti
+    - ŝajni
+    - laŭta
+    
+- divenendo: meleagro
+  aŭtoro: Heike Bieler
+  tabuoj:
+    - birdo
+    - Ameriko
+    - koko
+    - vosto
+    - manĝi
+    
+- divenendo: kormorano
+  aŭtoro: Heike Bieler
+  tabuoj:
+    - birdo
+    - akvo
+    - nigra
+    - fiŝo
+    - ardeo
+    
+- divenendo: ardeo
+  aŭtoro: Heike Bieler
+  tabuoj:
+    - birdo
+    - akvo
+    - griza
+    - fiŝo
+    - cikonio
+    
+- divenendo: spasmo
+  aŭtoro: Heike Bieler
+  tabuoj:
+    - muskolo
+    - doloro
+    - kramfo
+    - suro
+    - magnezio
+    
+- divenendo: cikatro
+  aŭtoro: Heike Bieler
+  tabuoj:
+    - haŭto
+    - makulo
+    - vundo
+    - operacio
+    - resti
+ 
+- divenendo: hematomo
+  aŭtoro: Heike Bieler
+  tabuoj:
+    - haŭto
+    - blua
+    - makulo
+    - sango
+    - kisi
+    
+- divenendo: plastro
+  aŭtoro: Heike Bieler
+  tabuoj:
+    - vundo
+    - glui
+    - bandaĝo
+    - haŭto
+    - sango
+    
+- divenendo: bandaĝo
+  aŭtoro: Heike Bieler
+  tabuoj:
+    - vundo
+    - volvi
+    - fiksi
+    - blanka
+    - plastro
+
+- divenendo: apoteko
+  aŭtoro: Heike Bieler
+  tabuoj:
+    - medikamento
+    - pilolo
+    - kuraci
+    - sana
+    - vendi
+
+- divenendo: pilolo
+  aŭtoro: Heike Bieler
+  tabuoj:
+    - medikamento
+    - apoteko
+    - sana
+    - ronda
+    - gluti
+
+- divenendo: rinito
+  aŭtoro: Heike Bieler
+  tabuoj:
+    - nazo
+    - sana
+    - varma
+    - muko
+    - terni
+
+- divenendo: muko
+  aŭtoro: Heike Bieler
+  tabuoj:
+    - nazo
+    - likva
+    - akvo
+    - sana
+    - alergio
+
+- divenendo: ŝlimo
+  aŭtoro: Heike Bieler
+  tabuoj:
+    - tero
+    - akvo
+    - lago
+    - seka
+    - bruna
+
+- divenendo: ŝvito
+  aŭtoro: Heike Bieler
+  tabuoj:
+    - korpo
+    - akvo
+    - odori
+    - sporto
+    - varma
+
+- divenendo: salivo
+  aŭtoro: Heike Bieler
+  tabuoj:
+    - buŝo
+    - likva
+    - kraĉi
+    - gluti
+    - digesti
+
+- divenendo: kraĉi
+  aŭtoro: Heike Bieler
+  tabuoj:
+    - salivo
+    - buŝo
+    - gorĝo
+    - gargari
+    - tusi
+
+- divenendo: gargari
+  aŭtoro: Heike Bieler
+  tabuoj:
+    - lavi
+    - gorĝo
+    - buŝo
+    - dento
+    - akvo
+
+- divenendo: juki
+  aŭtoro: Heike Bieler
+  tabuoj:
+    - haŭto
+    - piki
+    - senti
+    - grati
+    - kulo
+
+- divenendo: grati
+  aŭtoro: Heike Bieler
+  tabuoj:
+    - ungo
+    - juki
+    - froti
+    - surfaco
+    - skrapi
+
+- divenendo: skrapi
+  aŭtoro: Heike Bieler
+  tabuoj:
+    - surfaco
+    - for
+    - gumo
+    - grati
+    - broso
+   
+- divenendo: spico
+  aŭtoro: Heike Bieler
+  tabuoj:
+    - gusto
+    - kuiri
+    - herbo
+    - pipro
+    - manĝi
+
+- divenendo: apetito
+  aŭtoro: Heike Bieler
+  tabuoj:
+    - manĝi
+    - bona
+    - deziri
+    - senti
+    - sata
+
+- divenendo: menuo
+  aŭtoro: Heike Bieler
+  tabuoj:
+    - manĝi
+    - restoracio
+    - elekti
+    - listo
+    - plado
+
+- divenendo: gusto
+  aŭtoro: Heike Bieler
+  tabuoj:
+    - manĝi
+    - bona
+    - plaĉi
+    - ŝati
+    - palato
+
+- divenendo: pikniko
+  aŭtoro: Heike Bieler
+  tabuoj:
+    - manĝi
+    - parko
+    - somero
+    - ekstera
+    - sidi
+
+- divenendo: parko
+  aŭtoro: Heike Bieler
+  tabuoj:
+    - ĝardeno
+    - herbo
+    - benko
+    - arbo
+    - promeni
+    
+- divenendo: lekanteto
+  aŭtoro: Heike Bieler
+  tabuoj:
+    - floro
+    - blanka
+    - herbo
+    - leontodo
+    - ornami
+
+- divenendo: koloro
+  aŭtoro: Heike Bieler
+  tabuoj:
+    - bunta
+    - blua
+    - blanka
+    - nigra
+    - ruĝa
+
+- divenendo: blua
+  aŭtoro: Heike Bieler
+  tabuoj:
+    - koloro
+    - ĉielo
+    - akvo
+    - ruĝa
+    - verda
+
+- divenendo: ruĝa
+  aŭtoro: Heike Bieler
+  tabuoj:
+    - koloro
+    - varma
+    - flava
+    - oranĝa
+    - verda
+
+- divenendo: oranĝa
+  aŭtoro: Heike Bieler
+  tabuoj:
+    - koloro
+    - ruĝa
+    - flava
+    - bruna
+    - citrono
+
+- divenendo: purpura
+  aŭtoro: Heike Bieler
+  tabuoj:
+    - koloro
+    - ruĝa
+    - viola
+    - blua
+    - pruno
+
+- divenendo: relo
+  aŭtoro: Heike Bieler
+  tabuoj:
+    - fero
+    - vojo
+    - trajno
+    - stango
+    - gvidi
+
+- divenendo: trakforko
+  aŭtoro: Heike Bieler
+  tabuoj:
+    - relo
+    - fero
+    - ŝanĝi
+    - direkto
+    - branĉo
+
+- divenendo: ŝtalo
+  aŭtoro: Heike Bieler
+  tabuoj:
+    - fero
+    - mola
+    - konstrui
+    - metalo
+    - forĝi
+
+- divenendo: kojno
+  aŭtoro: Heike Bieler
+  tabuoj:
+    - angulo
+    - fiksi
+    - ligno
+    - pordo
+    - fendi
+    
+
+- divenendo: kahelo
+  aŭtoro: Heike Bieler
+  tabuoj:
+    - muro
+    - tabulo
+    - ornamo
+    - ceramiko
+    - forno
+
+- divenendo: tapeto
+  aŭtoro: Heike Bieler
+  tabuoj:
+    - muro
+    - papero
+    - ĉambro
+    - glui
+    - nova
+
+- divenendo: farbo
+  aŭtoro: Heike Bieler
+  tabuoj:
+    - koloro
+    - ŝmiri
+    - bildo
+    - pentri
+    - peniko
+
+- divenendo: sitelo
+  aŭtoro: Heike Bieler
+  tabuoj:
+    - ujo
+    - akvo
+    - litro
+    - puto
+    - porti
+
+- divenendo: loĝi
+  aŭtoro: Heike Bieler
+  tabuoj:
+    - domo
+    - ĉambro
+    - urbo
+    - hejmo
+    - tendo
+
+- divenendo: konstrui
+  aŭtoro: Heike Bieler
+  tabuoj:
+    - domo
+    - briko
+    - muro
+    - ŝtalo
+    - arkitekt(ur)o
+
+- divenendo: kupolo
+  aŭtoro: Heike Bieler
+  tabuoj:
+    - domo
+    - konstrui
+    - arkitekturo
+    - tegmento
+    - ronda
