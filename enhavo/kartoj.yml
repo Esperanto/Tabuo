@@ -9504,3 +9504,399 @@
     - tegmento
     - ronda
         
+- divenendo: arkitekturo
+  aŭtoro: Heike Bieler
+  tabuoj:
+    - konstrui
+    - domo
+    - ponto
+    - plano
+    - fako
+
+- divenendo: gargojlo
+  aŭtoro: Heike Bieler
+  tabuoj:
+    - tegmento
+    - skulpti
+    - akvo
+    - pluvo
+    - monstro
+
+- divenendo: forĝi
+  aŭtoro: Heike Bieler
+  tabuoj:
+    - metalo
+    - fajro
+    - martelo
+    - amboso
+    - glavo
+    
+- divenendo: fendi
+  aŭtoro: Heike Bieler
+  tabuoj:
+    - disi
+    - atomo
+    - parto
+    - kojno
+    - rompi
+    
+- divenendo: falĉi
+  aŭtoro: Heike Bieler
+  tabuoj:
+    - herbo
+    - greno
+    - tranĉi
+    - rikolti
+    - morto
+    
+- divenendo: rikolti
+  aŭtoro: Heike Bieler
+  tabuoj:
+    - aŭtuno
+    - fruktoj
+    - semi
+    - agro
+    - ĝardeno
+    
+- divenendo: labori
+  aŭtoro: Heike Bieler
+  tabuoj:
+    - salajro
+    - produkti
+    - ŝviti
+    - tasko
+    - profesio
+
+- divenendo: ŝovelilo
+  aŭtoro: Heike Bieler
+  tabuoj:
+    - ŝuti
+    - balai
+    - polvo
+    - sablo
+    - ŝpato
+
+- divenendo: ŝpato
+  aŭtoro: Heike Bieler
+  tabuoj:
+    - fosi
+    - ŝoveli
+    - tero
+    - ĝardeno
+    - tranĉi
+
+- divenendo: glavo
+  aŭtoro: Heike Bieler
+  tabuoj:
+    - armo
+    - skermi
+    - spado
+    - tranĉi
+    - duelo
+
+- divenendo: spado
+  aŭtoro: Heike Bieler
+  tabuoj:
+    - armo
+    - skermi
+    - rapiro
+    - glavo
+    - klingo
+
+- divenendo: rapiro
+  aŭtoro: Heike Bieler
+  tabuoj:
+    - sporto
+    - skermi
+    - spado
+    - glavo
+    - duelo
+
+- divenendo: skermi
+  aŭtoro: Heike Bieler
+  tabuoj:
+    - sporto
+    - batalo
+    - glavo
+    - spado
+    - turniro
+
+- divenendo: arbitraciisto
+  aŭtoro: Heike Bieler
+  tabuoj:
+    - sporto
+    - regulo
+    - decidi
+    - neŭtrala
+    - juĝi
+
+- divenendo: Olimpiko
+  aŭtoro: Heike Bieler
+  tabuoj:
+    - sporto
+    - konkuro
+    - ludo
+    - kvar
+    - internacia
+
+- divenendo: reko
+  aŭtoro: Heike Bieler
+  tabuoj:
+    - sporto
+    - gimnastiko
+    - stango
+    - alta
+    - turni
+
+- divenendo: trampolino
+  aŭtoro: Heike Bieler
+  tabuoj:
+    - salti
+    - gimnastiko
+    - risorto
+    - alta
+    - sporto
+
+- divenendo: surftabulo
+  aŭtoro: Heike Bieler
+  tabuoj:
+    - akvo
+    - naĝi
+    - ondo
+    - rajdi
+    - breto
+
+- divenendo: gimnastiko
+  aŭtoro: Heike Bieler
+  tabuoj:
+    - sporto
+    - tapiŝo
+    - ekzerci
+    - atleto
+    - mateno
+
+- divenendo: sporto
+  aŭtoro: Heike Bieler
+  tabuoj:
+    - kuri
+    - gimnastiko
+    - atleto
+    - trejni
+    - korpo
+
+- divenendo: tineo
+  aŭtoro: Heike Bieler
+  tabuoj:
+    - besto
+    - insekto
+    - papilio
+    - raŭpo
+    - vesto
+
+- divenendo: ĝibo
+  aŭtoro: Heike Bieler
+  tabuoj:
+    - kamelo
+    - dromedaro
+    - dorso
+    - Kvazimodo
+    - monto
+
+- divenendo: tufo
+  aŭtoro: Heike Bieler
+  tabuoj:
+    - aro
+    - haro
+    - peniko
+    - grebo
+    - linko
+
+- divenendo: skvamo
+  aŭtoro: Heike Bieler
+  tabuoj:
+    - fiŝo
+    - haŭto
+    - kapo
+    - blanka
+    - ŝampuo
+
+- divenendo: kompaso
+  aŭtoro: Heike Bieler
+  tabuoj:
+    - direkto
+    - magneto
+    - mapo
+    - nordo
+    - sudo
+    
+- divenendo: sudo
+  aŭtoro: Heike Bieler
+  tabuoj:
+    - kompaso
+    - nordo
+    - direkto
+    - suno
+    - mapo
+
+- divenendo: oriento
+  aŭtoro: Heike Bieler
+  tabuoj:
+    - kompaso
+    - okcidento
+    - suno
+    - direkto
+    - Azio
+
+- divenendo: okcidento
+  aŭtoro: Heike Bieler
+  tabuoj:
+    - kompaso
+    - oriento
+    - sudo
+    - nordo
+    - direkto
+
+- divenendo: lando
+  aŭtoro: Heike Bieler
+  tabuoj:
+    - limo
+    - kontinento
+    - ŝtato
+    - teritorio
+    - vivi
+
+- divenendo: ŝtato
+  aŭtoro: Heike Bieler
+  tabuoj:
+    - limo
+    - regi
+    - lando
+    - teritorio
+    - loĝi
+
+- divenendo: politiko
+  aŭtoro: Heike Bieler
+  tabuoj:
+    - ŝtato
+    - socio
+    - baloti
+    - milito
+    - decidi
+
+- divenendo: diktaturo
+  aŭtoro: Heike Bieler
+  tabuoj:
+    - politiko
+    - regi
+    - obei
+    - ŝtato
+    - potenco
+
+- divenendo: demokratio
+  aŭtoro: Heike Bieler
+  tabuoj:
+    - popolo
+    - regi
+    - baloti
+    - politiko
+    - voĉo
+
+- divenendo: baloti
+  aŭtoro: Heike Bieler
+  tabuoj:
+    - voĉo
+    - demokratio
+    - regi
+    - elekti
+    - parlamento
+
+- divenendo: bremso
+  aŭtoro: Heike Bieler
+  tabuoj:
+    - halti
+    - aŭto
+    - biciklo
+    - rapida
+    - veturi
+
+- divenendo: ŝoseo
+  aŭtoro: Heike Bieler
+  tabuoj:
+    - vojo
+    - aŭto
+    - asfalto
+    - strato
+    - veturi
+
+- divenendo: trafiko
+  aŭtoro: Heike Bieler
+  tabuoj:
+    - aŭto
+    - trajno
+    - transporto
+    - urbo
+    - movo
+
+- divenendo: transporto
+  aŭtoro: Heike Bieler
+  tabuoj:
+    - aŭto
+    - movi
+    - publika
+    - rado
+    - loko
+
+- divenendo: metroo
+  aŭtoro: Heike Bieler
+  tabuoj:
+    - veturi
+    - tunelo
+    - sub
+    - trajno
+    - transporto
+
+- divenendo: kabrioleto
+  aŭtoro: Heike Bieler
+  tabuoj:
+    - aŭto
+    - tegmento
+    - veturi
+    - fermi
+    - kupeo
+
+- divenendo: kaleŝo
+  aŭtoro: Heike Bieler
+  tabuoj:
+    - aŭto
+    - ĉevalo
+    - veturi
+    - ĉaro
+    - transporti
+
+- divenendo: motorciklo
+  aŭtoro: Heike Bieler
+  tabuoj:
+    - aŭto
+    - biciklo
+    - veturi
+    - strato
+    - rado
+
+- divenendo: marŝi
+  aŭtoro: Heike Bieler
+  tabuoj:
+    - iri
+    - paŝi
+    - vojo
+    - promeni
+    - piedo
+
+- divenendo: promeni
+  aŭtoro: Heike Bieler
+  tabuoj:
+    - iri
+    - ekskursi
+    - urbo
+    - plaĝo
+    - plezuro
+    
